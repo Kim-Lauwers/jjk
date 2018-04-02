@@ -1,3 +1,52 @@
 baseURL = "http://www.jujitsukeerbergen.be"
 languageCode = "nl-BE"
 title = "Ju-Jitsu Keerbergen VZW"
+paginate = 6
+
+[permalinks]
+    news = "/:section/:year/:month/:day/:slug/"
+
+# Variables For Site Navigation
+
+[[menu.global]]
+    name = "Wat is Ju-Jitsu"
+    identifier = ""
+    url = "/wat-is-ju-jitsu"
+    weight = 1
+
+[[menu.global]]
+    name = "Wie zijn wij"
+    identifier = ""
+    url = "/trainers"
+    weight = 5
+
+[[menu.global]]
+    name = "Club"
+    identifier = "club"
+    url = "/club"
+    weight = 10
+
+
+[[menu.global]]
+    name = "Trainingen"
+    identifier = "trainingen"
+    url = "/trainingen"
+    weight = 15
+
+[[menu.global]]
+    name = "Nieuws"
+    identifier = "news"
+    url = "/nieuws"
+    weight = 20
+
+[[menu.global]]
+    name = "Contact"
+    identifier = "contact"
+    url = "/#contact-info"
+    weight = 40
+
+[[menu.global]]
+    name = "Links"
+    identifier = "links"
+    url = "/links"
+    weight = 160
