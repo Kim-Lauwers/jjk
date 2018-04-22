@@ -44,7 +44,7 @@
 
             <!-- Banner -->
             <div id="banner-wrapper">
-                {{ range first 1 (where (where .Site.Pages "Section" "news") "IsPage" true) }}
+                {{ range first 1 (where (where .Site.Pages "Section" "nieuws") "IsPage" true) }}
                 <section id="banner">
                     <h2>Het laatste nieuws</h2>
                     <p>
@@ -59,10 +59,12 @@
             <!-- Main -->
             <div id="main-wrapper">
                 <div id="main" class="container">
+
+                    <!-- Icons/Hightlight - not active for now
+
                     <div class="row 200%">
                         <div class="12u">
 
-                            <!-- Highlight -->
                             <section class="box highlight">
                                 <ul class="special">
                                     <li><a href="#" class="icon fa-search"><span class="label">Magnifier</span></a></li>
@@ -82,20 +84,23 @@
 
                         </div>
                     </div>
+
+                    -->
+
                     <div class="row 200%">
                         <div class="12u">
 
                             <!-- Features -->
                             <section class="box features">
-                                <h2 class="major"><span>A Major Heading</span></h2>
+                                <h2 class="major"><span>Ju-Jitsu Keerbergen VZW</span></h2>
                                 <div>
                                     <div class="row">
                                         <div class="3u 12u(mobile)">
 
                                             <!-- Feature -->
                                             <section class="box feature">
-                                                <a href="#" class="image featured"><img src="images/pic01.jpg" alt=""/></a>
-                                                <h3><a href="#">A Subheading</a></h3>
+                                                <a href="#" class="image featured"><img src="images/pic01.jpg" alt="Trainers"/></a>
+                                                <h3><a href="/trainers">Trainers</a></h3>
                                                 <p>
                                                     Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
                                                     lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.

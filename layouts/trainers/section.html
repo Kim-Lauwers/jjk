@@ -1,0 +1,7 @@
+{{ define "main" }}
+
+{{ range $.Site.Data.trainers }}
+    {{ partial "trainer.html" . }}
+{{ end }}
+
+{{ end }}

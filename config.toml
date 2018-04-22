@@ -2,9 +2,10 @@ baseURL = "http://www.jujitsukeerbergen.be"
 languageCode = "nl-BE"
 title = "Ju-Jitsu Keerbergen VZW"
 paginate = 6
+theme = "txt"
 
 [permalinks]
-    news = "/:section/:year/:month/:day/:slug/"
+    nieuws = "/:section/:year/:month/:day/:slug/"
 
 # Variables For Site Navigation
 
@@ -35,7 +36,7 @@ paginate = 6
 
 [[menu.global]]
     name = "Nieuws"
-    identifier = "news"
+    identifier = "nieuws"
     url = "/nieuws"
     weight = 20
 

@@ -1,0 +1,19 @@
+name = "Kim Lauwers"
+danGraden = [
+            "5de DAN Ju-Jitsu",
+            "2de DAN Ju-Jitsu"
+            ]
+diplomas = [
+            "A-trainer Ju-Jitsu VTS - BLOSO",
+             "Gediplomeerd Jeugdsportcoördinator VTS - BLOSO",
+             "Gediplomeerd multimove begeleider VTS - BLOSO",
+             "Initiator Judo VTS - BLOSO",
+             "Gediplomeerd begeleider van sportende senioren VTS - BLOSO",
+             "Gediplomeerd begeleider van sporters met een handicap VTS - BLOSO"
+            ]
+palmares = [
+            "2018 - BK Judo Masters (- 60 kg) - Zilver (Vice-Belgisch Kampioen)",
+            "2018 - BK Judo Masters (open categorie) - Brons"
+            ]
+imageSrc = "http://lh6.ggpht.com/_NwJtKbytX-E/Stjmc-8OiFI/AAAAAAAAAEU/Hyzx1rLKYXw/kim.jpg"
+weight = "1"
