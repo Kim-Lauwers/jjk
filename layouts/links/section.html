@@ -1,0 +1,7 @@
+{{ define "main" }}
+
+{{ range $.Site.Data.links }}
+    {{ partial "links.html" . }}
+{{ end }}
+
+{{ end }}
