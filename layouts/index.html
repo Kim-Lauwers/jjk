@@ -1,9 +1,4 @@
 <!DOCTYPE HTML>
-<!--
-	TXT by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
     <head>
         <title>{{ .Site.Title }}</title>
@@ -33,7 +28,7 @@
                 <ul>
                     {{ $currentPage := . }}
                     {{ range .Site.Menus.global.ByWeight }}
-                    <li class="{{if or ($currentPage.IsMenuCurrent " current " .) ($currentPage.HasMenuCurrent "current" .) }}current-menu-item{{end}}">
+                    <li class="{{if or ($currentPage.IsMenuCurrent " current" .) ($currentPage.HasMenuCurrent "current" .) }}current-menu-item{{end}}">
                     <a href="{{ .URL }}">
                         {{ .Name }}
                     </a>
@@ -95,12 +90,41 @@
                                 <h2 class="major"><span>Ju-Jitsu Keerbergen VZW</span></h2>
                                 <div>
                                     <div class="row">
+
                                         <div class="3u 12u(mobile)">
 
                                             <!-- Feature -->
                                             <section class="box feature">
-                                                <a href="#" class="image featured"><img src="images/pic01.jpg" alt="Trainers"/></a>
-                                                <h3><a href="/trainers">Trainers</a></h3>
+                                                <a href="#" class="image featured"><img src="images/pic03.jpg" alt="Wat is Ju-Jitsu"/></a>
+                                                <h3><a href="/jujitsu">Wat is Ju-Jitsu</a></h3>
+                                                <p>
+                                                    Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
+                                                    lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
+                                                </p>
+                                            </section>
+
+                                        </div>
+
+                                        <div class="3u 12u(mobile)">
+
+                                            <!-- Feature -->
+                                            <section class="box feature">
+                                                <a href="#" class="image featured"><img src="images/pic01.jpg" alt="Wie zijn wij"/></a>
+                                                <h3><a href="/trainers">Wie zijn wij</a></h3>
+                                                <p>
+                                                    Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
+                                                    lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
+                                                </p>
+                                            </section>
+
+                                        </div>
+
+                                        <div class="3u 12u(mobile)">
+
+                                            <!-- Feature -->
+                                            <section class="box feature">
+                                                <a href="#" class="image featured"><img src="images/pic02.jpg" alt="Club"/></a>
+                                                <h3><a href="/club">Club</a></h3>
                                                 <p>
                                                     Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
                                                     lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
@@ -112,34 +136,8 @@
 
                                             <!-- Feature -->
                                             <section class="box feature">
-                                                <a href="#" class="image featured"><img src="images/pic02.jpg" alt=""/></a>
-                                                <h3><a href="#">Another Subheading</a></h3>
-                                                <p>
-                                                    Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
-                                                    lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
-                                                </p>
-                                            </section>
-
-                                        </div>
-                                        <div class="3u 12u(mobile)">
-
-                                            <!-- Feature -->
-                                            <section class="box feature">
-                                                <a href="#" class="image featured"><img src="images/pic03.jpg" alt=""/></a>
-                                                <h3><a href="#">And Another</a></h3>
-                                                <p>
-                                                    Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
-                                                    lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
-                                                </p>
-                                            </section>
-
-                                        </div>
-                                        <div class="3u 12u(mobile)">
-
-                                            <!-- Feature -->
-                                            <section class="box feature">
-                                                <a href="#" class="image featured"><img src="images/pic04.jpg" alt=""/></a>
-                                                <h3><a href="#">And One More</a></h3>
+                                                <a href="#" class="image featured"><img src="images/pic04.jpg" alt="Trainingen"/></a>
+                                                <h3><a href="/trainingen">Trainingen</a></h3>
                                                 <p>
                                                     Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
                                                     lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
@@ -151,8 +149,7 @@
                                     <div class="row">
                                         <div class="12u">
                                             <ul class="actions">
-                                                <li><a href="#" class="button big">Do Something</a></li>
-                                                <li><a href="#" class="button alt big">Think About It</a></li>
+                                                <li><a href="/contact" class="button big">Contacteer ons</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -166,32 +163,29 @@
 
                             <!-- Blog -->
                             <section class="box blog">
-                                <h2 class="major"><span>Another Major Heading</span></h2>
+                                <h2 class="major"><span>Nieuws</span></h2>
                                 <div>
                                     <div class="row">
                                         <div class="9u 12u(mobile)">
                                             <div class="content content-left">
 
                                                 <!-- Featured Post -->
+                                                {{ range first 1 (where (where .Site.Pages "Section" "nieuws") "IsPage" true) }}
                                                 <article class="box post">
                                                     <header>
-                                                        <h3><a href="#">Here's a really big heading</a></h3>
-                                                        <p>With a smaller subtitle that attempts to elaborate</p>
+                                                        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                                                         <ul class="meta">
-                                                            <li class="icon fa-clock-o">15 minutes ago</li>
-                                                            <li class="icon fa-comments"><a href="#">8</a></li>
+                                                            <li class="icon fa-clock-o">{{ .Date.Format .Site.Params.dateForm }}</li>
+                                                            <li class="icon fa-user"><a href="/trainers">{{ .Params.author }}</a></li>
                                                         </ul>
                                                     </header>
-                                                    <a href="#" class="image featured"><img src="images/pic05.jpg" alt=""/></a>
+                                                    <a href="{{ .Permalink }}" class="image featured"><img src="{{ .Params.homepageImgUrl}}" alt=""/></a>
                                                     <p>
-                                                        Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in lectus. Praesent
-                                                        semper mod quis eget mi. Etiam sed ante risus aliquam erat et volutpat. Praesent a
-                                                        dapibus velit. Curabitur sed nisi nunc, accumsan vestibulum lectus. Lorem ipsum
-                                                        dolor sit non aliquet sed, tempor et dolor. Praesent a dapibus velit. Curabitur
-                                                        accumsan.
+                                                        {{ .Description }}
                                                     </p>
-                                                    <a href="#" class="button">Continue Reading</a>
+                                                    <a href="{{ .Permalink }}" class="button">Lees verder ...</a>
                                                 </article>
+                                                {{ end }}
 
                                             </div>
                                         </div>
@@ -200,53 +194,24 @@
 
                                                 <!-- Archives -->
                                                 <ul class="divided">
+
+                                                    {{ range first 5 (where (where .Site.Pages "Section" "nieuws") "IsPage" true) }}
+
                                                     <li>
                                                         <article class="box post-summary">
-                                                            <h3><a href="#">A Subheading</a></h3>
+                                                            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                                                             <ul class="meta">
-                                                                <li class="icon fa-clock-o">6 hours ago</li>
-                                                                <li class="icon fa-comments"><a href="#">34</a></li>
+                                                                <li class="icon fa-clock-o">{{ .Date.Format .Site.Params.dateForm }}</li>
+                                                                <li class="icon fa-user"><a href="/trainers">{{ .Params.author }}</a></li>
                                                             </ul>
                                                         </article>
                                                     </li>
-                                                    <li>
-                                                        <article class="box post-summary">
-                                                            <h3><a href="#">Another Subheading</a></h3>
-                                                            <ul class="meta">
-                                                                <li class="icon fa-clock-o">9 hours ago</li>
-                                                                <li class="icon fa-comments"><a href="#">27</a></li>
-                                                            </ul>
-                                                        </article>
-                                                    </li>
-                                                    <li>
-                                                        <article class="box post-summary">
-                                                            <h3><a href="#">And Another</a></h3>
-                                                            <ul class="meta">
-                                                                <li class="icon fa-clock-o">Yesterday</li>
-                                                                <li class="icon fa-comments"><a href="#">184</a></li>
-                                                            </ul>
-                                                        </article>
-                                                    </li>
-                                                    <li>
-                                                        <article class="box post-summary">
-                                                            <h3><a href="#">And Another</a></h3>
-                                                            <ul class="meta">
-                                                                <li class="icon fa-clock-o">2 days ago</li>
-                                                                <li class="icon fa-comments"><a href="#">286</a></li>
-                                                            </ul>
-                                                        </article>
-                                                    </li>
-                                                    <li>
-                                                        <article class="box post-summary">
-                                                            <h3><a href="#">And One More</a></h3>
-                                                            <ul class="meta">
-                                                                <li class="icon fa-clock-o">3 days ago</li>
-                                                                <li class="icon fa-comments"><a href="#">8,086</a></li>
-                                                            </ul>
-                                                        </article>
-                                                    </li>
+
+                                                    {{ end }}
+
                                                 </ul>
-                                                <a href="#" class="button alt">Browse Archives</a>
+
+                                                <a href="/nieuws" class="button alt">Ouder nieuws</a>
 
                                             </div>
                                         </div>
@@ -266,7 +231,7 @@
 
                         <!-- About -->
                         <section>
-                            <h2 class="major"><span>What's this about?</span></h2>
+                            <h2 class="major"><span>Ju-Jitsu Keerbergen VZW</span></h2>
                             <p>
                                 This is <strong>TXT</strong>, yet another free responsive site template designed by
                                 <a href="http://twitter.com/ajlkn">AJ</a> for <a href="http://html5up.net">HTML5 UP</a>. It's released under the
@@ -285,11 +250,15 @@
                         <section>
                             <h2 class="major"><span>Get in touch</span></h2>
                             <ul class="contact">
-                                <li><a class="icon fa-facebook" href="#"><span class="label">Facebook</span></a></li>
-                                <li><a class="icon fa-twitter" href="#"><span class="label">Twitter</span></a></li>
-                                <li><a class="icon fa-instagram" href="#"><span class="label">Instagram</span></a></li>
-                                <li><a class="icon fa-dribbble" href="#"><span class="label">Dribbble</span></a></li>
-                                <li><a class="icon fa-google-plus" href="#"><span class="label">Google+</span></a></li>
+                                {{ range .Site.Params.social }}
+                                <li>
+                                    <a target="_blank" href="{{ .url }}">
+                                        <i class="icon fa {{ .icon }}">
+                                            <span class="label">{{ .name }}</span>
+                                        </i>
+                                    </a>
+                                </li>
+                                {{ end }}
                             </ul>
                         </section>
 
@@ -299,8 +268,7 @@
                 <!-- Copyright -->
                 <div id="copyright">
                     <ul class="menu">
-                        <li>&copy; Untitled. All rights reserved</li>
-                        <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                        <li>&copy; Ju-Jitsu Keerbergen VZW. All rights reserved</li>
                     </ul>
                 </div>
 

@@ -7,12 +7,15 @@ theme = "txt"
 [permalinks]
     nieuws = "/:section/:year/:month/:day/:slug/"
 
+[params]
+dateForm = "January 2, 2006"
+
 # Variables For Site Navigation
 
 [[menu.global]]
     name = "Wat is Ju-Jitsu"
     identifier = ""
-    url = "/wat-is-ju-jitsu"
+    url = "/jujitsu"
     weight = 1
 
 [[menu.global]]
@@ -51,3 +54,23 @@ theme = "txt"
     identifier = "links"
     url = "/links"
     weight = 160
+
+# Variables for out of site navigation
+
+[[params.social]]
+	icon = "fa-facebook"
+    name = "Facebook"
+	url = "https://www.facebook.com/groups/357231384348318/"
+    weight = 1
+
+[[params.social]]
+    icon = "fa-twitter"
+    name = "Twitter"
+	url = "https://twitter.com/jjkeerbergen"
+    weight = 5
+
+[[params.social]]
+    icon = "fa-mail-forward"
+    name = "Email"
+	url = "mailto:info@jujitsukeerbergen.be"
+    weight = 10
