@@ -1,6 +1,6 @@
 +++
 title = "Nieuwe site"
-date = 2018-04-02T20:43:02+02:00
+date = 2018-05-01T20:43:02+02:00
 draft = false
 description = "Ju-Jitsu Keerbergen VZW heeft een nieuwe site"
 author = "Kim Lauwers"
