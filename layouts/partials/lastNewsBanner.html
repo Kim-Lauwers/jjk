@@ -1,0 +1,12 @@
+<!-- Banner -->
+<div id="banner-wrapper">
+    {{ range first 1 (where (where .Site.Pages "Section" "nieuws") "IsPage" true) }}
+    <section id="banner">
+        <h2>Het laatste nieuws</h2>
+        <p>
+            {{ .Summary }}
+        </p>
+        <a href="{{ .Permalink }}" class="button">Lees verder ...</a>
+    </section>
+    {{ end }}
+</div>

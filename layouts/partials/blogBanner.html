@@ -1,0 +1,63 @@
+<div class="row 200%">
+    <div class="12u">
+
+        <!-- Blog -->
+        <section class="box blog">
+            <h2 class="major"><span>Nieuws</span></h2>
+            <div>
+                <div class="row">
+                    <div class="9u 12u(mobile)">
+                        <div class="content content-left">
+
+                            <!-- Featured Post -->
+                            {{ range first 1 (where (where .Site.Pages "Section" "nieuws") "IsPage" true) }}
+                            <article class="box post">
+                                <header>
+                                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                                    <ul class="meta">
+                                        <li class="icon fa-clock-o">{{ .Date.Format .Site.Params.dateForm }}</li>
+                                        <li class="icon fa-user"><a href="/trainers">{{ .Params.author }}</a></li>
+                                    </ul>
+                                </header>
+                                <a href="{{ .Permalink }}" class="image featured"><img src="{{ .Params.homepageImgUrl}}" alt=""/></a>
+                                <p>
+                                    {{ .Description }}
+                                </p>
+                                <a href="{{ .Permalink }}" class="button">Lees verder ...</a>
+                            </article>
+                            {{ end }}
+
+                        </div>
+                    </div>
+                    <div class="3u 12u(mobile)">
+                        <div class="sidebar">
+
+                            <!-- Archives -->
+                            <ul class="divided">
+
+                                {{ range first 5 (where (where .Site.Pages "Section" "nieuws") "IsPage" true) }}
+
+                                <li>
+                                    <article class="box post-summary">
+                                        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                                        <ul class="meta">
+                                            <li class="icon fa-clock-o">{{ .Date.Format .Site.Params.dateForm }}</li>
+                                            <li class="icon fa-user"><a href="/trainers">{{ .Params.author }}</a></li>
+                                        </ul>
+                                    </article>
+                                </li>
+
+                                {{ end }}
+
+                            </ul>
+
+                            <a href="/nieuws" class="button alt">Ouder nieuws</a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+</div>

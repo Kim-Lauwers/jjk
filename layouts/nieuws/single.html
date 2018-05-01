@@ -1,5 +1,30 @@
-{{ define "main" }}
-        <div>
-            {{ .Content }}
+<!DOCTYPE HTML>
+<html>
+    {{ partial "head.html" . }}
+    <body class="homepage">
+        <div id="page-wrapper">
+
+            {{ partial "header.html" . }}
+            {{ partial "navigation.html" . }}
+
+            <!-- Main -->
+            <div id="main-wrapper">
+                <div id="main" class="container">
+                    <div class="row 200%">
+                        <div class="12u">
+                            {{ define "main" }}
+                            <div>
+                                {{ .Content }}
+                            </div>
+                            {{ end }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {{ partial "footer.html" . }}
         </div>
-{{ end }}
+
+        {{ partial "scripts.html" . }}
+    </body>
+</html>

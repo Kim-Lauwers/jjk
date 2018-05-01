@@ -1,0 +1,44 @@
+<!-- Footer -->
+<footer id="footer" class="container">
+    <div class="row 200%">
+        <div class="12u">
+
+            <!-- About -->
+            <section>
+                <h2 class="major"><span>Ju-Jitsu Keerbergen VZW</span></h2>
+                <p>
+                    This is <strong>TXT</strong>, yet another free responsive site template designed by
+                    <a href="http://twitter.com/ajlkn">AJ</a> for <a href="http://html5up.net">HTML5 UP</a>. It's released under the
+                    <a href="http://html5up.net/license/">Creative Commons Attribution</a> license so feel free to use it for
+                    whatever you're working on (personal or commercial), just be sure to give us credit for the design.
+                    That's basically it :)
+                </p>
+            </section>
+
+        </div>
+    </div>
+    <div class="row 200%">
+        <div class="12u">
+
+            <!-- Contact -->
+            <section>
+                <h2 class="major"><span>Get in touch</span></h2>
+                <ul class="contact">
+                    {{ range .Site.Params.social }}
+                    <li>
+                        <a target="_blank" href="{{ .url }}">
+                            <i class="icon fa {{ .icon }}">
+                                <span class="label">{{ .name }}</span>
+                            </i>
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </section>
+
+        </div>
+    </div>
+
+    {{ partial "copyright.html" . }}
+
+</footer>

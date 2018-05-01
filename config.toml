@@ -46,7 +46,7 @@ dateForm = "January 2, 2006"
 [[menu.global]]
     name = "Contact"
     identifier = "contact"
-    url = "/#contact-info"
+    url = "/contact"
     weight = 40
 
 [[menu.global]]

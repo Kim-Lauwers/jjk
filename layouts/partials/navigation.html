@@ -1,0 +1,13 @@
+<!-- Nav -->
+<nav id="nav">
+    <ul>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.global.ByWeight }}
+        <li class="{{if or ($currentPage.IsMenuCurrent " current" .) ($currentPage.HasMenuCurrent "current" .) }}current-menu-item{{end}}">
+        <a href="{{ .URL }}">
+            {{ .Name }}
+        </a>
+        </li>
+        {{end}}
+    </ul>
+</nav>

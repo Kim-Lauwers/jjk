@@ -1,87 +1,17 @@
 <!DOCTYPE HTML>
 <html>
-    <head>
-        <title>{{ .Site.Title }}</title>
-        <meta charset="utf-8"/>
-        <meta name="viewport" content="width=device-width, initial-scale=1"/>
-        <!--[if lte IE 8]>
-        <script src="js/ie/html5shiv.js"></script><![endif]-->
-        <link rel="stylesheet" href="css/main.css"/>
-        <!--[if lte IE 8]>
-        <link rel="stylesheet" href="css/ie8.css"/><![endif]-->
-    </head>
+    {{ partial "head.html" . }}
     <body class="homepage">
         <div id="page-wrapper">
 
-            <!-- Header -->
-            <header id="header">
-                <div class="logo container">
-                    <div>
-                        <h1><a href="index.html" id="logo">{{ .Site.Title }}</a></h1>
-                        <p>Een gezonde geest in een gezond lichaam.</p>
-                    </div>
-                </div>
-            </header>
-
-            <!-- Nav -->
-            <nav id="nav">
-                <ul>
-                    {{ $currentPage := . }}
-                    {{ range .Site.Menus.global.ByWeight }}
-                    <li class="{{if or ($currentPage.IsMenuCurrent " current" .) ($currentPage.HasMenuCurrent "current" .) }}current-menu-item{{end}}">
-                    <a href="{{ .URL }}">
-                        {{ .Name }}
-                    </a>
-                    </li>
-                    {{end}}
-                </ul>
-            </nav>
-
-            <!-- Banner -->
-            <div id="banner-wrapper">
-                {{ range first 1 (where (where .Site.Pages "Section" "nieuws") "IsPage" true) }}
-                <section id="banner">
-                    <h2>Het laatste nieuws</h2>
-                    <p>
-                        {{ .Summary }}
-                    </p>
-                    <a href="{{ .Permalink }}" class="button">Lees verder ...</a>
-                </section>
-                {{ end }}
-            </div>
+            {{ partial "header.html" . }}
+            {{ partial "navigation.html" . }}
+            {{ partial "lastNewsBanner.html" . }}
 
 
             <!-- Main -->
             <div id="main-wrapper">
                 <div id="main" class="container">
-
-                    <!-- Icons/Hightlight - not active for now
-
-                    <div class="row 200%">
-                        <div class="12u">
-
-                            <section class="box highlight">
-                                <ul class="special">
-                                    <li><a href="#" class="icon fa-search"><span class="label">Magnifier</span></a></li>
-                                    <li><a href="#" class="icon fa-tablet"><span class="label">Tablet</span></a></li>
-                                    <li><a href="#" class="icon fa-flask"><span class="label">Flask</span></a></li>
-                                    <li><a href="#" class="icon fa-cog"><span class="label">Cog?</span></a></li>
-                                </ul>
-                                <header>
-                                    <h2>A random assortment of icons in circles</h2>
-                                    <p>And some text that attempts to explain their significance</p>
-                                </header>
-                                <p>
-                                    Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu<br/>
-                                    ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus amet pulvinar. Nam nec turpis consequat.
-                                </p>
-                            </section>
-
-                        </div>
-                    </div>
-
-                    -->
-
                     <div class="row 200%">
                         <div class="12u">
 
@@ -158,133 +88,15 @@
 
                         </div>
                     </div>
-                    <div class="row 200%">
-                        <div class="12u">
 
-                            <!-- Blog -->
-                            <section class="box blog">
-                                <h2 class="major"><span>Nieuws</span></h2>
-                                <div>
-                                    <div class="row">
-                                        <div class="9u 12u(mobile)">
-                                            <div class="content content-left">
+                    {{ partial "blogBanner.html" . }}
 
-                                                <!-- Featured Post -->
-                                                {{ range first 1 (where (where .Site.Pages "Section" "nieuws") "IsPage" true) }}
-                                                <article class="box post">
-                                                    <header>
-                                                        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                                                        <ul class="meta">
-                                                            <li class="icon fa-clock-o">{{ .Date.Format .Site.Params.dateForm }}</li>
-                                                            <li class="icon fa-user"><a href="/trainers">{{ .Params.author }}</a></li>
-                                                        </ul>
-                                                    </header>
-                                                    <a href="{{ .Permalink }}" class="image featured"><img src="{{ .Params.homepageImgUrl}}" alt=""/></a>
-                                                    <p>
-                                                        {{ .Description }}
-                                                    </p>
-                                                    <a href="{{ .Permalink }}" class="button">Lees verder ...</a>
-                                                </article>
-                                                {{ end }}
-
-                                            </div>
-                                        </div>
-                                        <div class="3u 12u(mobile)">
-                                            <div class="sidebar">
-
-                                                <!-- Archives -->
-                                                <ul class="divided">
-
-                                                    {{ range first 5 (where (where .Site.Pages "Section" "nieuws") "IsPage" true) }}
-
-                                                    <li>
-                                                        <article class="box post-summary">
-                                                            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                                                            <ul class="meta">
-                                                                <li class="icon fa-clock-o">{{ .Date.Format .Site.Params.dateForm }}</li>
-                                                                <li class="icon fa-user"><a href="/trainers">{{ .Params.author }}</a></li>
-                                                            </ul>
-                                                        </article>
-                                                    </li>
-
-                                                    {{ end }}
-
-                                                </ul>
-
-                                                <a href="/nieuws" class="button alt">Ouder nieuws</a>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
                 </div>
             </div>
 
-            <!-- Footer -->
-            <footer id="footer" class="container">
-                <div class="row 200%">
-                    <div class="12u">
-
-                        <!-- About -->
-                        <section>
-                            <h2 class="major"><span>Ju-Jitsu Keerbergen VZW</span></h2>
-                            <p>
-                                This is <strong>TXT</strong>, yet another free responsive site template designed by
-                                <a href="http://twitter.com/ajlkn">AJ</a> for <a href="http://html5up.net">HTML5 UP</a>. It's released under the
-                                <a href="http://html5up.net/license/">Creative Commons Attribution</a> license so feel free to use it for
-                                whatever you're working on (personal or commercial), just be sure to give us credit for the design.
-                                That's basically it :)
-                            </p>
-                        </section>
-
-                    </div>
-                </div>
-                <div class="row 200%">
-                    <div class="12u">
-
-                        <!-- Contact -->
-                        <section>
-                            <h2 class="major"><span>Get in touch</span></h2>
-                            <ul class="contact">
-                                {{ range .Site.Params.social }}
-                                <li>
-                                    <a target="_blank" href="{{ .url }}">
-                                        <i class="icon fa {{ .icon }}">
-                                            <span class="label">{{ .name }}</span>
-                                        </i>
-                                    </a>
-                                </li>
-                                {{ end }}
-                            </ul>
-                        </section>
-
-                    </div>
-                </div>
-
-                <!-- Copyright -->
-                <div id="copyright">
-                    <ul class="menu">
-                        <li>&copy; Ju-Jitsu Keerbergen VZW. All rights reserved</li>
-                    </ul>
-                </div>
-
-            </footer>
-
+            {{ partial "footer.html" . }}
         </div>
 
-        <!-- Scripts -->
-        <script src="assets/js/jquery.min.js"></script>
-        <script src="assets/js/jquery.dropotron.min.js"></script>
-        <script src="assets/js/skel.min.js"></script>
-        <script src="assets/js/skel-viewport.min.js"></script>
-        <script src="assets/js/util.js"></script>
-        <!--[if lte IE 8]>
-        <script src="assets/js/ie/respond.min.js"></script><![endif]-->
-        <script src="assets/js/main.js"></script>
-
+        {{ partial "scripts.html" . }}
     </body>
 </html>
