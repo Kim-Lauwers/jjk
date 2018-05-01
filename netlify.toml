@@ -3,7 +3,7 @@
   command = "hugo"
 
 [build.environment]
-  HUGO_VERSION = "0.37"
+  HUGO_VERSION = "0.37.1"
 
 [context.draft]
   command = "hugo -b $DEPLOY_PRIME_URL --buildDrafts --buildFuture"
