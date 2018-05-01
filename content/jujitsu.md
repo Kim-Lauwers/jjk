@@ -4,7 +4,7 @@ date = 2018-03-09T11:19:39+01:00
 draft = false
 layout = "jujitsu"
 +++
-Ju-Jitsu
+# Ju-Jitsu
 Ju-Jitsu betekent letterlijk meegaande of zachte, soepele technieken. Verdedigen door mee te gaan met de bewegingen van de aanvaller.
 
 Ju-Jitsu is van origine de vechtkunst van de samoeraikrijgers in Japan. Ju-Jitsu is in zijn oervorm de hardste, zuiver op het doden van de aanvaller, gerichte strijdwijze, een verdedigingstechniek die de capaciteiten van de zwaardvechter aanvulde.
