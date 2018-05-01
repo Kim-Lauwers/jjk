@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+    {{ partial "head.html" . }}
+    <body class="homepage">
+        <div id="page-wrapper">
+
+            {{ partial "header.html" . }}
+            {{ partial "navigation.html" . }}
+
+            <!-- Main -->
+            <div id="main-wrapper">
+                <div id="main" class="container">
+                    <div class="row">
+                        <div class="12u(mobile) important(mobile)">
+                            <div class="content content-left">
+
+                                STILL in PROGRESS
+
+                                <!-- Content -->
+                                {{ range first 1 (where (where .Site.Pages "Section" "nieuws") "IsPage" true) }}
+                                <article class="box page-content">
+                                    <header>
+                                        <h2>{{ .Title }}</h2>
+                                        <ul class="meta">
+                                            <li class="icon fa-clock-o">{{ .Date.Format .Site.Params.dateForm }}</li>
+                                            <li class="icon fa-user"><a href="/trainers">{{ .Params.author }}</a></li>
+                                        </ul>
+                                    </header>
+                                        {{ .Content }}
+                                    </section>
+                                </article>
+                                {{ end }}
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {{ partial "footer.html" . }}
+        </div>
+
+        {{ partial "scripts.html" . }}
+    </body>
+</html>
