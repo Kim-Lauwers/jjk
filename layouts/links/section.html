@@ -1,7 +1,11 @@
 {{ define "main" }}
 
+<h1>Links</h1>
+<ul>
 {{ range $.Site.Data.links }}
 {{ partial "link.html" . }}
 {{ end }}
+</ul>
+Indien u uw link hier ook wenst, gelieve dan even <a href="/contact">contact</a> met ons op te nemen.
 
 {{ end }}
