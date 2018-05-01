@@ -1,34 +1,7 @@
-<!DOCTYPE HTML>
-<html>
-    {{ partial "head.html" . }}
-    <body class="homepage">
-        <div id="page-wrapper">
+{{ define "main" }}
 
-            {{ partial "header.html" . }}
-            {{ partial "navigation.html" . }}
+{{ range $.Site.Data.links }}
+{{ partial "link.html" . }}
+{{ end }}
 
-            <!-- Main -->
-            <div id="main-wrapper">
-                <div id="main" class="container">
-                    <div class="row 200%">
-                        <div class="12u">
-
-                            {{ define "main" }}
-
-                            {{ range $.Site.Data.links }}
-                                {{ partial "links.html" . }}
-                            {{ end }}
-
-                            {{ end }}
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            {{ partial "footer.html" . }}
-        </div>
-
-        {{ partial "scripts.html" . }}
-    </body>
-</html>
+{{ end }}
