@@ -17,13 +17,10 @@ layout = "trainingen"
 * Elke zaterdag van 10:00 tot 12:00.
 
 ## Locatie
-Gemeentelijke Sporthal Keerbergen
-
-Putsebaan 103
-
-3140 Keerbergen
-
-Tel.: +32 15 51 80 71
+* Gemeentelijke Sporthal Keerbergen
+* Putsebaan 103
+* 3140 Keerbergen
+* Tel.: +32 15 51 80 71
 
 ## Trainers
 Er wordt lesgegeven door [Sport vlaanderen erkende / gediplomeerde trainers](/trainers)
