@@ -1,8 +1,29 @@
 <div>
-    {{ .name }}
+    <h2>{{ .name }}</h2>
+
+    <img src="{{ .imageSrc }}" width="155px">
+    <h3>Behaalde graden:</h3>
     <ul>
         {{ range .danGraden }}
         <li>{{ . }}</li>
         {{ end }}
     </ul>
+
+    {{ if .diplomas }}
+    <h3>Behaalde diploma's:</h3>
+    <ul>
+        {{ range .diplomas }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+    {{ end }}
+
+    {{ if .palmares }}
+    <h3>Samenvatting van behaalde competitie resultaten:</h3>
+    <ul>
+        {{ range .palmares }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+    {{ end }}
 </div>

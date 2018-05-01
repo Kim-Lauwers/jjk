@@ -1,0 +1,11 @@
+name = "Frank Engels"
+danGraden = [
+            "4de DAN Ju-Jitsu"
+            ]
+diplomas = [
+            "A-trainer Ju-Jitsu VTS - BLOSO"
+            ]
+palmares = [
+            ]
+imageSrc = "/images/trainers/FrankEngels.jpg"
+weight = "2"
