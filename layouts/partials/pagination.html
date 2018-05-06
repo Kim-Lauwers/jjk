@@ -1,0 +1,38 @@
+{{ $pag := $.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
+<div class="pagination">
+    {{ if $pag.HasPrev }}
+    {{ with $pag.First }}
+    <a href="{{ .URL }}" aria-label="First">
+        &laquo;&laquo;
+    </a>
+    {{ end }}
+    <a href="{{ $pag.Prev.URL }}" aria-label="Previous">
+        &laquo;
+    </a>
+    {{ end }}
+
+    {{ with $pag }}
+    <a href="{{ .URL }}" class="current">{{ .PageNumber }}</a>
+    {{ end }}
+
+    {{ if $pag.HasNext }}
+    <a href="{{ $pag.Next.URL }}" aria-label="Next">
+        &raquo;
+    </a>
+
+    {{ with $pag.Last }}
+    <a href="{{ .URL }}" aria-label="Last">
+        &raquo;&raquo;
+    </a>
+    {{ end }}
+    {{ end }}
+</div>
+{{ end }}
+
+<!-- PAGINATION WITH 2 NUMBERS BEFORE AND AFTER CURRENT PAGE SHOWN AS WELL -->
+<!-- {{range $pag.Pagers }}
+    {{ if and (le .PageNumber (add $pag.PageNumber 2)) (ge .PageNumber ( sub $pag.PageNumber 2)) }}
+        <a href="{{ .URL }}" {{ if eq . $pag }}class="current" {{ end }}>{{ .PageNumber }}</a>
+    {{ end }}
+{{ end }} -->

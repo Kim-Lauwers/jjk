@@ -10,28 +10,48 @@
             <!-- Main -->
             <div id="main-wrapper">
                 <div id="main" class="container">
-                    <div class="row">
-                        <div class="12u(mobile) important(mobile)">
-                            <div class="content content-left">
+                    <div class="row 200%">
+                        <div class="12u">
 
-                                STILL in PROGRESS
+                            <!-- Features -->
+                            <section class="box features">
+                                <h2 class="major"><span>Ju-Jitsu Keerbergen VZW</span></h2>
+                                <div>
+                                    <div class="row">
+                                        {{ range $index, $Page := .Paginator.Pages.ByDate.Reverse }}
 
-                                <!-- Content -->
-                                {{ range first 1 (where (where .Site.Pages "Section" "nieuws") "IsPage" true) }}
-                                <article class="box page-content">
-                                    <header>
-                                        <h2>{{ .Title }}</h2>
-                                        <ul class="meta">
-                                            <li class="icon fa-clock-o">{{ .Date.Format .Site.Params.dateForm }}</li>
-                                            <li class="icon fa-user"><a href="/trainers">{{ .Params.author }}</a></li>
-                                        </ul>
-                                    </header>
-                                        {{ .Content }}
-                                    </section>
-                                </article>
-                                {{ end }}
+                                        <div class="3u 12u(mobile)">
 
+                                            <!-- Feature -->
+                                            <section class="box feature">
+                                                <a href="{{ .Permalink }}" class="image featured">
+                                                    <img width="221.25 px"
+                                                            height="123.95 px"
+                                                            src="{{ .Params.listpageImgUrl}}"
+                                                            alt="Ju-Jitsu Keerbergen Nieuws"/></a>
+                                                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                                                <p>
+                                                    {{ .Description }}
+                                                </p>
+                                            </section>
+
+                                        </div>
+
+                                        {{ if and (modBool (add $index 1) 4) (ne $index 0) }}
+                                    </div>
+                                    <div class="row">
+                                        {{ end }}
+                                    {{ end }}
+
+                                    </div>
+                                </div>
+                            </section>
+
+
+                            <div class="pagination">
+                                {{ partial "pagination.html" . }}
                             </div>
+
                         </div>
                     </div>
                 </div>

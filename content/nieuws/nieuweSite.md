@@ -5,7 +5,7 @@ draft = false
 description = "Ju-Jitsu Keerbergen VZW heeft een nieuwe site"
 author = "Kim Lauwers"
 homepageImgUrl = "https://pbs.twimg.com/media/Bo9vMXiIMAAt7ER.jpg"
-listpageImgUrl = ""
+listpageImgUrl = "http://www.marciocruzbjj.com/wp-content/uploads/tampa-brazilian-jiu-jitsu-website-marcio-cruz-820x400.png"
 detailpageImgUrl = ""
 [menu.global]
     parent = "nieuws"
