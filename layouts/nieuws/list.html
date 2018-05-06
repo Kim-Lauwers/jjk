@@ -15,7 +15,7 @@
 
                             <!-- Features -->
                             <section class="box features">
-                                <h2 class="major"><span>Ju-Jitsu Keerbergen VZW</span></h2>
+                                <h2 class="major"><span>{{ .Data.clubName }}</span></h2>
                                 <div>
                                     <div class="row">
                                         {{ range $index, $Page := .Paginator.Pages.ByDate.Reverse }}

@@ -2,6 +2,7 @@
 baseURL = "https://eager-galileo-efb33e.netlify.com"
 languageCode = "nl-BE"
 title = "Ju-Jitsu Keerbergen VZW"
+clubName = "Ju-Jitsu Keerbergen VZW"
 paginate = 8
 theme = "txt"
 hasCJKLanguage=true
