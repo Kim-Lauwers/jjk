@@ -1,0 +1,12 @@
+name = "Femke Vertongen"
+danGraden = [
+            "2de DAN Ju-Jitsu"
+            ]
+diplomas = [
+             "Initiator Ju-Jitsu VTS - BLOSO"
+            ]
+palmares = [
+            ]
+mail = "femke@jujitsukeerbergen.be"
+imageSrc = "/images/trainers/FemkeVertongen.png"
+weight = "3"
