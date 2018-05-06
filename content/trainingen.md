@@ -13,7 +13,7 @@ layout = "trainingen"
 
 ### Voor de volwassenen(vanaf 12 jaar)
 * Elke dinsdag van 19:00 tot 21:00. 
-* Elke donderdag van 19:00 tot 21:00. Dit is een gezamelijke dynamische training (Jeugd en Volwassenen samen) 
+* Elke donderdag van 19:00 tot 21:00. Dit is een gezamelijke dynamische training (Jeugd en Volwassenen samen / Enkel het eerste uur) 
 * Elke zaterdag van 10:00 tot 12:00.
 
 ## Locatie

@@ -2,6 +2,8 @@
     <h2>{{ .name }}</h2>
 
     <img src="{{ .imageSrc }}" width="155px">
+    <h3>Contact:</h3>
+    <a href="mailto:{{ .mail }}">{{ .mail}}</a>
     <h3>Behaalde graden:</h3>
     <ul>
         {{ range .danGraden }}
