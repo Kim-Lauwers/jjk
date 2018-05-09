@@ -16,7 +16,7 @@
                                     <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                                     <ul class="meta">
                                         <li class="icon fa-clock-o">{{ .Date.Format .Site.Params.dateForm }}</li>
-                                        <li class="icon fa-user"><a href="/trainers">{{ .Params.author }}</a></li>
+                                        <li class="icon fa-user"><a href="/trainers#{{ replace .Params.author " " "_" }}">{{ .Params.author }}</a></li>
                                     </ul>
                                 </header>
                                 <a href="{{ .Permalink }}" class="image featured"><img src="{{ .Params.homepageImgUrl}}" alt=""/></a>
@@ -42,7 +42,7 @@
                                         <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                                         <ul class="meta">
                                             <li class="icon fa-clock-o">{{ .Date.Format .Site.Params.dateForm }}</li>
-                                            <li class="icon fa-user"><a href="/trainers">{{ .Params.author }}</a></li>
+                                            <li class="icon fa-user"><a href="/trainers#{{ replace .Params.author " " "_" }}">{{ .Params.author }}</a></li>
                                         </ul>
                                     </article>
                                 </li>
