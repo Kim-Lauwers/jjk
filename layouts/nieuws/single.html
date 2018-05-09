@@ -13,7 +13,9 @@
                     <div class="row 200%">
                         <div class="12u">
                             <div>
-                                <img class="image" src="{{ .Site.BaseURL }}/{{ .Params.detailpageImgUrl }}"></img>
+                                {{ if .Params.detailpageImgUrl }}
+                                <img class="image" src="{{ .Site.BaseURL }}/{{ .Params.detailpageImgUrl }}">
+                                {{ end }}
                                 {{ .Content }}
                             </div>
                         </div>
