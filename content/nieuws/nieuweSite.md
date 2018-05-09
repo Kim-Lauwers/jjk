@@ -17,4 +17,16 @@ Op de zaal hebben we _11 jaar_ moeten wachten, op de nieuwe website maar __8 jaa
 
 Waarom heeft de site zolang op zich laten wachten? Een goede vraag, zeker als je weet dat onder de trainers, bestuur en de leden er mensen zijn die de technische kennis beschikken.
 
+Dit heeft puur met onze prioriteiten te maken. Wij beseffen dat een site heel belangrijk is voor het uiterlijke en de communicatie.
+
+Maar wij vinden het veel belangrijker dat onze trainers hun tijd steken in het belangrijkste, namelijk in onze sport, trainen, lesgeven en bijleren.
+Iemand betalen voor een nieuwe site willen we ook helemaal niet, omdat het geld altijd integraal terug naar de leden en de club moet gaan. 
+Maar kijk na 8 jaar hebben we toch eindelijk eens tijd gevonden :-) Al een geluk dat mei zoveel feestdagen heeft.
+
+Mochten jullie nog feedback hebben om de website beter te maken, aarzel dan niet om ons te contacteren.
+
+Sportieve groeten,
+
+Het bestuur
+
   
