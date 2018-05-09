@@ -12,6 +12,11 @@
                 <div id="main" class="container">
                     <div class="row 200%">
                         <div class="12u">
+                            <h1>{{ .Title }}</h1>
+                            <ul class="meta">
+                                <li class="icon fa-clock-o">{{ .Date.Format .Site.Params.dateForm }}</li>
+                                <li class="icon fa-user"><a href="/trainers#{{ replace .Params.author " " "_" }}">{{ .Params.author }}</a></li>
+                            </ul>
                             <div>
                                 {{ if .Params.detailpageImgUrl }}
                                 <img class="image" src="{{ .Site.BaseURL }}/{{ .Params.detailpageImgUrl }}">

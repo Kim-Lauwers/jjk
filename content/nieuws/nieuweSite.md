@@ -3,6 +3,7 @@ title = "Nieuwe website voor Ju-Jitsu Keerbergen"
 date = 2018-05-09T22:23:02+02:00
 draft = false
 description = "2018 is het jaar van vernieuwingen voor Ju-Jitsu Keerbergen VZW"
+categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "https://pbs.twimg.com/media/Bo9vMXiIMAAt7ER.jpg"
 listpageImgUrl = "http://www.marciocruzbjj.com/wp-content/uploads/tampa-brazilian-jiu-jitsu-website-marcio-cruz-820x400.png"

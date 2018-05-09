@@ -3,6 +3,7 @@ title = "Parijs Open 2018"
 date = 2018-04-29T21:16:02+02:00
 draft = false
 description = "Wout haalt dankzij Parijs Open 2018 zijn selectie binnen"
+categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/parisOpen2018.jpeg"
 listpageImgUrl = "../images/nieuws/parisOpen2018.jpeg"
