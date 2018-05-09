@@ -9,5 +9,5 @@ homepageImgUrl = ""
 listpageImgUrl = ""
 detailpageImgUrl = ""
 [menu.global]
-    parent = "news"
+    parent = "nieuws"
 +++

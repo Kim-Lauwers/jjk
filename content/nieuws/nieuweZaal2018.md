@@ -9,7 +9,7 @@ homepageImgUrl = "/images/nieuws/nieuweZaal2018.jpg"
 listpageImgUrl = "../images/nieuws/nieuweZaal2018.jpg"
 detailpageImgUrl = "../images/nieuws/nieuweZaal2018.jpg"
 [menu.global]
-    parent = "news"
+    parent = "nieuws"
 +++
 Vandaag hadden we onze _eerste training in de nieuwe dojo_.
 
