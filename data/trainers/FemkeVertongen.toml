@@ -6,6 +6,12 @@ danGraden = [
 diplomas = [
              "Initiator Ju-Jitsu VTS - BLOSO"
             ]
+functionsclub = [
+            "Secretaris",
+            "Trainer"
+           ]
+functionsNextToClub = [
+           ]
 palmares = [
             ]
 mail = "femke@jujitsukeerbergen.be"

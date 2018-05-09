@@ -12,6 +12,21 @@ diplomas = [
              "Gediplomeerd begeleider van sportende senioren VTS - BLOSO",
              "Gediplomeerd begeleider van sporters met een handicap VTS - BLOSO"
             ]
+functionsclub = [
+            "Voorzitter",
+            "Hoofdtrainer bij de hoofd- en kindergroep",
+            "Jeugdsportcoördinator",
+            "Vertrouwenspersoon",
+            "Algemene administratie"
+           ]
+functionsNextToClub = [
+            "Docent Sport Vlaanderen VTS",
+            "Gediplomeerd Judo trainer bij Judoteam Duffel",
+            "Lid van de Pedagogische commissie bij de VJJF",
+            "Lid van de Jeugdcommissie bij de VJJF",
+            "Federaal trainer bij de FJJS",
+            "Federaal jurylid bij de FJJS"
+           ]
 palmares = [
             "Judo (Gewichtscategorie: -60kg) - Belgisch Kampioenschap Masters 2017: Zilver – Vice Belgisch Kampioen",
             "Judo (Gewichtscategorie: -60kg) - Belgisch Kampioenschap Masters 2017 (Open categorie): Brons",

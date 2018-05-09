@@ -6,6 +6,13 @@ danGraden = [
 diplomas = [
             "A-trainer Ju-Jitsu VTS - BLOSO"
             ]
+functionsclub = [
+            "Ondervoorzitter",
+            "Hoofdtrainer bij de hoofdgroep"
+           ]
+functionsNextToClub = [
+            "Nationale coach Ne-Waza bij VJJF"
+           ]
 palmares = [
             ]
 mail = "frank@jujitsukeerbergen.be"

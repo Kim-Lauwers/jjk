@@ -20,6 +20,24 @@
     </ul>
     {{ end }}
 
+    {{ if .functionsclub }}
+    <h3>Functies binnen onze club:</h3>
+    <ul>
+        {{ range .functionsclub }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+    {{ end }}
+
+    {{ if .functionsNextToClub }}
+    <h3>Extra vechtsportfuncties naast onze club:</h3>
+    <ul>
+        {{ range .functionsNextToClub }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+    {{ end }}
+
     {{ if .palmares }}
     <h3>Samenvatting van behaalde competitie resultaten:</h3>
     <ul>

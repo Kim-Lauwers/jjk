@@ -1,5 +1,15 @@
 {{ define "main" }}
+Onze ervaren, gediplomeerde, gepassioneerde en enthousiaste trainers leren je op een verantwoorde wijze de Ju Jitsu technieken aan.
+Verder wordt {{ .Site.Title }} geleid door een gedreven en geëngageerd bestuur.
+
 <h1>Onze trainers</h1>
+Klik op de naam van één van onze trainers om meer informatie te zien.
+    <ul>
+{{ range $.Site.Data.trainers }}
+        <li><a href="#{{ .firstname }}_{{ .familyname }}">{{ .firstname }} {{ .familyname }}</a></li>
+{{ end }}
+    </ul>
+
 {{ range $.Site.Data.trainers }}
     {{ partial "trainer.html" . }}
 {{ end }}
