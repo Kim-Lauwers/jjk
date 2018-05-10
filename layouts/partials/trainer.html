@@ -11,6 +11,11 @@
         {{ end }}
     </ul>
 
+    {{ if .startJuJitsu }}
+    <h3>Gestart met Ju-Jitsu in:</h3>
+    {{ .startJuJitsu }}
+    {{ end }}
+
     {{ if .diplomas }}
     <h3>Behaalde diploma's:</h3>
     <ul>
