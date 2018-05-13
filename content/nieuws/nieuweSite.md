@@ -25,6 +25,8 @@ Maar kijk na 8 jaar hebben we toch eindelijk eens tijd gevonden :-) Al een geluk
 
 Mochten jullie nog feedback hebben om de website beter te maken, aarzel dan niet om ons te contacteren.
 
+Blijf onze nieuwe site in het oog houden want naast verbeteringen gaan we onze site ook veel beter up to date houden met nieuwtjes.
+
 Sportieve groeten,
 
 Het bestuur
