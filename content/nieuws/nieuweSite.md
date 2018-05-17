@@ -1,6 +1,6 @@
 +++
 title = "Nieuwe website voor Ju-Jitsu Keerbergen"
-date = 2018-05-09T22:23:02+02:00
+date = 2018-05-17T22:25:02+02:00
 draft = false
 description = "2018 is het jaar van vernieuwingen voor Ju-Jitsu Keerbergen VZW"
 categories = []
