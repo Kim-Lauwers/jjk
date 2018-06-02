@@ -5,9 +5,9 @@ draft = false
 description = "Nog meer graadverhogingen bij de jeugd."
 categories = []
 author = "Kim Lauwers"
-homepageImgUrl = "/images/nieuws/gordelJuni2018.png"
-listpageImgUrl = "../images/nieuws/gordelJuni2018.png"
-detailpageImgUrl = "../images/nieuws/gordelJuni2018.png"
+homepageImgUrl = "/images/nieuws/gordelsJuni2018.png"
+listpageImgUrl = "../images/nieuws/gordelsJuni2018.png"
+detailpageImgUrl = "../images/nieuws/gordelsJuni2018.png"
 [menu.global]
     parent = "nieuws"
 +++
