@@ -1,6 +1,6 @@
 +++
 title = "Nieuwe gordels bij de Jeugd"
-date = 2018-06-02T12:12:02+02:00
+date = 2018-06-02T10:12:02+02:00
 draft = false
 description = "Nog meer graadverhogingen bij de jeugd."
 categories = []
