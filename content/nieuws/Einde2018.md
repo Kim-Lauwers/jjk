@@ -40,7 +40,7 @@ De nieuwe prijs (vanaf 1 augustus 2018) is voor de jeugd 180 euro en voor de vol
 
 Hou er rekening mee dat indien je volgend schooljaar (september 2018) naar het 1ste middeljaar gaat, dat je dan bij ons ook naar de hoofdgroep (volwassenen) doorschuift.
 
-Volg zeker onze FB-groep Ju-Jitsu Keerbergen VZW want hier zullen we jullie up-to-date houden. Bekijk regelmatig onze vernieuwde website op https://www.jujitsukeerbergen.be want al het laatste nieuws komt hier ook op.
+Volg zeker onze FB-groep [Ju-Jitsu Keerbergen VZW](https://www.facebook.com/groups/357231384348318/) want hier zullen we jullie up-to-date houden. Bekijk regelmatig onze vernieuwde website op [https://www.jujitsukeerbergen.be](https://www.jujitsukeerbergen.be) want al het laatste nieuws komt hier ook op.
 We vragen aan iedereen om hun gegevens bij te werken via gegevens.jujitsukeerbergen.be.
 
 Bij vragen of opmerkingen aarzel dan zeker niet om ons te contacteren.
