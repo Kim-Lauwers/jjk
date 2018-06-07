@@ -45,9 +45,7 @@ We vragen aan iedereen om hun gegevens bij te werken via gegevens.jujitsukeerber
 
 Bij vragen of opmerkingen aarzel dan zeker niet om ons te contacteren.
 
-Mvg,
-[Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers)
-Ju-Jitsu Keerbergen
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
 
 
 
