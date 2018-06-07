@@ -38,6 +38,8 @@ We gaan de prijzen van het lidgeld voor het eerst in vele jaren verhogen en dit 
 Indien u VOOR 31 juli 2018 betaalt geven wij zoals altijd een mooie korting. Bij betaling voor 31 juli 2018 is het bedrag voor de jeugd 145 euro en voor de volwassenen 195 euro.
 De nieuwe prijs (vanaf 1 augustus 2018) is voor de jeugd 180 euro en voor de volwassenen 230 euro.
 
+De betalingen kunnen gedaan worden op BE34 9794 2892 3190. Vergeet zeker uw naam niet bij de mededeling.
+
 Hou er rekening mee dat indien je volgend schooljaar (september 2018) naar het 1ste middeljaar gaat, dat je dan bij ons ook naar de hoofdgroep (volwassenen) doorschuift.
 
 Volg zeker onze FB-groep [Ju-Jitsu Keerbergen VZW](https://www.facebook.com/groups/357231384348318/) want hier zullen we jullie up-to-date houden. Bekijk regelmatig onze vernieuwde website op [https://www.jujitsukeerbergen.be](https://www.jujitsukeerbergen.be) want al het laatste nieuws komt hier ook op.
