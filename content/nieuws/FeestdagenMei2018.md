@@ -6,7 +6,7 @@ description = "Feestdagen in Mei 2018 - Wanneer trainen we?"
 categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/feestdagenMei2018.jpeg"
-listpageImgUrl = "../images/nieuws/feestdagenMei2018.jpeg"
+listpageImgUrl = "/images/nieuws/feestdagenMei2018.jpeg"
 detailpageImgUrl = ""
 [menu.global]
     parent = "nieuws"

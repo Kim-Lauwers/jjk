@@ -6,7 +6,7 @@ description = "De recenste graadverhogingen bij de jeugd."
 categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "/images/nieuws/graadVerhogingMei2018.png"
-listpageImgUrl = "../images/nieuws/graadVerhogingMei2018.png"
+listpageImgUrl = "/images/nieuws/graadVerhogingMei2018.png"
 detailpageImgUrl = "../images/nieuws/graadVerhogingMei2018.png"
 [menu.global]
     parent = "nieuws"

@@ -6,7 +6,7 @@ description = "De graadverhogingen blijven maar komen !"
 categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "/images/nieuws/gordelsJuni-2-2018.jpg"
-listpageImgUrl = "../images/nieuws/gordelsJuni-2-2018.jpg"
+listpageImgUrl = "/images/nieuws/gordelsJuni-2-2018.jpg"
 detailpageImgUrl = "../images/nieuws/gordelsJuni-2-2018.jpg"
 [menu.global]
     parent = "nieuws"

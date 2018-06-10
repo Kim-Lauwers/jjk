@@ -6,7 +6,7 @@ description = "Nieuwe kleurtjes !"
 categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "/images/nieuws/gordelsJuni-3-2018.jpg"
-listpageImgUrl = "../images/nieuws/gordelsJuni-3-2018.jpg"
+listpageImgUrl = "/images/nieuws/gordelsJuni-3-2018.jpg"
 detailpageImgUrl = "../images/nieuws/gordelsJuni-3-2018.jpg"
 [menu.global]
     parent = "nieuws"

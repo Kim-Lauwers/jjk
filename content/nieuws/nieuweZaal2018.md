@@ -6,7 +6,7 @@ description = "Keerbergen heeft een nieuwe vechtsportzaal"
 categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "/images/nieuws/nieuweZaal2018.jpg"
-listpageImgUrl = "../images/nieuws/nieuweZaal2018.jpg"
+listpageImgUrl = "/images/nieuws/nieuweZaal2018.jpg"
 detailpageImgUrl = "../images/nieuws/nieuweZaal2018.jpg"
 [menu.global]
     parent = "nieuws"

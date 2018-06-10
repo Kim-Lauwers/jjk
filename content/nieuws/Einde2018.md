@@ -6,7 +6,7 @@ description = "Einde seizoen 2018"
 categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/Einde2018.jpg"
-listpageImgUrl = "../images/nieuws/Einde2018.jpg"
+listpageImgUrl = "/images/nieuws/Einde2018.jpg"
 detailpageImgUrl = "../images/nieuws/Einde2018.jpg"
 [menu.global]
     parent = "nieuws"

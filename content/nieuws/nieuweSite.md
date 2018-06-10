@@ -6,7 +6,7 @@ description = "2018 is het jaar van vernieuwingen voor Ju-Jitsu Keerbergen VZW"
 categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "/images/nieuws/nieuweSite2018.png"
-listpageImgUrl = "../images/nieuws/nieuweSite2018.png"
+listpageImgUrl = "/images/nieuws/nieuweSite2018.png"
 detailpageImgUrl = "../images/nieuws/nieuweSite2018.png"
 [menu.global]
     parent = "nieuws"

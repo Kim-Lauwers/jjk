@@ -6,7 +6,7 @@ description = "Wout haalt dankzij Parijs Open 2018 zijn selectie binnen"
 categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/parisOpen2018.jpeg"
-listpageImgUrl = "../images/nieuws/parisOpen2018.jpeg"
+listpageImgUrl = "/images/nieuws/parisOpen2018.jpeg"
 detailpageImgUrl = ""
 [menu.global]
     parent = "nieuws"
