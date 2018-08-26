@@ -16,7 +16,7 @@ Geachte,
 
 We zijn aan het einde van de zomer gekomen. Dit wil zeggen we met het nieuwe seizoen starten.
 
-Onze eerste training zal doorgaan op dinsdag 4 september 2018.
+Onze eerste training zal doorgaan op dinsdag 4 september 2018. Op zaterdag 1 september is er dus nog GEEN training !!
 # Tijdstippen
 * Voor de jeugd is dit om 18u
 * Voor de volwassenen is dit om 19u
