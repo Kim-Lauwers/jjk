@@ -2,7 +2,7 @@
 title = "Club bestaat 35 jaar"
 date = 2018-09-07T20:40:56+02:00
 draft = false
-description = "Ju-Jitsu Keerbergen bestaat 35 jaar"
+description = "Ju-Jitsu Keerbergen bestaat 35 jaar en de gemeente gaf een receptie hiervoor."
 categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/club_35jaar.jpg"
