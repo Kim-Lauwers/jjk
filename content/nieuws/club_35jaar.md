@@ -14,7 +14,7 @@ detailpageImgUrl = "/images/nieuws/club_35jaar.jpg"
 Vanavond was er een receptie van de gemeente voor de jubilerende verenigingen.
 
 Vermits onze club in 2018 reeds **35 jaar** bestaat waren we ook uitgenodigd.
-Al 35 jaar geven onze trainers alles wat ze hebben om kwalitatieve trainingen te voorzien.
+Al **35 jaar** geven onze trainers alles wat ze hebben om kwalitatieve trainingen te voorzien.
 
 En zoals het hoort waren we te laat omdat we nog training aan het geven waren. Gelukkig weet onze burgemeester Dominick Vansevenant wat voor een sportieve club dat we zijn :-)
 
