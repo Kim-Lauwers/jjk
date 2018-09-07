@@ -7,7 +7,7 @@ categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/club_35jaar.jpg"
 listpageImgUrl = "/images/nieuws/club_35jaar.jpg"
-detailpageImgUrl = ""
+detailpageImgUrl = "/images/nieuws/club_35jaar.jpg"
 [menu.global]
     parent = "nieuws"
 +++
