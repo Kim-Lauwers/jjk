@@ -19,6 +19,12 @@ Even kort een overzicht van de trainingen in het najaar.
 * Donderdag 1 november 2018 - Is de sporthal gesloten en is er dus **GEEN** training.
 * Zaterdag 3 november 2018 - Is er **GEEN** training.
 
+# Gymnova Cup
+* Op zaterdag 10 november is het **WEL** training op de normale uren, maar dan gaat de internationale Gymnova Cup wedstrijd van de Gympies door. 
+Dit wel zeggen dat het waarschijnlijk druk zal zijn en dat parking vinden mogelijks moeilijk wordt. Kom gerust met de fiets, dat is sportief, gezond en goedkoop. 
+Er is voldoende plaats voor uw fiets aan de sporthal.
+* Op donderdag 8 november kan dit ook een probleem zijn door de generale repetities.
+
 # Kerstvakantie
 * Dinsdag 25 december 2018 - Is de sporthal gesloten en is er dus **GEEN** training.
 * Donderdag 27 december 2018 - Is het training van 19 uur tot 20u30. We trainingen dus 30 minuten minder lang.
