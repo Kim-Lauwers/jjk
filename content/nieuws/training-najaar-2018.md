@@ -27,7 +27,7 @@ Er is voldoende plaats voor uw fiets aan de sporthal.
 
 # Kerstvakantie
 * Dinsdag 25 december 2018 - Is de sporthal gesloten en is er dus **GEEN** training.
-* Donderdag 27 december 2018 - Is het training van 19 uur tot 20u30. We trainingen dus 30 minuten minder lang.
+* Donderdag 27 december 2018 - Is het training van 19 uur tot 20u30. We trainingen dus 30 minuten minder lang, de tabata schuift dus een half uurtje op, deze valt niet weg.
 * Zaterdag 29 december 2018 - Is er **GEEN** training.
 * Dinsdag 1 januari 2019 - Is de sporthal gesloten en is er dus **GEEN** training.
 
