@@ -20,7 +20,7 @@ Even kort een overzicht van de trainingen in het najaar.
 * Zaterdag 3 november 2018 - Is er **GEEN** training.
 
 # Gymnova Cup
-* Op zaterdag 10 november is het **WEL** training op de normale uren, maar dan gaat de internationale Gymnova Cup wedstrijd van de Gympies door. 
+* Op zaterdag 10 november is het **WEL** training op de normale uren, maar dan gaat de [internationale Gymnova Cup](https://www.gympies.be/gymnovacup) wedstrijd van de Gympies door. 
 Dit wel zeggen dat het waarschijnlijk druk zal zijn en dat parking vinden mogelijks moeilijk wordt. Kom gerust met de fiets, dat is sportief, gezond en goedkoop. 
 Er is voldoende plaats voor uw fiets aan de sporthal.
 * Op donderdag 8 november kan dit ook een probleem zijn door de generale repetities.
