@@ -8,7 +8,7 @@ layout = "trainingen"
 ## Tijdstippen
 ### Voor de kinderen (van 8 jaar tot en met 12 jaar)
 * Elke dinsdag van 18:00 tot 19:00. 
-* Elke donderdag van 19:00 tot 20:00. Dit is een gezamelijke dynamische training (Jeugd en Volwassenen samen).
+* Elke donderdag van 19:00 tot 20:00. Dit is een dynamische training (Jeugd en Volwassenen samen, aparte trainers).
 * Elke zaterdag van 09:00 tot 10:00.
 
 ### Voor de volwassenen(vanaf 12 jaar)
