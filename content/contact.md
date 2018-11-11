@@ -31,4 +31,4 @@ Zie ook: [trainingen](/trainingen).
 ## Federatie
 * Aangesloten bij [Vlaamse Ju-Jitsu Federatie](http://vjjf.be)
 * Aangesloten bij [FROS (FJJS)](http://www.fros.be/sportfiche/martial-arts)
-[!/static/images/fros.jpg]
+![FROS](/images/fros.jpg "FROS")
