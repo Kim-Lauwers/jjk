@@ -1,5 +1,5 @@
 +++
-title = "WK Ju Jitsu 2019 - Start"
+title = "WK Ju Jitsu 2018 - Start"
 date = 2018-11-22T18:12:56+02:00
 draft = false
 description = "WK Ju-Jitsu 2018: Wout Duez zal deelnemen"
