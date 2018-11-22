@@ -19,4 +19,4 @@ Wout zal vrijdagochtend vechten en je kan hem [hier](http://www.jujutsu2018.se/l
 Het is wel een betalende live stream. 
 
 Vanwege,
-De trainers, het bestuur
+De trainers
