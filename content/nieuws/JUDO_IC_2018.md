@@ -1,8 +1,8 @@
 +++
-title = "WK Ju Jitsu 2018 - Start"
+title = "Trainer Kim is kampioen met zijn judoploeg"
 date = 2018-11-24T13:13:00+02:00
 draft = false
-description = "WK Ju-Jitsu 2018: Wout Duez zal deelnemen"
+description = "Ook naast Ju-Jitsu is trainer Kim zeer actief in de Judowereld en vandaag zijn ze kampioen geworden."
 categories = []
 author = "Ju-Jitsu Keerbergen VZW"
 homepageImgUrl = "images/nieuws/JUDO_IC_2018_HOMEPAGE.jpg"
