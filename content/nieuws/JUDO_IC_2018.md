@@ -1,6 +1,6 @@
 +++
 title = "WK Ju Jitsu 2018 - Start"
-date = 2018-11-24T14:13:00+02:00
+date = 2018-11-24T13:13:00+02:00
 draft = false
 description = "WK Ju-Jitsu 2018: Wout Duez zal deelnemen"
 categories = []
