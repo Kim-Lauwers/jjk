@@ -22,8 +22,8 @@ Het eerste 1,5 uur was de focus Tachi-Waza, en het tweede 1,5 uur was de focus N
 
 Een overzicht van alle gevolgde sessies door [Kim](/trainers/#Kim_Lauwers):
 	 	
-* Sessie 1: In de greep van het judo (Craig Fallon Masterclass deel 1 tachi waza)
-* Sessie 2: In de greep van het judo (Craig Fallon Masterclass deel 2 ne waza)
+* Sessie 1: In de greep van het judo ([Craig Fallon](https://en.wikipedia.org/wiki/Craig_Fallon) Masterclass deel 1 Tachi-Waza)
+* Sessie 2: In de greep van het judo ([Craig Fallon](https://en.wikipedia.org/wiki/Craig_Fallon) Masterclass deel 2 Ne-Waza)
 * Sessie 3: Voeding voor duursporters
 * Sessie 4: Voeding in vechtsporten
 * Sessie 5: Periodisering in judo en vechtsport
