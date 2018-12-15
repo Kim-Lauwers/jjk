@@ -12,13 +12,13 @@ detailpageImgUrl = "../images/nieuws/DagVanDeTrainer.jpg"
     parent = "nieuws"
 +++
 
-Als trainer moet je blijven bijleren en verbeteren daarom dat [Kim Lauwers](/trainers/#Kim_Lauwers) vandaag niet aanwezig was op de trainig.
-Om de 2 jaar organiseert [Sport Vlaanderen](https://www.sport.vlaanderen/) de [Dag Van De Trainer](https://www.sport.vlaanderen/dag-van-de-trainer/) en [Kim Lauwers](/trainers/#Kim_Lauwers) was aanwezig.
+Als trainer moet je blijven bijleren en verbeteren daarom was [Kim Lauwers](/trainers/#Kim_Lauwers) vandaag niet aanwezig was op de trainig.
+Om de 2 jaar organiseert [Sport Vlaanderen](https://www.sport.vlaanderen/) de [Dag Van De Trainer](https://www.sport.vlaanderen/dag-van-de-trainer/) en [Kim Lauwers](/trainers/#Kim_Lauwers) was aanwezig op deze dag.
 
 Samen met zijn mede-Judo-Trainers heeft hij deelgenomen aan 2 masterclasses van voormalig Wereld en Europees Kampioen Judo [Craig Fallon](https://en.wikipedia.org/wiki/Craig_Fallon).
-Het 1,5 uur was de focus Tachi-Waza, en het tweede 1,5 uur was de focus Ne-Waza.
+Het eerste 1,5 uur was de focus Tachi-Waza, en het tweede 1,5 uur was de focus Ne-Waza. Het waren 3 topuren.
 
-![Judo-Trainers](/nieuws/DagVanDeTrainer-Team.jpeg "Judo Team")
+![Judo-Trainers](/images/nieuws/DagVanDeTrainer-Team.jpeg "Judo Team")
 
 Een overzicht van alle gevolgde sessies:
 	 	
