@@ -29,5 +29,5 @@ Een overzicht van alle gevolgde sessies:
 * Sessie 5: Periodisering in judo en vechtsport
  
  
-Het was een boeiende en leerlijke dag. Tevens ook dank aan Wout en Kendra om de trainingen te leiden vandaag.
+Het was een boeiende en leerlijke dag. Tevens ook dank aan [Wout](/trainers/#Wout_Duez) en Kendra om de trainingen te leiden vandaag.
 
