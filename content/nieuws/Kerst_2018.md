@@ -2,7 +2,7 @@
 title = "Kerst 2018"
 date = 2018-12-23T08:20:21+02:00
 draft = false
-description = "Kerst 2018"
+description = "Aangepaste trainingen in de kerstvakantie"
 categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/KERST_2018.jpeg"
