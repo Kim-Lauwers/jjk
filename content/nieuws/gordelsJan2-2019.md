@@ -5,9 +5,9 @@ draft = false
 description = "Nog 4 graadverhogingen !"
 categories = []
 author = "Kim Lauwers"
-homepageImgUrl = "/images/nieuws/gordelsJan2-2019.png"
-listpageImgUrl = "/images/nieuws/gordelsJan2-2019.png"
-detailpageImgUrl = "../images/nieuws/gordelsJan2-2019.png"
+homepageImgUrl = "/images/nieuws/gordelsJan2-2019.jpg"
+listpageImgUrl = "/images/nieuws/gordelsJan2-2019.jpg"
+detailpageImgUrl = "../images/nieuws/gordelsJan2-2019.jpg"
 [menu.global]
     parent = "nieuws"
 +++
