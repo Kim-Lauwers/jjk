@@ -21,9 +21,9 @@ We geven jullie de volgende weken de kans om een t-shirt, een hoodie of een vest
 bestellen met het nieuwe logo op de achterkant.
 Op volgende tijdstippen kan je komen passen en bestellen:
 
-Zaterdag 26/1 om 9u45
-Dinsdag 29/1 om 18u45
-Donderdag 31/1 om 18u45
+* Zaterdag 26/1 om 9u45
+* Dinsdag 29/1 om 18u45
+* Donderdag 31/1 om 18u45
 
 Indien je niet kan komen, mag je contact opnemen met Nicole Faes om een ander pasmoment af te spreken.
 
