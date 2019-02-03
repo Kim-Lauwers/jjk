@@ -7,7 +7,7 @@ categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/OpenVlaams2019.jpg"
 listpageImgUrl = "/images/nieuws/OpenVlaams2019.jpg"
-detailpageImgUrl = ""
+detailpageImgUrl = "/images/nieuws/OpenVlaams2019.jpg"
 [menu.global]
     parent = "nieuws"
 +++
