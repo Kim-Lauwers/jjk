@@ -15,7 +15,7 @@ Dit weekend was Beveren de place to be.
 Daar ging namelijk het Open Vlaams Kampioenschap Ju-Jitsu voor de 2de maal door. 
 Voor onze club is dit de eerste competitie van 2019.
 
-We hadden niet veel afgevaardigde van onze club, maar we hebben wel fantastisch gescoord weeral.
+We hadden niet veel afgevaardigden van onze club, maar we hebben wel alweer fantastisch gescoord.
 
 **5 medailles** terwijl we met **4 fighters** vertrokken zijn.
 
