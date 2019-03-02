@@ -7,14 +7,14 @@ categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/krokus2019.jpg"
 listpageImgUrl = "/images/nieuws/krokus2019.jpg"
-detailpageImgUrl = "/images/nieuws/krokus2019-large.jpg"
+detailpageImgUrl = "/images/nieuws/krokus2019.jpg"
 [menu.global]
     parent = "nieuws"
 +++
 Tijdens de krokusvakantie trainen we gewoon door !
 Dus altijd welkom op onze trainingen.
 
-Let wel op! Dinsdag en Donderdag trainen we wel maar 1u30 ipv 2 uur.
+Volwassenen let wel op! Dinsdag en Donderdag trainen we wel maar 1u30 ipv 2 uur.
 
 Vanwege,
 De trainers, het bestuur
