@@ -47,6 +47,12 @@ dateForm = "January 2, 2006"
     weight = 20
 
 [[menu.global]]
+    name = "Kalender"
+    identifier = "kalender"
+    url = "/kalender"
+    weight = 30
+
+[[menu.global]]
     name = "Contact"
     identifier = "contact"
     url = "/contact"
