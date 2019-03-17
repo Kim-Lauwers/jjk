@@ -6,7 +6,7 @@ description = "Onze club heeft een instagram account"
 categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/insta.jpeg"
-listpageImgUrl = "/images/nieuws/insta.jepg"
+listpageImgUrl = "/images/nieuws/insta.jpeg"
 detailpageImgUrl = ""
 [menu.global]
     parent = "nieuws"
