@@ -73,6 +73,12 @@ dateForm = "January 2, 2006"
     weight = 1
 
 [[params.social]]
+	icon = "fa-instagram"
+    name = "Instagram"
+	url = "http://instagram.com/jujitsukeerbergen"
+    weight = 3
+
+[[params.social]]
     icon = "fa-twitter"
     name = "Twitter"
 	url = "https://twitter.com/jjkeerbergen"
