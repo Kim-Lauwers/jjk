@@ -14,6 +14,7 @@ detailpageImgUrl = ""
 Tijdens de paasvakantie zullen we *NIET* op zaterdag trainen.
 
 Volgende zaterdagen is het dus geen training:
+
 * Zaterdag 6 april 2019          
 * Zaterdag 13 april 2019        
 * Zaterdag 20 april 2019        
