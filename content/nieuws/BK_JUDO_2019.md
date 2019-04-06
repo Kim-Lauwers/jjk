@@ -15,6 +15,7 @@ Zoals jullie weten is trainer [Kim Lauwers](https://www.jujitsukeerbergen.be/tra
 Vandaag nam hij deel aan het BK Judo Veteranen. 
 
 Hij heeft daar een mooi resultaat neergezet. 
+
 * In zijn eigen categorie heeft hij **Goud** gehaald (Zijn 4de al).
 * In de open categorie heeft hij mooi *Brons* gehaald.
 
