@@ -20,4 +20,5 @@ Hij heeft daar een mooi resultaat neergezet.
 * In de open categorie heeft hij mooi *Brons* gehaald.
 
 Vanwege,
+
 De trainers, het bestuur
