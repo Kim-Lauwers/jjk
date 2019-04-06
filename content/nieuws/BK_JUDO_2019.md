@@ -7,7 +7,7 @@ categories = []
 author = "Ju-Jitsu Keerbergen"
 homepageImgUrl = "images/nieuws/BK_JUDO_2019.jpg"
 listpageImgUrl = "/images/nieuws/BK_JUDO_2019.jpg"
-detailpageImgUrl = "/images/nieuws/BK_JUDO_2019-large.jpg"
+detailpageImgUrl = "/images/nieuws/BK_JUDO_2019.jpg"
 [menu.global]
     parent = "nieuws"
 +++
