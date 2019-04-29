@@ -7,7 +7,7 @@ categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/parisOpen2019.jpeg"
 listpageImgUrl = "/images/nieuws/parisOpen2019.jpeg"
-detailpageImgUrl = ""
+detailpageImgUrl = "/images/nieuws/parisOpen2019.jpeg"
 [menu.global]
     parent = "nieuws"
 +++
