@@ -23,4 +23,5 @@ layout = "kalender"
 | Zondag 28 april 2019          | Federale training te Zelem - Gasttrainer                                                  |
 | Zondag 19 mei 2019            | Federale training te Zelem - Katana door Maurits Simons                                   |
 | Donderdag 30 mei 2019         | Hemelvaart -> Sporthal gesloten                                                           | 
+| Donderdag 13 juni 2019        | Laatste training van het huidige seizoen                                                  | 
 | Zaterdag 26 oktober 2019      | Competitie Nationaal: Flanders Cup - Groundfight en Random Attacks te Leffinge            | 
