@@ -43,7 +43,8 @@ De eerste € 75 die we "verdienen" zal trooper zelf bijhouden om hun kosten te 
 Wij kunnen natuurlijk ook niet zien wie wat gekocht heeft en hoeveel uw totale bestelling. Trooper zorgt voor uw privacy.
 
 
-Volg zeker onze FB-groep [Ju-Jitsu Keerbergen VZW](https://www.facebook.com/groups/357231384348318/) want hier zullen we jullie up-to-date houden. Bekijk regelmatig onze vernieuwde website op [https://www.jujitsukeerbergen.be](https://www.jujitsukeerbergen.be) want al het laatste nieuws komt hier ook op.
+Volg zeker onze FB-groep [Ju-Jitsu Keerbergen VZW](https://www.facebook.com/groups/357231384348318/) want hier zullen we jullie up-to-date houden. 
+Bekijk regelmatig onze vernieuwde website op [https://www.jujitsukeerbergen.be](https://www.jujitsukeerbergen.be) want al het laatste nieuws komt hier ook op.
 We vragen aan iedereen om hun gegevens bij te werken via [gegevens.jujitsukeerbergen.be](gegevens.jujitsukeerbergen.be).
 
 Bij vragen of opmerkingen aarzel dan zeker niet om ons te contacteren.
