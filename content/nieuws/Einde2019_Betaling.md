@@ -1,6 +1,6 @@
 +++
 title = "Einde seizoen 2019"
-date = 2018-07-03T6:25:31+02:00
+date = 2019-07-03T6:25:31+02:00
 draft = false
 description = "Einde seizoen 2019"
 categories = []
