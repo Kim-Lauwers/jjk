@@ -18,7 +18,7 @@ We zijn spijtig genoeg weeral aan het einde van het sport seizoen gekomen.
 Het einde van het seizoen betekent ook dat we over de betaling van volgend seizoen moeten praten.
 Het lidgeld zal hetzelfde zijn als vorig jaar en we verhogen ons lidgeld dus niet. 
 Indien u VOOR 1 augustus 2019 betaalt geven wij zoals altijd een mooie korting. Bij betaling voor 1 augustus 2019 is het bedrag voor de jeugd 165 euro en voor de volwassenen 215 euro.
-De nieuwe prijs (vanaf 1 augustus 2019) is voor de jeugd 180 euro en voor de volwassenen 230 euro.
+De prijs (vanaf 1 augustus 2019) is voor de jeugd 180 euro en voor de volwassenen 230 euro.
 
 De betalingen kunnen gedaan worden op BE34 9794 2892 3190. Vergeet zeker uw naam niet bij de mededeling.
 
