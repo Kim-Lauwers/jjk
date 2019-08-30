@@ -1,6 +1,6 @@
 +++
 title = "Start seizoen 2019 - 2020"
-date = 2018-08-30T20:08:21+02:00
+date = 2019-08-30T20:08:21+02:00
 draft = false
 description = "Start van het nieuwe seizoen"
 categories = []
