@@ -15,7 +15,7 @@ Zie ook: [trainingen](/trainingen).
 
 ## Algemene administratie
 * Kim Lauwers
-* Stuivenberg 23
+* Broekelei 9
 * 3140 Keerbergen
 * Tel : +32 476 98 38 35
 * Skype: kim_lauwers
