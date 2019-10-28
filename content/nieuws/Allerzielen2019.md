@@ -11,5 +11,5 @@ detailpageImgUrl = ""
 [menu.global]
     parent = "nieuws"
 +++
-Hou er rekening mee dat er op allerzielen geen training is.
+Hou er rekening mee dat er op allerzielen (zaterdag 2 november) geen training is.
 Dit is een feestdag en het sportcomplex is gesloten.
