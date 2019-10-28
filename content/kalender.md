@@ -10,6 +10,7 @@ layout = "kalender"
 | Dinsdag 3  september 2019      | Eerste training van het nieuwe seizoen                                                    | 
 | Zaterdag 26  oktober 2019      | Competitie Nationaal: Flanders Cup - Groundfight en Random Attacks te Leffinge            | 
 | Zaterdag 2   november 2019     | Geen training - Sporthal gesloten                                                         | 
+| Zaterdag 23   november 2019    | Open Oost Vlaams Kampioenschap - Jeugd                                                    | 
 | Zaterdag 21 december 2019      | Geen training                                                                             | 
 | Dinsdag 24 december 2019       | Geen training                                                                             | 
 | Donderdag 26 december 2019     | Geen training - Sporthal gesloten (2de kerstdag)                                          | 
