@@ -18,6 +18,7 @@ layout = "kalender"
 | Dinsdag 31 december 2019       | Geen training - Sporthal gesloten                                                         | 
 | Donderdag 2 januari 2020       | Geen training - Sporthal gesloten                                                         | 
 | Zaterdag 4 januari 2020        | Geen training                                                                             | 
+| 3-5 januari 2020               | [Combat Camp Sweden](http://combatcampsweden.se)                                          | 
 | Zaterdag 11 januari 2020       | Orleans Open vanaf U18                                                                    |
 | 8 en 9 februari 2020           | Kadokan Open Hamburg vanaf U12                                                            |
 | 15 en 16 februari 2020         | Belgisch Kampioenschap (Beveren-Waas) vanaf U12                                           |
