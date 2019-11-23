@@ -13,7 +13,7 @@ detailpageImgUrl = "/images/nieuws/OpenOostVlaams2019.jpg"
 +++
 Vandaag was het competitie dag, onze coach [Wout Duez](https://www.jujitsukeerbergen.be/trainers/#Wout%20Duez) ging met 3 fighters naar het Open Oost Vlaams kampioenschap.
 
-- Victor nam voor de eerste keer deel aan een competitie en heeft laten zien dat hij veel in zijn mars heeft, maar kon vandaag nog geen medaille meebrengen naar huis.
+- Victor nam voor de eerste keer deel aan een competitie en heeft laten zien dat hij veel in zijn mars heeft, maar kon vandaag nog geen medaille meebrengen naar huis en moest zich tevreden stellen met een 4de plaats.
 
 - Seppe Strijbol had een zware dag voor de boeg. Hij had zich ingeschreven in 2 categorieën. Hij vocht in zijn eigen categorie en in een oudere leeftijdscategorie. Hij kwam met brons naar huis.
 
