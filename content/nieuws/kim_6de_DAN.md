@@ -7,7 +7,7 @@ categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "/images/nieuws/DAN_KIM_6DAN.jpg"
 listpageImgUrl = "/images/nieuws/DAN_KIM_6DAN.jpg"
-detailpageImgUrl = "../images/nieuws/KIM_6DAN.png"
+detailpageImgUrl = "../images/nieuws/KIM_6DAN.jpg"
 [menu.global]
     parent = "nieuws"
 +++
