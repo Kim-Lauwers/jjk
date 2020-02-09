@@ -1,5 +1,5 @@
 +++
-title = "Kampioenenviering"
+title = "Kampioenenviering 2019"
 date = 2020-02-09T20:26:19+02:00
 draft = false
 description = "De gemeente Keerbergen viert zijn kampioenen van 2019"
