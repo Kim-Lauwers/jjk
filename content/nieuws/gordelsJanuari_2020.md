@@ -7,7 +7,7 @@ categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "/images/nieuws/jjk_januari_examens_2020_thumb.jpg"
 listpageImgUrl = "/images/nieuws/jjk_januari_examens_2020_thumb.jpg"
-detailpageImgUrl = "../images/nieuws/jjk_januari_examens_2020.jpg"
+detailpageImgUrl = "../images/nieuws/jjk_januari_2020_examens.jpg"
 [menu.global]
     parent = "nieuws"
 +++
