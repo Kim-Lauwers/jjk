@@ -7,7 +7,7 @@ categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/kampioen2019.jpg"
 listpageImgUrl = "/images/nieuws/kampioen2019.jpg"
-detailpageImgUrl = "/images/nieuws/kampioen2019_kb.jpg"
+detailpageImgUrl = "/images/nieuws/kampioen2020_kb.jpg"
 [menu.global]
     parent = "nieuws"
 +++
