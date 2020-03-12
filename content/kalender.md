@@ -23,5 +23,6 @@ layout = "kalender"
 | 8 en 9 februari 2020           | Kadokan Open Hamburg vanaf U12                                                            |
 | 15 en 16 februari 2020         | Belgisch Kampioenschap (Beveren-Waas) vanaf U12                                           |
 | 21, 22 en 23 februari 2020     | Dutch Open (Amersfoort Nederland) vanaf U18 en Europacup (U14 en U16)                     |
+| Maart 2020                     | Tot 31 maart zijn er geen trainingen vanwege Corona - De sporthal is gesloten             |
 | 29 februari 2020               | Open Noord-Hollands Beverwijk vanaf U12                                                   |
 | 4 en 5 april 2020              | Bernauer Tournament vanaf U8                                                              |
