@@ -24,7 +24,8 @@ Dit vinden we natuurlijk **ZEER** spijtig.
 Hou zeker onze website in het oog, we gaan jullie zo goed mogelijk op de hoogte houden.
 
 Om elkaar toch te steunen in het sporten en elkaar uit te dagen wil ik graag een aparte What's App groep maken.
-Hier zal ik dan regelmatig een uitdaging in posten, wil je hier graag deel uit maken, contacteer mij dan even :-)
+Hier zal ik dan regelmatig een uitdaging in posten en binnenkort kunnen we in ons eigen kot #Tabata doen. 
+Wil je hier graag deel uit maken, contacteer mij dan even :-)
 
 Als je wilt pronken met uw sportiviteit mag je onze club altijd taggen op [instagram](http://instagram.com/jujitsukeerbergen) of posten op [facebook](https://www.facebook.com/groups/357231384348318).
 
