@@ -34,4 +34,5 @@ Respecteer de regels, blijft gezond, blijf in uw kot en dan zien we elkaar snel 
 
 
 Vanwege,
+
 De trainers, het bestuur
