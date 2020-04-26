@@ -18,7 +18,7 @@ Voorlopig kunnen er nog geen trainingen doorgaan.
 Maar dit zal ons niet tegenhouden om training te geven. Vandaag hebben we onze eerste online Tabata training gegeven.
 Via video call hebben we allemaal veilig vanuit ons eigen kot samen kunnen trainen.
 
-Je kan u nog steeds inschrijven voor onze [WhatsApp trainingsgroep](https://www.jujitsukeerbergen.be/nieuws/2020/04/16/corona-april---geen-training/).
+Je kan je nog steeds inschrijven voor onze [WhatsApp trainingsgroep](https://www.jujitsukeerbergen.be/nieuws/2020/04/16/corona-april---geen-training/).
 
 
 
