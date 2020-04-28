@@ -14,7 +14,7 @@ detailpageImgUrl = "../images/nieuws/corona-film.jpg"
 
 Beste vrienden, sporters, ouders, ...
  
-We vroegen of je benieuwd was dit beeld met een bal bij Ju-Jitsu hoort?
+We vroegen of je benieuwd was dit beeld met een bal bij Ju-Jitsu doet?
 
 Wel het antwoord kan u [hier](https://youtu.be/anIAH58oOD0) vinden.
 
