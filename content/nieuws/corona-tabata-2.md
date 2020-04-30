@@ -1,6 +1,6 @@
 +++
 title = "Corona Tabata - Online training 2"
-date = 2020-04-30T20:36:31+02:00
+date = 2020-04-30T20:36:32+02:00
 draft = false
 description = "Online training in ons eigen kot"
 categories = []
