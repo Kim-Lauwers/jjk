@@ -5,9 +5,9 @@ draft = false
 description = "Kimono challenge tijdens corona"
 categories = []
 author = "Kim Lauwers"
-homepageImgUrl = "images/nieuws/corona-film-2.jpg"
-listpageImgUrl = "/images/nieuws/corona-film-2.jpg"
-detailpageImgUrl = "../images/nieuws/corona-film-2.jpg"
+homepageImgUrl = "images/nieuws/corona-film-2.png"
+listpageImgUrl = "/images/nieuws/corona-film-2.png"
+detailpageImgUrl = "../images/nieuws/corona-film-2.png"
 [menu.global]
     parent = "nieuws"
 +++
