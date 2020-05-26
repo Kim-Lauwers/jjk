@@ -1,5 +1,5 @@
 +++
-title = "Corona (Update Mei/Juni) - Geen training"
+title = "Corona (Update Mei/Juni) - Geen training (Enkel online) "
 date = 2020-05-26T12:45:31+02:00
 draft = false
 description = "Update corona mei/juni 2020"
