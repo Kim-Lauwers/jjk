@@ -28,7 +28,7 @@ Wij willen voor de veiligheid gaan en nemen dit risico niet.
 
 Ook materiaal mag niet gedeeld worden (ook een fout dat je regelmatig op filmpjes ziet passeren) en ofwel moeten we beperkte trainingen geven zonder materiaal of moeten we aan onze leden vragen om een halve verhuis te organiseren.
 
-Voorlopig lijkt ons het beste en het veiligste om online te blijven trainen. Voor vragen of informatie kan u zoals altijd terug bij het bestuur / trainers.
+Voorlopig lijkt ons het beste en het veiligste om online te blijven trainen. Voor vragen of informatie kan u zoals altijd terecht bij het bestuur / trainers.
 
 Het bestuur en de trainers zitten deze week ook samen om het nieuwe seizoen voor te bereiden, blijf de site volgen voor de volgende updates.
 
