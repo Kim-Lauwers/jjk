@@ -26,7 +26,7 @@ De oefening op de foto zijn zijwaartse mountain climbers.
 Je kan je nog steeds inschrijven voor onze [WhatsApp trainingsgroep](https://www.jujitsukeerbergen.be/nieuws/2020/04/16/corona-april---geen-training/).
 
 
-Respecteer de regels, blijft gezond.
+Respecteer de regels, blijf gezond.
 
 
 Vanwege,
