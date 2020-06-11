@@ -1,5 +1,5 @@
 +++
-title = "Corona Tabata - Online training"
+title = "Corona Tabata - Online training 11/06/2020"
 date = 2020-06-11T22:27:32+02:00
 draft = false
 description = "Online training in ons eigen kot"
