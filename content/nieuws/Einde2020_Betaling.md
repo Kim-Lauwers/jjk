@@ -23,8 +23,9 @@ Je mag normaal al in beperkte groep training geven, maar wij hebben als club bes
 
 Maar **GOED nieuws** hier komt verandering in !
 In augustus gaan we op 
-- dinsdag van 19u tot 20u30 buiten trainen aan de sporthal (We spreken af aan de buitenfitness aan de achterkant van de sporthal).
-- en op donderdag trainen we **IN de zaal met kimono** en dit van 19u tot 20u30. 
+
+* dinsdag van 19u tot 20u30 buiten trainen aan de sporthal (We spreken af aan de buitenfitness aan de achterkant van de sporthal).
+* en op donderdag trainen we **IN de zaal met kimono** en dit van 19u tot 20u30.
 
 Het einde van het seizoen betekent ook dat we over de betaling van volgend seizoen moeten praten.
 Het lidgeld zal hetzelfde zijn als vorig jaar en we verhogen ons lidgeld dus niet. 
