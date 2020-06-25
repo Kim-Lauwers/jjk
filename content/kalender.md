@@ -15,4 +15,4 @@ layout = "kalender"
 | Donderdag 20 augustus 2020                | Training in de zaal van 19u tot 20u30                                                            |
 | Dinsdag   25 augustus 2020                | Buitentraining van 19u tot 20u30 (Afspraak aan buitenfitness aan de achterkant van de sporthal   |
 | Donderdag 27 augustus 2020                | Training in de zaal van 19u tot 20u30                                                            |
-| Dinsdag 1  september 2019                 | Eerste training van het nieuwe seizoen                                                           | 
+| Dinsdag 1  september 2020                 | Eerste training van het nieuwe seizoen                                                           | 
