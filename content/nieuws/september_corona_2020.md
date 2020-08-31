@@ -43,6 +43,9 @@ Sporters in blok A kunnen nog steeds gebruik maken van de toiletten aan de zij-i
 Wij vragen onze leden om het advies van de federatie te volgen om maar 1 club te trainen en **NIET** in verschillende clubs. Trainen in verschillende clubs zou betekenen dat er een kruisbestuiving kan zijn tussen sportbubbels.
 Daarom vragen wij aan onze leden ga **tijdelijk** niet elders trainen en andere mensen die bij ons willen trainen vragen wij op voorhand even contact op te nemen zodat we de eigen club en de federatie op de hoogte kunnen brengen.
 
+## Opvolging
+We volgen alles zo goed mogelijk op. Het kan dus zijn dat we de komende dagen nog wijzigingen doorvoeren zodat we zoveel mogelijk leden op de trainingen kunnen ontvangen.
+MISSCHIEN dat we op donderdag de twee groepen gaan splitsen maar dit gaan we nog even afwachten. Mocht u zelf hints, tips of verbeteringen zien laat ze ons zeker weten.
 
 Volg zeker onze FB-groep [Ju-Jitsu Keerbergen VZW](https://www.facebook.com/groups/357231384348318/) want hier zullen we jullie up-to-date houden. Bekijk regelmatig onze website op [https://www.jujitsukeerbergen.be](https://www.jujitsukeerbergen.be) want al het laatste nieuws komt hier ook op.
 
