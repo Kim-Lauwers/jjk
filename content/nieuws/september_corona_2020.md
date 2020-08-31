@@ -16,8 +16,9 @@ Geachte leden,
 We starten morgen met ons nieuw seizoen en we hebben van onze sportdienst extra regels ontvangen voor het gebruik van onze zaal.
 Wat betreft de toegelaten sporten, is er bovenop de sportbubbel van maximaal 50 personen onder begeleiding van een trainer, nu ook een restrictie in het aantal toegelaten sporters binnen een bepaalde oppervlakte. 
 Voor onze vechtsportzaal wil dit concreet zeggen dat wij maximaal 20 sporters (inclusief trainers) op de tatami mogen ontvangen.
+Deze restrictie telt ALLEEN voor +12 jarigen. Dit wil zeggen dat de hoofdgroep zich voor elke training moet inschrijven. De Jeugdgroep alleen voor de donderdag training !
 
-Daarom moeten wij jullie vragen om tijdelijk in te schrijven voor deelname aan de trainingen. Dit kan u [hier](https://forms.gle/w9amyCY3hn6Rkpyq7) doen.
+Daarom moeten wij jullie vragen om tijdelijk in te schrijven voor deelname aan de trainingen. Dit kan u [hier](https://forms.gle/eQ5CUbsEQa33TT9cA) doen.
 Het is belangrijk om u in te schrijven. Als u zich inschrijft verwachten wij u ook op de training, indien u toch niet kan komen laat het ons dan weten zodat we de plaats aan iemand anders kunnen geven.
 
 ## GDPR
