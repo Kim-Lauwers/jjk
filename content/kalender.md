@@ -7,7 +7,13 @@ layout = "kalender"
 # Kalender
 | Datum                                     | Activiteit                                                                                       |
 | ------------------------------------------|:-------------------------------------------------------------------------------------------------|
-| Dinsdag 1  september 2020                 | Eerste training van het nieuwe seizoen                                                           | 
+| Dinsdag 1 september 2020                 | Eerste training van het nieuwe seizoen                                                           | 
+| Zaterdag 5 september 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/gcwDFRwcsicyNF3V6) | 
+| Dinsdag 8 september 2020                   | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/EGZce8hJmTsPQFbn8)  | 
+| Donderdag 10 september 2020                | Training - Vanwege Corona moet de hoofdgroep en jeugdgroep zich [HIER registreren](https://forms.gle/Z3GJtse21a8RccKs9)  | 
+| Zaterdag 12 september 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/VG1rPw5mDe7kbddX8) | 
+| Dinsdag 15 september 2020                   | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/2NqLKSZ3ojbXxq4fA)  | 
+| Donderdag 17 september 2020                | Training - Vanwege Corona moet de hoofdgroep en jeugdgroep zich [HIER registreren](https://forms.gle/VssF5jJcX7VWKgLSA)  | 
 |10 en 11 oktober 2020                      | Open Vlaams Kampioenschap te Beveren-Waas (Fighting en Duo)                                      |
 |21 november 2020                           | Open Oost Vlaams Kampioenschap te Sint-Niklaas (Fighting en Duo)                                 |
 |30 en 31 Januari 2021                      | Internationale wedstrijd te Beveren-Waas                                                         |
