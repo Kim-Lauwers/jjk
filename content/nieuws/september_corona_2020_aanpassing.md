@@ -31,7 +31,7 @@ Deze aanpassing telt voorlopig voor September, Oktober en November.
 ## Inschrijvingen
 Alleen de hoofdgroep moet zich nu nog inschrijven voor elke training. De jeugdgroep nooit meer.
 Op onze [kalender](https://www.jujitsukeerbergen.be/kalender/) kan u een link vinden naar de inschrijving per training in september. 
-De inschrijvingen van oktober zijn nog niet opengesteld. Als er 20 inschrijvingen zijn zou het formulier normaal automatisch gesloten worden.
+De inschrijvingen van oktober zijn nog niet opengesteld. Als er 20 inschrijvingen zijn zou het formulier normaal automatisch gesloten moeten worden.
 Er is ook geen generisch formulier meer omdat er teveel foute datums ingegeven werden (dagen waarop er geen training was0, deze fout wordt hierdoor dus ook vermeden.
 
 In deze optiek is het dus belangrijk om het volgende de onthouden **Inschrijven = AANWEZIG OP DE TRAINING** want inschrijven is plaats innemen, dus als u niet komt opdagen is er iemand die onterecht niet kon komen trainen.
