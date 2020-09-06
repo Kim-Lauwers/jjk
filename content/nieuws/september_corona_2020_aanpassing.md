@@ -24,7 +24,7 @@ Op donderdag hebben we de trainingen gesplitst.
 ### Voor de volwassenen(vanaf 12 jaar)
 * Elke donderdag van 19:30 tot 21:00.  
 
-Hierdoor hoeft de jeugd (-12 jaar) zich NOOIT in de te schrijven en kunnen er op donderdag steeds maximaal aantal mensen trainen. Dus op de hoofdgroep mogen er 20 volwassenen zijn.
+Hierdoor hoeft de jeugd (-12 jaar) zich NOOIT in de te schrijven en kunnen er op donderdag steeds maximaal aantal mensen trainen. Dus tijdens hoofdgroep mogen er 20 volwassenen aanwezig zijn.
 
 Deze aanpassing blijft voor September, Oktober en November.
 
