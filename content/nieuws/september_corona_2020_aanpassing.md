@@ -26,7 +26,7 @@ Op donderdag hebben we de trainingen gesplitst.
 
 Hierdoor hoeft de jeugd (-12 jaar) zich NOOIT in de te schrijven en kunnen er op donderdag steeds maximaal aantal mensen trainen. Dus tijdens hoofdgroep mogen er 20 volwassenen aanwezig zijn.
 
-Deze aanpassing blijft voor September, Oktober en November.
+Deze aanpassing telt voorlopig voor September, Oktober en November.
 
 ## Inschrijvingen
 Alleen de hoofdgroep moet zich nu nog inschrijven voor elke training. De jeugdgroep nooit meer.
