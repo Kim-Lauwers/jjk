@@ -16,6 +16,16 @@ layout = "trainingen"
 * Elke donderdag van 19:00 tot 21:00. Dit is een gezamelijke dynamische training (Jeugd en Volwassenen samen / Enkel het eerste uur) 
 * Elke zaterdag van 10:00 tot 12:00.
 
+
+### BELANGRIJK
+Vanwege Corona zijn de trainingsuren op donderdag aangepast. 
+Tijdens de maanden september, oktober, november zijn dit de aangepaste uren voor donderdag:
+#### Voor de kinderen (van 8 jaar tot en met 12 jaar)
+* Elke donderdag van 18:30 tot 19:30.
+
+#### Voor de volwassenen(vanaf 12 jaar)
+* Elke donderdag van 19:30 tot 21:00. 
+
 ## Locatie
 * Gemeentelijke Sporthal Keerbergen
 * Putsebaan 103
