@@ -74,4 +74,6 @@ Belangrijk detail is dat je zelf **NIETS** extra betaald, het zijn de winkels di
 De eerste € 75 die we "verdienen" zal trooper zelf bijhouden om hun kosten te dekken, vanaf dan gaat het geld naar onze club.
 Wij kunnen natuurlijk ook niet zien wie wat gekocht heeft en hoeveel uw totale bestelling. Trooper zorgt voor uw privacy.
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).Het einde van het seizoen betekent ook dat we over de betaling van volgend seizoen moeten praten.       
+
+
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).       
