@@ -12,7 +12,7 @@ layout = "kalender"
 | Dinsdag 8 september 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/EGZce8hJmTsPQFbn8)  | 
 | Donderdag 10 september 2020               | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/Z3GJtse21a8RccKs9)  | 
 | Zaterdag 12 september 2020                | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/VG1rPw5mDe7kbddX8) | 
-| Dinsdag 15 september 2020                 | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/2NqLKSZ3ojbXxq4fA)  | 
+| Dinsdag 15 september 2020                 | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/2NqLKSZ3ojbXxq4fA) - Breng drinken en een T-shirt mee  | 
 | Donderdag 17 september 2020               | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/VssF5jJcX7VWKgLSA)  | 
 | Zaterdag 19 september 2020                | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/TdnNwmnHfBapMsRD8) | 
 | Dinsdag 22 september 2020                 | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://docs.google.com/forms/d/e/1FAIpQLSeWYeaCyswSryW3ORVSVWcw4vfj9pJykSa1CsZaSqZgZjvNqg/viewform?usp=sf_link)  | 
