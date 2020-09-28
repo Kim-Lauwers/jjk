@@ -19,10 +19,10 @@ layout = "kalender"
 | Donderdag 24 september 2020               | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/MitfUPsmkNTZjLRT6)  | 
 | Zaterdag 26 september 2020                | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/mbonHanhV2W3og8B7) | 
 | Dinsdag 29 september 2020                 | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/XCRbhefXW3YkGcuQA) |
-| Zaterdag 31 oktober 2020                  | GEEN training vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
-| Zaterdag 7 november 2020                  | GEEN training vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
-| Zaterdag 14 november 2020                 | GEEN training vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
-| Zaterdag 28 november 2020                 | GEEN training vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
+| Zaterdag 31 oktober 2020                  | **GEEN training** vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
+| Zaterdag 7 november 2020                  | **GEEN training** vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
+| Zaterdag 14 november 2020                 | **GEEN training** vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
+| Zaterdag 28 november 2020                 | **GEEN training** vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
 ||Voor de volgende trainingen volgen de inschrijvingsformulieren nog|
 |10 en 11 oktober 2020                      | Open Vlaams Kampioenschap te Beveren-Waas (Fighting en Duo)                                      |
 |21 november 2020                           | Open Oost Vlaams Kampioenschap te Sint-Niklaas (Fighting en Duo)                                 |
