@@ -19,6 +19,19 @@ layout = "kalender"
 | Donderdag 24 september 2020               | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)| 
 | Zaterdag 26 september 2020                | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)| 
 | Dinsdag 29 september 2020                 | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/XCRbhefXW3YkGcuQA) |
+| Donderdag 1 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/847GgcdwWirfTuc7A)|
+| Zaterdag 3 oktober 2020                   | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/u7SFaNzfdA1tzuU19)|
+| Dinsdag 6 oktober 2020                    | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/J95u3tCZrGrWqNV18)|
+| Donderdag 8 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/3PGCKGRxCqzUnAYQ7)|
+| Zaterdag 10 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/TFDdRyh3uN1W4e6d9)|
+| Dinsdag 13 oktober 2020                   | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/CZxv1eSayjc1TmtJ7)|
+| Donderdag 15 oktober 2020                 | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/gJW9LdQ4Gmd2uMvB7)|
+| Zaterdag 17 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/rMPUR2zuVNeGkYcDA)|
+| Dinsdag 20 oktober 2020                   | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/mLSD2WpTuZfhQbrP6)|
+| Donderdag 22 oktober 2020                 | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/TYUg9PYbYPPH1haCA)|
+| Zaterdag 24 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/FFLsm7PgYd6HqF676)|
+| Dinsdag 27 oktober 2020                   | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/RbcV2zoomKXGCrMZ6)|
+| Donderdag 29 oktober 2020                 | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/bUgVd9FcVKJujih58)|
 | Zaterdag 31 oktober 2020                  | **GEEN training** vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
 | Zaterdag 7 november 2020                  | **GEEN training** vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
 | Zaterdag 14 november 2020                 | **GEEN training** vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
