@@ -24,6 +24,7 @@ layout = "kalender"
 | Dinsdag 6 oktober 2020                    | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/J95u3tCZrGrWqNV18)|
 | Donderdag 8 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/3PGCKGRxCqzUnAYQ7)|
 | Zaterdag 10 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/TFDdRyh3uN1W4e6d9)|
+| 10 en 11 oktober 2020                      | Open Vlaams Kampioenschap te Beveren-Waas (Fighting en Duo)                                      |
 | Dinsdag 13 oktober 2020                   | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/CZxv1eSayjc1TmtJ7)|
 | Donderdag 15 oktober 2020                 | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/gJW9LdQ4Gmd2uMvB7)|
 | Zaterdag 17 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/rMPUR2zuVNeGkYcDA)|
@@ -35,10 +36,9 @@ layout = "kalender"
 | Zaterdag 31 oktober 2020                  | **GEEN training** vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
 | Zaterdag 7 november 2020                  | **GEEN training** vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
 | Zaterdag 14 november 2020                 | **GEEN training** vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
+| Zaterdag 21 november 2020                 | Open Oost Vlaams Kampioenschap te Sint-Niklaas (Fighting en Duo)                                 |
 | Zaterdag 28 november 2020                 | **GEEN training** vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
 ||Voor de volgende trainingen volgen de inschrijvingsformulieren nog|
-|10 en 11 oktober 2020                      | Open Vlaams Kampioenschap te Beveren-Waas (Fighting en Duo)                                      |
-|21 november 2020                           | Open Oost Vlaams Kampioenschap te Sint-Niklaas (Fighting en Duo)                                 |
 |30 en 31 Januari 2021                      | Internationale wedstrijd te Beveren-Waas                                                         |
 |20 maart 2021                              | Open Antwerps Kampioenschap te Zwijndrecht                                                       |
 |?? Mei                                     | Belgisch Kampioenschap (nog te bevestigen door FFJJ)                                             |
