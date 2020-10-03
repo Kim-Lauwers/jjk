@@ -54,4 +54,7 @@ De cursus gaat door op 4 zaterdagen en steeds van 9 uur tot 13 uur.
 Inschrijven kan via deze **[link](https://docs.google.com/forms/d/e/1FAIpQLSehxUHuMKYIULkOCLcpUC6NXijzihLiiFRuBSBwB3wd-4EwPA/viewform?vc=0&c=0&w=1&flr=0)** doen.
 Deze cursus kost maar **50 EURO**. 
 
+## VTS
+Je kan deze cursus [hier](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) op de VTS-website terugvinden.
+
 Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
