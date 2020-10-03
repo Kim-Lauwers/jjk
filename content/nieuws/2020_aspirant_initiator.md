@@ -18,7 +18,7 @@ Zowel trainer [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwe
 
 Dit is een traject van lange adem waar meerdere jaren over heen gaan. Voor mij persoonlijk heeft het 13 jaar geduurd om dit diploma te behalen en ik heb het geluk gehad om dit heel snel te halen.
 
-Dit traject bestaat uit het behalen van verschillende opeenvolgende levels van diploma Aspirant-Initiator, Toelatingsproef, Initiator, Trainer B - Compititie en dan Trainer A - Compititie.
+Dit traject bestaat uit het behalen van verschillende opeenvolgende levels van diploma Aspirant-Initiator, Toelatingsproef, Initiator, Trainer B - Competitie en dan Trainer A - Competitie.
 Vanaf Initiator bestaat elk diploma uit 2 opleidingen een algemeen gedeelte en een sport-specifiek. 
 
 Aspirant-Initiator is wel een uitstekende voorbereiding op de volgende cursussen (in het bijzonder voor de minder ervaren lesgevers). 
