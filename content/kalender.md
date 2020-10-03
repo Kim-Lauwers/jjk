@@ -18,9 +18,9 @@ layout = "kalender"
 | Dinsdag 22 september 2020                 | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)| 
 | Donderdag 24 september 2020               | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)| 
 | Zaterdag 26 september 2020                | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)| 
-| Dinsdag 29 september 2020                 | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/XCRbhefXW3YkGcuQA) |
-| Donderdag 1 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/847GgcdwWirfTuc7A)|
-| Zaterdag 3 oktober 2020                   | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/u7SFaNzfdA1tzuU19)|
+| Dinsdag 29 september 2020                 | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
+| Donderdag 1 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
+| Zaterdag 3 oktober 2020                   | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
 | Dinsdag 6 oktober 2020                    | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/J95u3tCZrGrWqNV18)|
 | Donderdag 8 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/3PGCKGRxCqzUnAYQ7)|
 | Zaterdag 10 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/TFDdRyh3uN1W4e6d9)|
