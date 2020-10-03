@@ -1,6 +1,6 @@
 +++
 title = "Aspirant-Initator 2020"
-date = 2020-08-03T19:08:21+02:00
+date = 2020-10-03T19:08:21+02:00
 draft = false
 description = "Ju-Jitsu Keerbergen organiseert de opleiding: Aspirant-Initator"
 categories = []
