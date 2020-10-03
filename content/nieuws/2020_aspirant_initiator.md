@@ -34,7 +34,7 @@ Door het volgen van deze module leert de cursist:
 
 ### Toelatingsvoorwaarden:
 
-- Minstens 16 jaar worden in de loop van het kalenderjaar waarin de cursus start.
+- Minstens 15 jaar worden in de loop van het kalenderjaar waarin de cursus start.
 
 # Organisatie te Keerbergen
 Wij organiseren voor het eerst een VTS-cursus in onze club / dojo.
