@@ -38,6 +38,12 @@ layout = "kalender"
 | Zaterdag 14 november 2020                 | **GEEN training** vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
 | Zaterdag 21 november 2020                 | Open Oost Vlaams Kampioenschap te Sint-Niklaas (Fighting en Duo)                                 |
 | Zaterdag 28 november 2020                 | **GEEN training** vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
+| Dinsdag 22 december 2020                  | **GEEN training** - Kerstvakantie |
+| Donderdag 24 december 2020                | **GEEN training** - Kerstvakantie - Sporthal is gesloten |
+| Zaterdag 26 december 2020                 | **GEEN training** - Kerstvakantie - Sporthal is gesloten |
+| Dinsdag 29 december 2020                  | **GEEN training** - Kerstvakantie |
+| Donderdag 31 december 2020                | **GEEN training** - Kerstvakantie - Sporthal is gesloten |
+| Zaterdag 02 januari 2021                  | **GEEN training** - Kerstvakantie - Sporthal is gesloten |
 ||Voor de volgende trainingen volgen de inschrijvingsformulieren nog|
 |30 en 31 Januari 2021                      | Internationale wedstrijd te Beveren-Waas                                                         |
 |20 maart 2021                              | Open Antwerps Kampioenschap te Zwijndrecht                                                       |
