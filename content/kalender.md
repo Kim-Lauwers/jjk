@@ -32,6 +32,7 @@ layout = "kalender"
 | Donderdag 22 oktober 2020                 | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/TYUg9PYbYPPH1haCA)|
 | Zaterdag 24 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/FFLsm7PgYd6HqF676)|
 | Dinsdag 27 oktober 2020                   | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/RbcV2zoomKXGCrMZ6)|
+| Dinsdag 27 oktober 2020                   | [Bloed donatie te Keerbergen](https://donorportaal.rodekruis.be/Schedule/SiteSearch.aspx?SearchType=Distance&PostalCode=3140)|
 | Donderdag 29 oktober 2020                 | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/bUgVd9FcVKJujih58)|
 | Zaterdag 31 oktober 2020                  | **GEEN training** vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
 | Zaterdag 7 november 2020                  | **GEEN training** vanwege Aspirant Initiator - U kan zich [HIER registreren](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) voor deze opleiding van VTS|
