@@ -32,7 +32,7 @@ Verder vragen wij u zeker ons op de hoogte te houden bij ziekte (we behandelen d
 
 Vergeet u niet in te schrijven voor de trainingen, de link kan u steeds op de kalender terugvinden.
 
-#WhatsApp
+# WhatsApp
 Wisten jullie dat wij een WhatsApp groep hebben waar de meeste van onze leden inzitten.
 Op deze manier kan er gemakkelijk en snel gecommuniceerd worden.
 Indien u graag hier lid van wil worden neem dan even contact op met ons.
