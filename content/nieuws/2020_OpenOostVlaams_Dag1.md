@@ -2,7 +2,7 @@
 title = "Open Vlaams Kampioenschap Ju-Jitsu 2020 - Dag 1"
 date = 2020-10-10T21:03:19+02:00
 draft = false
-description = "Een samenvatting van de eerst dag op het Open Oost Vlaams Kampioenschap 2020"
+description = "Een samenvatting van de 1ste dag op het Open Oost Vlaams Kampioenschap 2020"
 categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/2020openoostvlaamsdag1thumb.jpg"
