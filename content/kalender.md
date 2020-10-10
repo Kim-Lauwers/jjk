@@ -23,7 +23,7 @@ layout = "kalender"
 | Zaterdag 3 oktober 2020                   | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
 | Dinsdag 6 oktober 2020                    | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
 | Donderdag 8 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
-| Zaterdag 10 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/TFDdRyh3uN1W4e6d9)|
+| Zaterdag 10 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
 | 10 en 11 oktober 2020                      | Open Vlaams Kampioenschap te Beveren-Waas (Fighting en Duo)                                      |
 | Dinsdag 13 oktober 2020                   | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/CZxv1eSayjc1TmtJ7)|
 | Donderdag 15 oktober 2020                 | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/gJW9LdQ4Gmd2uMvB7)|
