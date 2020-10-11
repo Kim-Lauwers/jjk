@@ -21,6 +21,7 @@ Zowel Seppe als Brecht behaalden vandaag een **GOUDEN** medaille en mogen zich d
 
 
 Zo komt de eindstand van dit weekend op 4 medailles met 5 deelnemende fighters van onze club.
+
 - 2 maal **Goud**
 - 1 maal **Zilver**
 - 1 maal **Brons**
