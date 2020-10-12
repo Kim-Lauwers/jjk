@@ -23,6 +23,10 @@ Op zaterdag 31 oktober en 7 november is er **geen** training vanwege de [aspiran
 Tijdens de kerstvakantie is er **GEEN** training. De sporthal is op de meeste trainingsdagen gesloten. 
 Na rondvraag in de club bleek de interesse om op de paar dagen dat de sporthal open was vrij beperkt waardoor we besloten hebben om heel de kerstvakantie niet te trainen.
 
+### WhatsApp
+Wisten jullie dat wij een WhatsApp groep hebben waar de meeste van onze leden inzitten.
+Op deze manier kan er gemakkelijk en snel gecommuniceerd worden.
+Indien u graag hier lid van wil worden neem dan even contact op met ons.
 
 
 Vanwege,
