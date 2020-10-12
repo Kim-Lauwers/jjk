@@ -1,6 +1,6 @@
 +++
 title = "Herfst-Kerst vakantie 2020 "
-date = 2020-10-12T13:30:21+02:00
+date = 2020-10-13T20:30:21+02:00
 draft = false
 description = "Trainen we in de vakanties?"
 categories = []
