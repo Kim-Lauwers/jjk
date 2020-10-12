@@ -23,8 +23,8 @@ Morgen 13 oktober mag de training gewoon doorgaan. Daarna mogen wij trainen **ZO
 
 Momenteel liggen volgende pistes open:
 
-* We hebben de vraag reeds aan de gemeente gesteld of er buiten een tent / overdekking voorzien kan worden zodat wij buiten kunnen trainen (daar gelden andere regels)
-* We blijven trainen maar volledig contactloos (mogelijks zal de training dan verkort worden naar 1 uur ofzo ipv 2 uur)
+* 1) We hebben de vraag reeds aan de gemeente gesteld of er buiten een tent / overdekking voorzien kan worden zodat wij buiten kunnen trainen (daar gelden andere regels)
+* 2) We blijven trainen maar volledig contactloos (mogelijks zal de training dan verkort worden naar 1 uur ofzo ipv 2 uur)
 
 Heeft u zelf nog opties laat ze ons zeker weten. Wij houden jullie op de hoogte.
 
