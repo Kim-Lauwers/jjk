@@ -15,6 +15,7 @@ Geachte leden,
 
 Wij hebben via de krant vernomen dat indoor sporten waarbij de afstand niet gegarandeert kan worden niet meer mogen doorgaan.
 Zie bv [HLN]( https://www.hln.be/nieuws/binnenland/sportwereld-naar-code-oranje-indoorsporten-waar-afstand-van-1-5-meter-niet-mogelijk-is-verboden-vanaf-woensdag~a9d41cde/).
+De informatie die wij op dit moment hebben is dus zeer beperkt maar willen al wel zo snel mogelijk communiceren naar jullie. Er is voorlopig al een kort contact geweest met de gemeente Keerbergen.
 
 Voor onze jeugdgroep is de impact zeer beperkt. Zij kunnen blijven sporten maar voor hun is de kleedkamer verboden. Dus zij zullen in kimono moeten arriveren.
 
@@ -23,7 +24,7 @@ Morgen 13 oktober mag de training gewoon doorgaan. Daarna mogen wij trainen **ZO
 
 Momenteel liggen volgende pistes open:
 
-* We hebben de vraag aan de gemeente gesteld of er buiten een tent / overdekking voorzien kan worden zodat bij buiten kunnen trainen (daar gelden andere regels)
+* We hebben de vraag reeds aan de gemeente gesteld of er buiten een tent / overdekking voorzien kan worden zodat bij buiten kunnen trainen (daar gelden andere regels)
 * We blijven trainen maar volledig contactloos (mogelijks zal de training dan verkort worden naar 1 uur ofzo ipv 2 uur)
 
 Heeft u zelf nog opties laat ze ons zeker weten. Wij houden jullie op de hoogte.
