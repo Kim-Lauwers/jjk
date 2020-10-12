@@ -12,7 +12,6 @@ detailpageImgUrl = ""
     parent = "nieuws"
 +++
 Geachte leden,
-
 Wij hebben via de krant vernomen dat indoor sporten waarbij de afstand niet gegarandeert kan worden niet meer mogen doorgaan.
 Zie bv [HLN]( https://www.hln.be/nieuws/binnenland/sportwereld-naar-code-oranje-indoorsporten-waar-afstand-van-1-5-meter-niet-mogelijk-is-verboden-vanaf-woensdag~a9d41cde/).
 De informatie die wij op dit moment hebben is dus zeer beperkt maar willen al wel zo snel mogelijk communiceren naar jullie. Er is voorlopig al een kort contact geweest met de gemeente Keerbergen.
@@ -28,6 +27,8 @@ Momenteel liggen volgende pistes open:
 * We blijven trainen maar volledig contactloos (mogelijks zal de training dan verkort worden naar 1 uur ofzo ipv 2 uur)
 
 Heeft u zelf nog opties laat ze ons zeker weten. Wij houden jullie op de hoogte.
+
+**ONS HOOFDDOEL IS OM ZOVEEL MOGELIJK TE BLIJVEN SPORTEN / BEWEGEN**
 
 # WhatsApp
 Wisten jullie dat wij een WhatsApp groep hebben waar de meeste van onze leden inzitten.
