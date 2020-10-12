@@ -1,11 +1,10 @@
 +++
 title = "Herfst-Kerst vakantie 2020 "
-date = 2020-10-11T22:03:19+02:00
+date = 2020-10-12T23:03:19+02:00
 draft = false
 description = "Trainen we in de vakanties?"
 categories = []
 author = "Kim Lauwers"
-homepageImgUrl = ""
 homepageImgUrl = "images/nieuws/kerst.jpg"
 listpageImgUrl = "/images/nieuws/kerst.jpg"
 [menu.global]
