@@ -39,11 +39,16 @@ Er wordt lesgegeven door [Sport vlaanderen erkende / gediplomeerde trainers](/tr
 
 Een seizoen loopt van september tot augustus. Zomertrainingen tijdens juli en augustus worden jaar per jaar beslist en zijn geen garantie dat deze altijd doorgaan.
 
+* Voor de jeugd (van 8 jaar tot en met 12 jaar): € 180
+* Voor de volwassenen(vanaf 12 jaar): € 230
+
+Deze lidgelden omvatten het lesgeld + aansluiting bij federatie / verzekering.
+
 ## Tussentijdse lidmaatschapsbijdrage
 Tijdens een lopende sportseizoen kan er ook nog aangesloten en dan wordt het lidgeld pro-rata berekend op de nog lopende termijn (De zomermaanden worden hier niet bijgerekend). De kosten van de aansluiting bij de federatie en de verzekering kunnen niet pro-rata berekend worden en dienen steeds volledig betaald te worden.
 
 ## Kortingsregeling
-Vanaf een tweede lid van hetzelfde gezin met dezelfde domiciliëring (adres van inschrijving) krijgt men een korting van 15€ op het jaarlijkse lidgeld van de vereniging. 
+Vanaf een tweede lid van hetzelfde gezin met dezelfde domiciliëring (adres van inschrijving) krijgt men een korting van € 15 op het jaarlijkse lidgeld van de vereniging. 
 
 ## Betalingsregeling op verzoek
 Op aanvraag van het lid of bij minderjarigen hun ouder(s) / wettelijke voogd kan er discreet een betalingsregeling overeengekomen worden met het bestuur van de club. 
