@@ -37,7 +37,7 @@ dateForm = "January 2, 2006"
 [[menu.global]]
     name = "Lidmaatschap & Training"
     identifier = "lidmaatschap-training"
-    url = "/lidmaatschap-training"
+    url = "/trainingen"
     weight = 15
 
 [[menu.global]]
