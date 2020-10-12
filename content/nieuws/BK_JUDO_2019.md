@@ -11,7 +11,7 @@ detailpageImgUrl = "/images/nieuws/BK_JUDO_2019.jpg"
 [menu.global]
     parent = "nieuws"
 +++
-Zoals jullie weten is trainer [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers) ook een trainer in de Judo.
+Zoals jullie weten is trainer [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers) ook een trainer in de Judo-club te [Duffel](http://judoduffel.be).
 Vandaag nam hij deel aan het BK Judo Veteranen. 
 
 Hij heeft daar een mooi resultaat neergezet. 
