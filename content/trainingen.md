@@ -35,6 +35,12 @@ Tijdens de maanden september, oktober, november zijn dit de aangepaste uren voor
 ## Trainers
 Er wordt lesgegeven door [Sport vlaanderen erkende / gediplomeerde trainers](/trainers)
 
+# Trainingskledij 
+* De GI (broek en vest) is wit. Enkel trainers kunnen een andere kleur GI dragen 
+* De GI mag enkel van logo’s en reclame voorzien worden die door het Bestuur werden goedgekeurd
+* Aan representaties binnen de VJJF en BJJF of internationale wedstrijden gelinkt aan JJIF wordt steeds deelgenomen onder Ju-Jitsu Keerbergen en in outfit van Ju-Jitsu Keerbergen (wedstrijdgi en trainingsoutfit)
+* De wedstrijdgi bevat geen symbolen van andere clubs of verwijzing naar andere club, enkel Ju-Jitsu Keerbergen en hun sponsors zullen hier naar voor komen.
+
 # Lidmaatschap
 
 Een seizoen loopt van september tot augustus. Zomertrainingen tijdens juli en augustus worden jaar per jaar beslist en zijn geen garantie dat deze altijd doorgaan.
@@ -58,9 +64,3 @@ Een goedgekeurde betalingsregeling is slechts geldig voor 1 sportseizoen.
 
 ## Terugbetalingen
 Betaalde lidgelden zijn nooit terugvorderbaar.
-
-# Trainingskledij 
-* De GI (broek en vest) is wit. Enkel trainers kunnen een andere kleur GI dragen 
-* De GI mag enkel van logo’s en reclame voorzien worden die door het Bestuur werden goedgekeurd
-* Aan representaties binnen de VJJF en BJJF of internationale wedstrijden gelinkt aan JJIF wordt steeds deelgenomen onder Ju-Jitsu Keerbergen en in outfit van Ju-Jitsu Keerbergen (wedstrijdgi en trainingsoutfit)
-* De wedstrijdgi bevat geen symbolen van andere clubs of verwijzing naar andere club, enkel Ju-Jitsu Keerbergen en hun sponsors zullen hier naar voor komen.
