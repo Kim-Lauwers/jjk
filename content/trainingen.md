@@ -29,7 +29,7 @@ Vanwege **Corona** zijn de trainingsuren tijdelijk aangepast.
 Deze trainingen zijn volledig contactloos. Naast uw kimono zeker ook een T-shirt om te trainen mee brengen.
  
 * Elke dinsdag van 19:00 tot 20:00.  
-* Elke donderdag van 19:30 tot 21:00. 
+* Elke donderdag van 19:30 tot 20:30. 
 * Elke zaterdag van 10:00 tot 11:00.
 
 ## Locatie
