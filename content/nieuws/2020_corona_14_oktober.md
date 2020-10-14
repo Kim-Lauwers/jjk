@@ -14,7 +14,8 @@ detailpageImgUrl = ""
 Geachte leden,
 
 Vanaf vandaag geldt in Vlaanderen **code oranje** voor de [sport](https://www.sport.vlaanderen/sporten-in-tijden-van-corona/). Deze code wordt na de herfstvakantie opnieuw geëvalueerd en we kunnen alleen maar hopen dat het dan terug positiever is.
-
+Zoals de meeste van jullie weten is mijn vriendin hoogzwanger, u mag er zeker van zijn dat ik alle maatregelen neem om de trainingen op de club veilig te laten verlopen.
+Ik neem zelf geen risico's.
 
 Welke impact heeft deze code op onze club?
 
@@ -54,6 +55,12 @@ Verder vragen we natuurlijk dat u bij een corona-besmetting of bij een risico on
 
 **ONS HOOFDDOEL IS OM ZOVEEL MOGELIJK TE BLIJVEN SPORTEN / BEWEGEN** want de enige andere optie momenteel is de training aflassen voor de hoofdgroep en dit willen wij als club vermijden. Ook al merken we dat sommige andere concullega's voor deze optie zijn gegaan vinden wij als club dat de fysieke en mentale gezondheid veel te belangrijk is om zomaar de trainingen af te lassen.
 Wij hebben ook het volste vertrouwen dat onze trainers samen met jullie dit op een veilige manier kunnen doen want we zitten samen in deze situatie.
+
+# Aspirant-Initiator
+Wij hebben ook net bericht ontvangen dat de [VTS-cursus: Aspirant-Initiator](https://www.jujitsukeerbergen.be/nieuws/2020/10/03/aspirant-initator-2020/) die we in onze club gingen organiseren van de federatie niet mag doorgaan vanwege code oranje. Hopelijk blijven jullie gemotiveerd om deze opleiding binnenkort toch te volgen als deze mag doorgaan.
+Normaal zullen jullie allemaal een mail ontvangen om ofwel jullie geld terug te ontvangen of jullie inschrijving te verzetten naar een volgende opleiding. Hierdoor zullen de 4 zaterdagen dus terug vrijkomen voor onze clubtrainingen.
+Waarschijnlijk zal deze cursus pas in 2021 opnieuw georganiseerd worden maar dan kunnen er misschien nog andere mensen extra deelnemen van de club die nu nog net te jong zijn.
+
 
 # WhatsApp
 Wisten jullie dat wij een WhatsApp groep hebben waar de meeste van onze leden inzitten.
