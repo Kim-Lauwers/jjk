@@ -6,6 +6,9 @@ layout = "trainingen"
 +++
 # Trainingen
 ## Tijdstippen
+
+Vanwege **Corona** zijn de uren tijdelijk aangepast, zie onderaan.
+
 ### Voor de kinderen (van 8 jaar tot en met 12 jaar)
 * Elke dinsdag van 18:00 tot 19:00. 
 * Elke donderdag van 19:00 tot 20:00. Dit is een dynamische training (Jeugd en Volwassenen samen, aparte trainers).
@@ -23,7 +26,8 @@ Vanwege **Corona** zijn de trainingsuren tijdelijk aangepast.
 * Elke donderdag van 18:30 tot 19:30.
 
 #### Voor de volwassenen(vanaf 12 jaar)
-Deze trainingen zijn volledig contactloos. Naast uw kimono zeker ook een T-shirt om te trainen mee brengen. 
+Deze trainingen zijn volledig contactloos. Naast uw kimono zeker ook een T-shirt om te trainen mee brengen.
+ 
 * Elke dinsdag van 19:00 tot 20:00.  
 * Elke donderdag van 19:30 tot 21:00. 
 * Elke zaterdag van 10:00 tot 11:00.
