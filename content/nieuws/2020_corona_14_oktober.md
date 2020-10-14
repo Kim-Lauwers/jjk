@@ -33,6 +33,13 @@ Voor deze groep is de impact het grootste
 * 2) De kleedkamers zijn vanaf heden gesloten en kunnen dus niet gebruikt worden. Jullie moeten dus tijdelijk in kimono naar de sporthal komen. Hou hier zeker rekening met het feit dat als het regent jullie toch iets van sport/regen kledij over de kimono moeten aandoen zodat jullie met een droge kimono op de mat kunnen. Breng zeker ook een sporttas mee zodat je geen materiaal na de training vergeet.
 * 3) De trainingen zijn momenteel **volledig contactloos**. Je komt steeds in kimono, maar breng steeds een extra T-shirt mee omdat de kimono-vest niet altijd nodig zal zijn.
 * 4) De trainingen worden ingekort naar 1 uur (zie ook [trainingen](https://www.jujitsukeerbergen.be/trainingen/)). Hou er rekening mee dat deze wel eens kunnen uitlopen :-)
+    
+    Concreet wil dit dus zeggen:
+    
+    * - Elke dinsdag van 19:00 tot 20:00.  
+    * - Elke donderdag van 19:30 tot 20:30. 
+    * - Elke zaterdag van 10:00 tot 11:00.
+    
 * 5) Het aantal leden die in de zaal mogen wordt verlaagd van 20 naar 11. Dit is een heel spijtige zaak. We gaan dus vanaf nu wel sommige mensen moeten teleurstellen.
 * 6) Inschrijven voor een training blijft verplicht en nog steeds telt de regel inschrijven = aanwezig zijn.
 
