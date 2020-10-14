@@ -18,13 +18,14 @@ layout = "trainingen"
 
 
 ### BELANGRIJK
-Vanwege Corona zijn de trainingsuren op donderdag aangepast. 
-Tijdens de maanden september, oktober, november zijn dit de aangepaste uren voor donderdag:
+Vanwege **Corona** zijn de trainingsuren tijdelijk aangepast. 
 #### Voor de kinderen (van 8 jaar tot en met 12 jaar)
 * Elke donderdag van 18:30 tot 19:30.
 
-#### Voor de volwassenen(vanaf 12 jaar)
+#### Voor de volwassenen(vanaf 12 jaar) 
+* Elke dinsdag van 19:00 tot 20:00. 
 * Elke donderdag van 19:30 tot 21:00. 
+* Elke zaterdag van 10:00 tot 11:00.
 
 ## Locatie
 * Gemeentelijke Sporthal Keerbergen
