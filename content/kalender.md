@@ -25,7 +25,7 @@ layout = "kalender"
 | Donderdag 8 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
 | Zaterdag 10 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
 | 10 en 11 oktober 2020                      | Open Vlaams Kampioenschap te Beveren-Waas (Fighting en Duo) - Onze resultaten: [dag 1](https://www.jujitsukeerbergen.be/nieuws/2020/10/10/open-vlaams-kampioenschap-ju-jitsu-2020---dag-1/) en [dag 2](https://www.jujitsukeerbergen.be/nieuws/2020/10/11/open-vlaams-kampioenschap-ju-jitsu-2020---dag-2/)                                      |
-| Dinsdag 13 oktober 2020                   | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/CZxv1eSayjc1TmtJ7)|
+| Dinsdag 13 oktober 2020                   | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
 | Donderdag 15 oktober 2020                 | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/gJW9LdQ4Gmd2uMvB7)|
 | Zaterdag 17 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/rMPUR2zuVNeGkYcDA)|
 | Dinsdag 20 oktober 2020                   | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/mLSD2WpTuZfhQbrP6)|
