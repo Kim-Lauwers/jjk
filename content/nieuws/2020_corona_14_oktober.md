@@ -41,7 +41,7 @@ Voor deze groep is de impact het grootste
     * - Elke zaterdag van 10:00 tot 11:00.
     
 * 5) Het aantal leden die in de zaal mogen wordt verlaagd van 20 naar 11. Dit is een heel spijtige zaak. We gaan dus vanaf nu wel sommige mensen moeten teleurstellen.
-* 6) Inschrijven voor een training blijft verplicht en nog steeds telt de regel inschrijven = aanwezig zijn.
+* 6) Inschrijven voor een training blijft verplicht en nog steeds telt de regel inschrijven = aanwezig zijn. De links om u in schrijven kan u steeds op de [kalender](https://www.jujitsukeerbergen.be/kalender/) terugvinden.
 * 7) Het aantal ingeschreven personen per training kan u [hier](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) terugvinden.
 
 Hou zeker de website in het oog want we gaan constant evalueren en bijsturen waar kan / nodig is.
