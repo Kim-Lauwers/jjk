@@ -42,6 +42,8 @@ Als blijkt dat we teveel mensen moeten weigeren op de training en de interesse g
 Momenteel willen we eerst afwachten en zien wat de huidige regels en oplossingen geven. Als club hebben we ook maar 1 dag tijd gehad om dit allemaal te regelen, hopelijk hebben jullie hier begrip voor.
 Heeft u zelf nog opties laat ze ons zeker weten.
 
+Verder vragen we natuurlijk dat u bij een corona-besmetting of bij een risico ons op de hoogte brengt. Wij zullen dit met respect voor uw privacy en discreet behandelen.
+
 **ONS HOOFDDOEL IS OM ZOVEEL MOGELIJK TE BLIJVEN SPORTEN / BEWEGEN** want de enige andere optie momenteel is de training aflassen voor de hoofdgroep en dit willen wij als club vermijden. Ook al merken we dat sommige andere concullega's voor deze optie zijn gegaan vinden wij als club dat de fysieke en mentale gezondheid veel te belangrijk is om zomaar de trainingen af te lassen.
 Wij hebben ook het volste vertrouwen dat onze trainers samen met jullie dit op een veilige manier kunnen doen want we zitten samen in deze situatie.
 
