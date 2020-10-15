@@ -8,26 +8,9 @@ layout = "kalender"
 | Datum                                     | Activiteit                                                                                       |
 | ------------------------------------------|:-------------------------------------------------------------------------------------------------|
 | Dinsdag 1 september 2020                  | Eerste training van het nieuwe seizoen                                                           | 
-| Zaterdag 5 september 2020                 | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)| 
-| Dinsdag 8 september 2020                  | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)| 
-| Donderdag 10 september 2020               | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)| 
-| Zaterdag 12 september 2020                | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)| 
-| Dinsdag 15 september 2020                 | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)| 
-| Donderdag 17 september 2020               | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)| 
-| Zaterdag 19 september 2020                | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)| 
-| Dinsdag 22 september 2020                 | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)| 
-| Donderdag 24 september 2020               | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)| 
-| Zaterdag 26 september 2020                | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)| 
-| Dinsdag 29 september 2020                 | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
-| Donderdag 1 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
-| Zaterdag 3 oktober 2020                   | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
-| Dinsdag 6 oktober 2020                    | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
-| Donderdag 8 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
-| Zaterdag 10 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
 | 10 en 11 oktober 2020                      | Open Vlaams Kampioenschap te Beveren-Waas (Fighting en Duo) - Onze resultaten: [dag 1](https://www.jujitsukeerbergen.be/nieuws/2020/10/10/open-vlaams-kampioenschap-ju-jitsu-2020---dag-1/) en [dag 2](https://www.jujitsukeerbergen.be/nieuws/2020/10/11/open-vlaams-kampioenschap-ju-jitsu-2020---dag-2/)                                      |
-| Dinsdag 13 oktober 2020                   | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
-| Donderdag 15 oktober 2020                 | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
-| Zaterdag 17 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich registreren (Registratie voor deze training is afgelopen)|
+| Donderdag 15 oktober 2020                 | Training - Vanwege Corona moet de hoofdgroep zich registreren (Training is volzet)|
+| Zaterdag 17 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich registreren (Training is volzet)|
 | Dinsdag 20 oktober 2020                   | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/mLSD2WpTuZfhQbrP6) en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
 | Donderdag 22 oktober 2020                 | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/TYUg9PYbYPPH1haCA) en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
 | Zaterdag 24 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/FFLsm7PgYd6HqF676) en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
