@@ -18,7 +18,7 @@ layout = "kalender"
 | Dinsdag 27 oktober 2020                   | [Bloed donatie te Keerbergen](https://donorportaal.rodekruis.be/Schedule/SiteSearch.aspx?SearchType=Distance&PostalCode=3140)|
 | Donderdag 29 oktober 2020                 | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/bUgVd9FcVKJujih58) en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
 | Zaterdag 31 oktober 2020                  | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/Vm8oTcB7aQ8UF3u19) en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
-| Zaterdag 21 november 2020                 | Open Oost Vlaams Kampioenschap te Sint-Niklaas (Fighting en Duo)                                 |
+| Zaterdag 21 november 2020                 | GEANNULEERD - Open Oost Vlaams Kampioenschap te Sint-Niklaas (Fighting en Duo)                                 |
 | Zaterdag 19 december 2020                  | **GEEN training** - Kerstvakantie |
 | Dinsdag 22 december 2020                  | **GEEN training** - Kerstvakantie |
 | Donderdag 24 december 2020                | **GEEN training** - Kerstvakantie - Sporthal is gesloten |
