@@ -9,7 +9,15 @@ layout = "kalender"
 | ------------------------------------------|:-------------------------------------------------------------------------------------------------|
 | Dinsdag 1 september 2020                  | Eerste training van het nieuwe seizoen                                                           | 
 | 10 en 11 oktober 2020                      | Open Vlaams Kampioenschap te Beveren-Waas (Fighting en Duo) - Onze resultaten: [dag 1](https://www.jujitsukeerbergen.be/nieuws/2020/10/10/open-vlaams-kampioenschap-ju-jitsu-2020---dag-1/) en [dag 2](https://www.jujitsukeerbergen.be/nieuws/2020/10/11/open-vlaams-kampioenschap-ju-jitsu-2020---dag-2/)                                      |
-| Donderdag 29 oktober 2020                 | Training - Vanwege Corona moet de hoofdgroep zich [HIER registreren](https://forms.gle/bUgVd9FcVKJujih58) en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
+| Donderdag 29 oktober 2020                 | **ONLINE** training vanwege COVID-19 voor alle groepen|
+| Zaterdag 31 oktober 2020                  | **ONLINE** training vanwege COVID-19 voor alle groepen|
+| Dinsdag 3 november 2020                   | **ONLINE** training vanwege COVID-19 voor alle groepen|
+| Donderdag 5 november 2020                 | **ONLINE** training vanwege COVID-19 voor alle groepen|
+| Zaterdag 7 november 2020                  | **ONLINE** training vanwege COVID-19 voor alle groepen|
+| Dinsdag 10 november 2020                  | **ONLINE** training vanwege COVID-19 voor alle groepen|
+| Donderdag 12 november 2020                | **ONLINE** training vanwege COVID-19 voor alle groepen|
+| Zaterdag 14 november 2020                 | **ONLINE** training vanwege COVID-19 voor alle groepen|
+| Dinsdag 17 november 2020                 | Hopelijk terug in de sporthal training|
 | Zaterdag 21 november 2020                 | GEANNULEERD - Open Oost Vlaams Kampioenschap te Sint-Niklaas (Fighting en Duo)                                 |
 | Zaterdag 19 december 2020                  | **GEEN training** - Kerstvakantie |
 | Dinsdag 22 december 2020                  | **GEEN training** - Kerstvakantie |
