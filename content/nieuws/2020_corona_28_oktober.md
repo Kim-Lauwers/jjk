@@ -29,7 +29,7 @@ Wij hopen zo snel mogelijk terug veilig in de club te mogen en kunnen sporten
 Voor alle groepen zijn de trainingen dus afgelast tot en met zaterdag 14 november 2020.    
 
 # Online trainingen:
-Als club vinden wij het heel belangrijk dat iedereen blijft sporten en zullen wij als club onze verantwoordelijkheid nemen en wij zullen op dinsdag en donderdag om 18u30 een online training voorzien.
+Als club vinden wij het heel belangrijk dat iedereen blijft sporten en zullen wij als club onze verantwoordelijkheid nemen en wij zullen op dinsdag en donderdag om 19u30 een online training voorzien.
 De link naar de online training zal u steeds op onze [kalender](https://www.jujitsukeerbergen.be/kalender) terugvinden.
 
 Deze training zal steeds gepast zijn voor de hoofd en jeugdgroep. Bij deze trainingen zal soms materiaal nodig zijn, maar we gebruiken alleen materiaal dat iedereen thuis heeft zodat iedereen kan deelnemen.
