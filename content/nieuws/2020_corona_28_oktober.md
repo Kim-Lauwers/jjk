@@ -15,9 +15,9 @@ Geachte leden, ouders,
 
 Vanaf vandaag gelden in Vlaanderen strengere regels vanwege corona.
 Voor meer informatie over de regels kan [hier](https://www.sport.vlaanderen/sporten-in-tijden-van-corona/) meer lezen.
-Deze regels zouden minstens *3 weken* geldig zijn.
+Deze regels zouden minstens **3 weken** geldig zijn.
 
-De gemeente Keerbergen heeft beslist dat tijdens de herfstvakantie vanaf zondag 1/11 tot en met zondag 8/11 het sportcomplex op de Putsebaan alsook de sporthal van het atheneum gesloten zijn, er worden enkel sportkampen voor -12 jarigen toegelaten.
+De gemeente Keerbergen heeft beslist dat tijdens de herfstvakantie vanaf zondag 1 november tot en met zondag 8 november het sportcomplex op de Putsebaan alsook de sporthal van het atheneum gesloten zijn, er worden enkel sportkampen voor -12 jarigen toegelaten.
 Als club begrijpen wij deze beslissing en hopen wij dat we samen corona snel kunnen verslaan
 
 Welke impact heeft dit op onze club?
