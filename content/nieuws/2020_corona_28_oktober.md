@@ -20,6 +20,8 @@ Deze regels zouden minstens **3 weken** geldig zijn.
 De gemeente Keerbergen heeft beslist dat tijdens de herfstvakantie vanaf zondag 1 november tot en met zondag 8 november het sportcomplex op de Putsebaan alsook de sporthal van het atheneum gesloten zijn, er worden enkel sportkampen voor -12 jarigen toegelaten.
 Als club begrijpen wij deze beslissing en hopen wij dat we samen corona snel kunnen verslaan
 
+**UPDATE** Indoor sporten is vanaf heden ook verboden voor -12 jarigen, zie [hier](https://www.sport.vlaanderen/media/15272/maatregelen-voor-de-sportsector-vanaf-29-oktober.pdf?fbclid=IwAR2zwTU6nhoS1iJTa80fMKwuEWPXiZmb9h58pp9IBStFWFkwMMzlN5TT16g).
+
 Welke impact heeft dit op onze club?
 
 Vermits er sprake is dat de regels minstens 3 weken geldig zijn en de sporthal in de vakantie gesloten is, hebben wij beslist om alvast 2 weken alle trainingen on hold te zetten vanaf nu.
