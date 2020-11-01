@@ -13,7 +13,7 @@ layout = "kalender"
 | Donderdag 5 november 2020 om 19u30                 | **ONLINE** training vanwege COVID-19 voor alle groepen - Link naar training volgt nog|
 | Dinsdag 10 november 2020 om 19u30                  | **ONLINE** training vanwege COVID-19 voor alle groepen - Link naar training volgt nog|
 | Donderdag 12 november 2020 om 19u30                | **ONLINE** training vanwege COVID-19 voor alle groepen - Link naar training volgt nog|
-| Dinsdag 17 november 2020                 | Hopelijk terug in de sporthal training|
+| Zondag 13 december 2020                 | Einde voorlopige maatregels|
 | Zaterdag 21 november 2020                 | GEANNULEERD - Open Oost Vlaams Kampioenschap te Sint-Niklaas (Fighting en Duo)                                 |
 | Zaterdag 19 december 2020                  | **GEEN training** - Kerstvakantie |
 | Dinsdag 22 december 2020                  | **GEEN training** - Kerstvakantie |
