@@ -35,6 +35,7 @@ Zoals reeds gezegd is en blijft onze website ons hoofdmiddel van communicatie (h
 * 2) Onze kalender: [https://www.jujitsukeerbergen.be/kalender/](https://www.jujitsukeerbergen.be/kalender/) 
 
 We hebben met de club momenteel 2 WhatsApp groepjes.
+
 * 1) Een algemeen ‘Ju-JItsu Keerbergen VZW’ groepje. Het doel van deze groep is om iedereen snel op de hoogte te brengen van nieuws en snel op vragen te antwoorden. De bedoeling is niet dat hier door de leden veel in gepost wordt buiten concrete vragen.
 
 * 2) We hebben een tijdelijk ‘JJK: Blijft Actief” WhatsApp groepje. Het doel van deze groep is elkaar blijven motiveren om samen te sporten en te bewegen. We zitten niet alleen in deze situatie, samen komen we erdoor. Hier zal nooit belangrijke informatie in komen, wel leuke anekdotes en andere toffe berichten.
