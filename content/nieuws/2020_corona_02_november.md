@@ -1,6 +1,6 @@
 +++
 title = "02 November Corona 2020"
-date = 2020-10-28T19:15:21+02:00
+date = 2020-11-02T16:15:21+02:00
 draft = false
 description = "Maatregels Corona vanaf 02 November"
 categories = []
