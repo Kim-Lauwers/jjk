@@ -21,7 +21,11 @@ Vanwege **Corona** zijn de uren tijdelijk aangepast, zie onderaan.
 
 
 ### BELANGRIJK
-Vanwege **Corona** zijn onze trainingen momenteel online. De link kan u steeds op onze [kalender](https://www.jujitsukeerbergen.be/kalender) terugvinden.
+Vanwege **Corona** zijn onze trainingen voor de hoofdgroep momenteel online. De link kan u steeds op onze [kalender](https://www.jujitsukeerbergen.be/kalender) terugvinden.
+Voor de jeugd trainen we enkel op dinsdag en donderdag op volgende uren:
+
+* Elke dinsdag van 18:00 tot 19:00. 
+* Elke donderdag van 18:30 tot 19:30.
 
 ## Locatie
 * Gemeentelijke Sporthal Keerbergen
