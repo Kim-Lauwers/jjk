@@ -43,5 +43,13 @@ Zie onze kalender: [https://www.jujitsukeerbergen.be/kalender/](https://www.juji
 
 Hopelijk zien we jullie nu dinsdag terug :-)
 
+# WhatsApp
+Wisten jullie dat wij een WhatsApp groep hebben waar de meeste van onze leden inzitten.
+Op deze manier kan er gemakkelijk en snel gecommuniceerd worden.
+Indien u graag hier lid van wil worden neem dan even contact op met ons.
+
+
+Volg zeker ook onze FB-groep [Ju-Jitsu Keerbergen VZW](https://www.facebook.com/groups/357231384348318/) want hier zullen we jullie up-to-date houden. Bekijk regelmatig onze website op [https://www.jujitsukeerbergen.be](https://www.jujitsukeerbergen.be) want al het laatste nieuws komt hier ook op.
+
 
 Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
