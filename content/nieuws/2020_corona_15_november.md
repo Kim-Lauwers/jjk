@@ -2,7 +2,7 @@
 title = "15 November Corona 2020"
 date = 2020-11-15T15:06:21+02:00
 draft = false
-description = "Burgemeestersbesluit Corona vanaf 03 November"
+description = "Jeugd mag terug sporten"
 categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/corona.jpg"
