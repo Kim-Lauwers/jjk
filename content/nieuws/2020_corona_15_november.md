@@ -13,11 +13,12 @@ detailpageImgUrl = ""
 +++
 Geacht(e) atleet, lid, (plus-)ouder, sporter…
 
-De gemeente heeft beslist dat vanaf nu de georganiseerde indoor sportactiviteiten voor iedereen -12 jaar terug mogen doorgaan.
-Dus vanaf nu dinsdag zullen onze trainingen voor de jeugdgroep terug in de zaal doorgaan. 
+De gemeente heeft beslist dat vanaf nu de georganiseerde indoor sportactiviteiten voor iedereen van -12 jaar terug mogen doorgaan.
+Dus vanaf nu dinsdag zullen onze trainingen voor de jeugdgroep terug in de zaal doorgaan.
+Hopelijk heeft iedereen kunnen genieten van onze online trainingen, op deze manier hebben we getracht de impact zo minimaal mogelijk te houden.
 
 ## Trainings uren en dagen voor de jeugd
-Zie Onze kalender: [https://www.jujitsukeerbergen.be/kalender/](https://www.jujitsukeerbergen.be/kalender/).
+Zie onze kalender: [https://www.jujitsukeerbergen.be/kalender/](https://www.jujitsukeerbergen.be/kalender/).
 
 * 1) Op dinsdag van 18 uur tot 19 uur
 * 2) Op donderdag van 18u30 tot 19u30 (Dit zijn nog steeds onze aangepaste uren)
