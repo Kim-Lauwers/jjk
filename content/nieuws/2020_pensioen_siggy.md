@@ -19,7 +19,7 @@ We gaan hem zeer zeker missen.
 Vanwege Corona konden we als voltallige club geen afscheid nemen van hem, dus daarom dat Kim alleen op covid-afstand op de foto staat.
 Siggy was steeds een trouwe koper van onze clubkledij dus vonden we het dan ook maar gepast een mooie windjacket als afscheidskado te geven.
 
-Siggy bedankt al die jaren en je bent steeds welkom in onze club.
+Siggy bedankt voor al die jaren en je bent steeds welkom in onze club.
 
 Vanwege,
 
