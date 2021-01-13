@@ -46,5 +46,3 @@ layout = "kalender"
 |1 Maart 2021                      | De regering verlengt de huidige coronamaatregelen voorlopig tot 1 maart 2021|
 |20 maart 2021                              | Open Antwerps Kampioenschap te Zwijndrecht                                                       |
 |?? Mei                                     | Belgisch Kampioenschap (nog te bevestigen door FFJJ)                                             |
-
-
