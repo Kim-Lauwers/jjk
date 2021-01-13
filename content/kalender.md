@@ -9,9 +9,6 @@ layout = "kalender"
 | ------------------------------------------|:-------------------------------------------------------------------------------------------------|
 | Dinsdag 1 september 2020                  | Eerste training van het nieuwe seizoen                                                           | 
 | 10 en 11 oktober 2020                      | Open Vlaams Kampioenschap te Beveren-Waas (Fighting en Duo) - Onze resultaten: [dag 1](https://www.jujitsukeerbergen.be/nieuws/2020/10/10/open-vlaams-kampioenschap-ju-jitsu-2020---dag-1/) en [dag 2](https://www.jujitsukeerbergen.be/nieuws/2020/10/11/open-vlaams-kampioenschap-ju-jitsu-2020---dag-2/)                                      |
-|Dinsdag 12-01-2021| Training voor de **jeugd**groep van 18u tot 19u|
-|Dinsdag 12-01-2021|  Training voor de **hoofd**groep om 19u30 is online en kan je [hier](https://youtu.be/EnOCjkFDDfY) volgen|
-| Woensdag 13 januari 2021                 | (Einde?) voorlopige maatregels|
 |Donderdag 14-01-2021| Training voor de **jeugd**groep van 18u30 tot 19u30|
 |Donderdag 14-01-2021|  Training voor de **hoofd**groep om 19u30 is online|
 |Zaterdag 16-01-2021| Geen training|
