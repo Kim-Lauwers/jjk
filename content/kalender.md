@@ -23,6 +23,7 @@ layout = "kalender"
 |Donderdag 28-01-2021|  Training voor de **hoofd**groep om 19u30 is online|
 |Zaterdag 30-01-2021| Geen training|
 |30 en 31 Januari 2021                      | GEANNULEERD: Internationale wedstrijd te Beveren-Waas                                                         |
+|1 Maart 2021                      | De regering verlengt de huidige coronamaatregelen voorlopig tot 1 maart 2021|
 |20 maart 2021                              | Open Antwerps Kampioenschap te Zwijndrecht                                                       |
 |?? Mei                                     | Belgisch Kampioenschap (nog te bevestigen door FFJJ)                                             |
 
