@@ -18,7 +18,7 @@ Een prachtig initiatief nu we met corona beperkt zijn in ons sporten. Als Keerbe
 Bekijk ons filmpje [HIER](https://youtu.be/WI0uqoD2I2M).
 
 Wij zijn dan ook hevige voorstander van deze bank, op de bank zelf kan je enkele foto's van oefeningen terugvinden maar als je graag extra oefeningen wilt kan je ook de IPitup beweegbank app installeren en kan je nog extra oefeningen vinden.
-De leden van onze club mogen zeker onze trainers aanspreken als je graag enkele sport specifieke oefeningen willen.
+De leden van onze club mogen zeker onze trainers aanspreken als je graag enkele sport specifieke oefeningen wilt.
 
 In de app zouden ook 2 beweegroutes van 1 KM  moeten zitten, dus ideaal kan je 1 KM gaan lopen even aan de beweegbank wat sporten en dan terug een rondje lopen.
 
