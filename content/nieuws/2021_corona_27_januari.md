@@ -1,6 +1,6 @@
 +++
 title = "27 Januari Corona 2021"
-date = 2021-01-17T07:33:21+02:00
+date = 2021-01-27T07:33:21+02:00
 draft = false
 description = "Update 27 Januari"
 categories = []
