@@ -49,6 +49,7 @@ We willen graag richten om de trainingen voor de -18 jarigen op te starten richt
 * We moeten het als club geregeld krijgen: Kim is net voor de 2de keer papa geworden, Frank moet regelmating werken als brandweer man, Wout moet regelmatig naar het buitenland voor zijn werk en moet dus ook regelmatig in quarantaine
 * Het weer laat het ook niet toe om onbezorgd buiten te sporten. Als we een uur trainen en het begint na 15 minuten te regenen kunnen we geen onderdak / bescherming bieden omdat we nergens binnen mogen.
 * Het is ook moeilijk om online, buiten en jeugdtrainingen te geven en dit allemaal op elkaar af te stemmen.
+* We moeten ook goedkeuring van het lokaal bestuur krijgen na het opstellen van een draaiboek.
 
 
 Wij houden jullie zeker op de hoogte.
