@@ -20,7 +20,7 @@ Zoals aangekondigd zijn de regels op 01-02-2021 aangepast.
 
 # Wat is de impact op de jeugdgroep (- 13 jaar)?
 * Zo mogen kinderen onder 13 jaar nog één hobby uitoefenen. 
---> Als club kunnen wij hier geen controle op uitvoeren, dus hopen wij de verantwoordelijkheid van julle.
+--> Als club kunnen wij hier geen controle op uitvoeren, dus hopen wij de verantwoordelijkheid van jullie.
 Wij begrijpen dat uw kind meerdere hobbies heeft en dat er misschien voor een andere hobby gekozen wordt en dit kan vanwege verschillende redenen zijn. 
 U hoeft het dus niet lastig te vinden als uw kind niet voor Ju-Jitsu gekozen heeft. Het belangrijkste is dat de regels gevolgd worden en dat de gezondheid primeert
 
@@ -35,6 +35,8 @@ Moest blijken dat we toch met meer dan 10 kinderen zijn zullen we wel met inschr
 Spijtig genoeg kunnen we jullie alleen maar online trainingen aanbieden omdat er geen versoepelingen zijn voor deze groep. Je mag wel steeds met 4 personen buiten sporten, spreek met elkaar af en maak hier gebruik van.
 Keerbergen heeft een nieuwe [beweegbank](https://www.jujitsukeerbergen.be/nieuws/2021/01/17/beweegbank-te-keerbergen/) ideaal om buiten te sporten.
 Aarzel ook niet om mij aan te spreken als je eens samen wilt gaan sporten, mensen die mijn [instagram](https://www.instagram.com/lauwers.kim/) volgen weten dat ik nog steeds zoveel mogelijk tracht te sporten.
+
+Wil je graag helpen voor de -18 jarigen groep, laat het mij weten.
 
 ## - 18 Jaar
 Voor deze groep zijn er versoepelingen mogelijk, jullie mogen in een groep van 10 sporten. Wij hebben beslist om hier nog niet onmiddellijk gebruik van te maken.
