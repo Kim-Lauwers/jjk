@@ -17,10 +17,8 @@ layout = "kalender"
 |Donderdag 11-02-2021| Training voor de **jeugd**groep van 18u30 tot 19u30|
 |Donderdag 11-02-2021|  Training voor de **hoofd**groep om 19u30 is online|
 |Zaterdag 13-02-2021| Geen training|
-|Dinsdag 16-02-2021| Training voor de **jeugd**groep van 18u tot 19u|
-|Dinsdag 16-02-2021|  Training voor de **hoofd**groep om 19u30 is online|
-|Donderdag 18-02-2021| Training voor de **jeugd**groep van 18u30 tot 19u30|
-|Donderdag 18-02-2021|  Training voor de **hoofd**groep om 19u30 is online|
+|Dinsdag 16-02-2021| Geen training - KROKUSVAKANTIE|
+|Donderdag 18-02-2021| Geen training - KROKUSVAKANTIE|
 |Zaterdag 20-02-2021| Geen training|
 |Dinsdag 23-02-2021| Training voor de **jeugd**groep van 18u tot 19u|
 |Dinsdag 23-02-2021|  Training voor de **hoofd**groep om 19u30 is online|
