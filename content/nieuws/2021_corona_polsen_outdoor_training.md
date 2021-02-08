@@ -32,6 +32,7 @@ Hou bij het invullen van de lijst wel graag rekening met het feit dat:
 * - We maximaal 10 leden mogen toestaan en dus terug met inschrijvingen moeten werken.
 * - We dus geen ouders mogen toestaan vanwege de regels / bubbels (aantal + leeftijd)
 * - Inschrijven is deelnemen en dus aanwezig zijn
+* - We moeten dan ook nog de impact bekijken op de online trainingen, mogelijks vervallen deze (of maar 1 keer per week)
 
 Heb je nog voorstellen of opmerkingen laat ze ons zeker weten.
 
