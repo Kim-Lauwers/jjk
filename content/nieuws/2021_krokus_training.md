@@ -2,7 +2,7 @@
 title = "Krokus 2021"
 date = 2021-02-11T1:02:21+02:00
 draft = false
-description = ""
+description = "Krokus 2021"
 categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/krokus2019.jpg"
