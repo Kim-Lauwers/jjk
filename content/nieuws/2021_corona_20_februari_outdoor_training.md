@@ -5,7 +5,7 @@ draft = false
 description = "Eerste outdoor training in het zonnetje"
 categories = []
 author = "Kim Lauwers"
-homepageImgUrl = "images/nieuws/2021/buiten_20-02-21_thumb.jpg"
+homepageImgUrl = "images/nieuws/2021/buiten_20-02-21.jpg"
 listpageImgUrl = "/images/nieuws/2021/buiten_20-02-21_thumb.jpg"
 detailpageImgUrl = "images/nieuws/2021/buiten_20-02-21.jpg"
 [menu.global]
