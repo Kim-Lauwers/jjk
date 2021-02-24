@@ -14,3 +14,6 @@ Een van de belangrijkste punten van ontwikkeling is de fysiek. Uithouding en sne
 Dit kan enkel als men gelooft in zowel eigen fysieke mogelijkheden als in de technieken en deze kan toepassen in niet optimale omstandigheden (zoals vermoedheid, niet opgewarmd, ...).
 
 In 1995 verhuist de club naar Keerbergen, en verandert de naam in "Ju-Jitsu Keerbergen". In 2010 wijzigt de club van een feitelijke vereniging naar een VZW en sindsdien gaan we door het leven als "Ju-Jitsu Keerbergen VZW".
+
+# Organigram
+![FROS](/images/organigram.jpg "Organigram")
