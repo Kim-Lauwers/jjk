@@ -14,4 +14,4 @@ layout = "kalender"
 |Zaterdag 27-02-2021|Training voor de 12-18 jarigen. Inschrijven kan je [HIER](https://forms.gle/1djpq5Pq4izfC7hw8) doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
 |1 Maart 2021                      | De regering verlengt de huidige coronamaatregelen voorlopig tot 1 maart 2021|
 |20 maart 2021                              | Open Antwerps Kampioenschap te Zwijndrecht                                                       |
-|?? Mei                                     | Belgisch Kampioenschap (nog te bevestigen door FFJJ)                                             |
+|?? Oktober                                     | Belgisch Kampioenschap (nog te bevestigen door FFJJ)                                             |
