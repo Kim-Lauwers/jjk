@@ -26,7 +26,7 @@ Zie ook: [trainingen](/trainingen).
 * Kim Lauwers
 * E-mail: [kim [AT] jujitsukeerbergen.be](mailto:kim@jujitsukeerbergen.be)
 
-## Vertrouwenspersoon
+## Vertrouwenspersoon (Club - API)
 * Kim Lauwers
 * E-mail: [kim [AT] jujitsukeerbergen.be](mailto:kim@jujitsukeerbergen.be)
 
