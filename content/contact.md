@@ -24,9 +24,11 @@ Zie ook: [trainingen](/trainingen).
 
 ## Jeugdsportcoördinator
 * Kim Lauwers
+* E-mail: [kim [AT] jujitsukeerbergen.be](mailto:kim@jujitsukeerbergen.be)
 
 ## Vertrouwenspersoon
 * Kim Lauwers
+* E-mail: [kim [AT] jujitsukeerbergen.be](mailto:kim@jujitsukeerbergen.be)
 
 ## Federatie
 * Aangesloten bij [Vlaamse Ju-Jitsu Federatie](http://vjjf.be)
