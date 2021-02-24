@@ -65,3 +65,6 @@ Een goedgekeurde betalingsregeling is slechts geldig voor 1 sportseizoen.
 
 ## Terugbetalingen
 Betaalde lidgelden zijn nooit terugvorderbaar.
+
+## Sportmedische geschiktheidsonderzoek
+Momenteel is dit enkel verplicht voor leden die aan competitie deelnemen.
