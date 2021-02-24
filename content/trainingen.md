@@ -51,6 +51,9 @@ Een seizoen loopt van september tot augustus. Zomertrainingen tijdens juli en au
 
 Deze lidgelden omvatten het lesgeld + aansluiting bij federatie / verzekering.
 
+## Mutualiteiten
+Indien u aangesloten bent bij een mutualiteit kan u daar steeds een stuk van lidgeld terug vorderen.
+
 ## Tussentijdse lidmaatschapsbijdrage
 Tijdens een lopende sportseizoen kan er ook nog aangesloten en dan wordt het lidgeld pro-rata berekend op de nog lopende termijn (De zomermaanden worden hier niet bijgerekend). De kosten van de aansluiting bij de federatie en de verzekering kunnen niet pro-rata berekend worden en dienen steeds volledig betaald te worden.
 
