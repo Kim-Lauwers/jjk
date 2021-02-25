@@ -12,6 +12,28 @@ layout = "kalender"
 |Donderdag 25-02-2021| Training voor de **jeugd**groep van 18u30 tot 19u30|
 |Donderdag 25-02-2021|  Training voor de **hoofd**groep om 19u30 is [HIER](https://youtu.be/UtwgfqKBrD8) online|
 |Zaterdag 27-02-2021|Training voor de 12-18 jarigen. Inschrijven kan je [HIER](https://forms.gle/1djpq5Pq4izfC7hw8) doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
-|1 Maart 2021                      | De regering verlengt de huidige coronamaatregelen voorlopig tot 1 maart 2021|
-|20 maart 2021                              | Open Antwerps Kampioenschap te Zwijndrecht                                                       |
+|1 Maart 2021                      | De huidige coronamaatregelen lopen voorlopig tot 1 maart 2021|
+|Dinsdag 2 maart 2021|            Training voor de **jeugd**groep van  18u tot 19u|
+|Dinsdag 2 maart 2021|            Training voor de **hoofd**groep om 19u30 is online|
+|Donderdag 4 maart 2021|    Training voor de **jeugd**groep van  18u30 tot 19u30|
+|Donderdag 4 maart 2021|    Training voor de **hoofd**groep om 19u30 is online|
+|Zaterdag 6 maart 2021|Training voor de 12-18 jarigen. Inschrijven kan je binnenkort doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
+|Dinsdag 9 maart 2021|            Training voor de **jeugd**groep van  18u tot 19u|
+|Dinsdag 9 maart 2021|            Training voor de **hoofd**groep om 19u30 is online|
+|Donderdag 11 maart 2021|   Training voor de **jeugd**groep van  18u30 tot 19u30|
+|Donderdag 11 maart 2021|Training voor de **hoofd**groep om 19u30 is online|
+|Zaterdag 13 maart 2021|Training voor de 12-18 jarigen. Inschrijven kan je binnenkort doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
+|Dinsdag 16 maart 2021|          Training voor de **jeugd**groep van  18u tot 19u|
+|Dinsdag 16 maart 2021|Training voor de **hoofd**groep om 19u30 is online|
+|Donderdag 18 maart 2021|   Training voor de **jeugd**groep van  18u30 tot 19u30|
+|Donderdag 18 maart 2021|   Training voor de **hoofd**groep om 19u30 is online|
+|20 maart 2021                              | **GEANNULEERD** Open Antwerps Kampioenschap te Zwijndrecht                                                       |
+|Zaterdag 20 maart 2021|Training voor de 12-18 jarigen. Inschrijven kan je binnenkort doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
+|Dinsdag 23 maart 2021|          Training voor de **jeugd**groep van  18u tot 19u|
+|Dinsdag 23 maart 2021|          Training voor de **hoofd**groep om 19u30 is online|
+|Donderdag 25 maart 2021|   Training voor de **jeugd**groep van  18u30 tot 19u30|
+|Donderdag 25 maart 2021|Training voor de **hoofd**groep om 19u30 is online|
+|Zaterdag 27 maart 2021|Training voor de 12-18 jarigen. Inschrijven kan je binnenkort doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
+|Dinsdag 30 maart 2021|          Training voor de **jeugd**groep van  18u tot 19u|
+|Dinsdag 30 maart 2021|Training voor de **hoofd**groep om 19u30 is online|
 |?? Oktober                                     | Belgisch Kampioenschap (nog te bevestigen door FFJJ)                                             |
