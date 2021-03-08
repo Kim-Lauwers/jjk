@@ -5,9 +5,9 @@ draft = false
 description = "De gemeente Keerbergen viert zijn kampioenen van 2020"
 categories = []
 author = "Kim Lauwers"
-homepageImgUrl = "images/nieuws/2020_kampioenen_viering_thumb.jpg"
-listpageImgUrl = "/images/nieuws/2020_kampioenen_viering_thumb.jpg"
-detailpageImgUrl = "/images/nieuws/2020_kampioenen_viering.jpg"
+homepageImgUrl = "images/nieuws/2021/2020_kampioenen_viering_thumb.jpg"
+listpageImgUrl = "/images/nieuws/2021/2020_kampioenen_viering_thumb.jpg"
+detailpageImgUrl = "/images/nieuws/2021/2020_kampioenen_viering.jpg"
 [menu.global]
     parent = "nieuws"
 +++
