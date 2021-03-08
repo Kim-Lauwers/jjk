@@ -2,7 +2,7 @@
 title = "Kampioenenviering 2020"
 date = 2021-03-08T13:01:19+02:00
 draft = false
-description = "De gemeente Keerbergen viert zijn kampioenen van 2019"
+description = "De gemeente Keerbergen viert zijn kampioenen van 2020"
 categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/2020_kampioenen_viering_thumb.jpg"
