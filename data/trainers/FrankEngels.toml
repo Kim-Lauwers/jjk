@@ -13,7 +13,6 @@ functionsclub = [
             "Hoofdcoach van het competitie team"
            ]
 functionsNextToClub = [
-            "Bondscoach Ne-Waza bij VJJF",
             "Nationaal trainer Fighting bij VJJF"
            ]
 palmares = [
@@ -24,7 +23,8 @@ palmares = [
             "Brons op Europees kampioenschap Brazillian Ju-Jitsu",
             "5 x Belgisch kampioen Ju-Jitsu Fighting",
             "Belgisch kampioen Ju-Jitsu Ne-waza",
-            "Winnaar Sportverdienste van het jaar te Keerbergen (Kan maar éénmaal gewonnen worden)"
+            "Winnaar Sportverdienste van het jaar te Keerbergen (Kan maar éénmaal gewonnen worden)",
+            "Voormalig bondscoach Ne-Waza bij VJJF (2013 - 2020)"
             ]
 mail = "frank@jujitsukeerbergen.be"
 imageSrc = "/images/trainers/FrankEngels.jpg"
