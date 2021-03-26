@@ -8,22 +8,21 @@ date = 2020-09-28T10:13:39+01:00 draft = false layout = "kalender"
 | ------------------------------------------|:-------------------------------------------------------------------------------------------------|
 | Dinsdag 1 september 2020                  | Eerste training van het nieuwe seizoen                                                           | 
 | 10 en 11 oktober 2020                      | Open Vlaams Kampioenschap te Beveren-Waas (Fighting en Duo) - Onze resultaten: [dag 1](https://www.jujitsukeerbergen.be/nieuws/2020/10/10/open-vlaams-kampioenschap-ju-jitsu-2020---dag-1/) en [dag 2](https://www.jujitsukeerbergen.be/nieuws/2020/10/11/open-vlaams-kampioenschap-ju-jitsu-2020---dag-2/)                                      |
-|Donderdag 25 maart 2021|   Training voor de **jeugd**groep van  18u30 tot 19u30|
-|Donderdag 25 maart 2021|Training voor de **hoofd**groep om 19u30 is [HIER](https://youtu.be/a_v6ThlCD_0) online|
 |Zaterdag 27 maart 2021|Training voor de 12-18 jarigen. Inschrijven kan je [HIER](https://forms.gle/k3fHE8XrSjYWkoEo7) doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
-|Dinsdag 30 maart 2021|          Training voor de **jeugd**groep van 18u tot 19u|
+|Dinsdag 30 maart 2021|          Geen training wegens **PAASPAUZE**|
 |Dinsdag 30 maart 2021|Training voor de **hoofd**groep om 19u30 is online|
-|Donderdag 1 april 2021|Training voor de **jeugd**groep van 18u30 tot 19u30||
-|Dinsdag 6 april 2021|Training voor de **jeugd**groep van 18u tot 19u||
-|Donderdag 8 april 2021|Training voor de **jeugd**groep van 18u30 tot 19u30||
-|Dinsdag 13 april 2021|Training voor de **jeugd**groep van 18u tot 19u||
-|Donderdag 15 april 2021|Training voor de **jeugd**groep van 18u30 tot 19u30||
-|Dinsdag 20 april 2021|Training voor de **jeugd**groep van 18u tot 19u||
-|Donderdag 22 april 2021|Training voor de **jeugd**groep van 18u30 tot 19u30||
-|Dinsdag 27 april 2021|Training voor de **jeugd**groep van 18u tot 19u||
-|Donderdag 29 april 2021|Training voor de **jeugd**groep van 18u30 tot 19u30||
-|Zaterdag 3 april 2021|Training voor de **jeugd**groep van 10u tot 11u||
-|Zaterdag 10 april 2021|Training voor de **jeugd**groep van 10u tot 11u||
-|Zaterdag 17 april 2021|Training voor de **jeugd**groep van 10u tot 11u||
-|Zaterdag 24 april 2021|Training voor de **jeugd**groep van 10u tot 11u||
+|Donderdag 1 april 2021|Geen training wegens **PAASPAUZE**|
+|Zaterdag 3 april 2021|Training voor de 12-18 jarigen. Inschrijven kan je hier binnenkort doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
+|Dinsdag 6 april 2021|Geen training wegens **PAASPAUZE**|
+|Donderdag 8 april 2021|Geen training wegens **PAASPAUZE**|
+|Zaterdag 10 april 2021|Training voor de 12-18 jarigen. Inschrijven kan je hier binnenkort doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
+|Dinsdag 13 april 2021|Geen training wegens **PAASPAUZE**|
+|Donderdag 15 april 2021|Geen training wegens **PAASPAUZE**|
+|Zaterdag 17 april 2021|Training voor de 12-18 jarigen. Inschrijven kan je hier binnenkort doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
+|Dinsdag 20 april 2021|Training voor de **jeugd**groep van 18u tot 19u|
+|Donderdag 22 april 2021|Training voor de **jeugd**groep van 18u30 tot 19u30|
+|Zaterdag 24 april 2021|Training voor de 12-18 jarigen. Inschrijven kan je hier binnenkort doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
+|Dinsdag 27 april 2021|Training voor de **jeugd**groep van 18u tot 19u|
+|Donderdag 29 april 2021|Training voor de **jeugd**groep van 18u30 tot 19u30|
+|Zaterdag 1 mei 2021|Training voor de 12-18 jarigen. Inschrijven kan je hier binnenkort doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
 |?? Oktober                                    | Belgisch Kampioenschap (nog te bevestigen door FFJJ)                                             |
