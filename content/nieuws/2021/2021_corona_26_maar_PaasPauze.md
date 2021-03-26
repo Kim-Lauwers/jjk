@@ -22,7 +22,9 @@ Concreet wil dit zeggen dat indoor sporten verboden zijn door de gemeente en dit
 De gemeente zal de situatie herbekijken vanaf 19/04/2021.
 
 # Wat is de impact op de jeugdgroep (- 13 jaar)?
-De trainingen worden dus tijdelijk on hold gezet. We bekijken intern nog of en hoe we outdoor trainingen kunnen organiseren voor deze groep.
+De trainingen worden dus tijdelijk on hold gezet. 
+We bekijken intern nog of en hoe we outdoor trainingen kunnen organiseren voor deze groep.
+In tussentijd kan de jeugd steeds deelnemen aan de online trainingen van de hoofdgroep.
 Tijdens de paasvakantie zijn outdoor trainingen op het sportdomein alleen maar toegelaten na 18 uur.
 
 # Wat is de impact op de hoofdgroep ?
