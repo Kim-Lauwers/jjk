@@ -18,7 +18,7 @@ Zoals jullie weten heeft de regering een paaspauze ingelast.
 De gemeente heeft echter strengere regels opgelegd dan de overheid. 
 Wij kunnen de gemeente hier best in volgen omdat het raar is dat we indoor contactsporten mogen doen terwijl de kinderen niet naar school mogen.
 
-Concreet wil dit zeggen dat de gemeente indoor sporten verbied en dit vanaf zaterdag 27/03/2021 en dit tot en met 18/04.
+Concreet wil dit zeggen dat indoor sporten verboden zijn door de gemeente en dit vanaf zaterdag 27/03/2021 en dit tot en met 18/04/2021.
 De gemeente zal de situatie herbekijken vanaf 19/04/2021.
 
 # Wat is de impact op de jeugdgroep (- 13 jaar)?
@@ -32,11 +32,11 @@ Voor deze groep wijzigt voorlopig niets.
 ## + 18 Jaar
 De buitenbubbel is van 10 naar 4 gebracht en er moet verplicht 1,5 meter afstand zijn. Dit betekend dat we momenteel geen trainingen kunnen voorzien.
 
-### Beperking toegang sportcomplex
+# Beperking toegang sportcomplex
 De gemeente vraagt aan iedereen om tijdens de Paaskampen (8u-18u) het sportcomplex niet te betreden.
 
 Wij houden jullie zeker op de hoogte.
 
-Hou zeker onze site en onze kalender in het oog.
+**Hou zeker onze site en onze kalender in het oog.**
 
 Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
