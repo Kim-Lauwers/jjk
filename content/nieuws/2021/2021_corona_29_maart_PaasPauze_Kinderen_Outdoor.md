@@ -28,7 +28,7 @@ Wij hopen / gaan er ook vanuit dat we na de paaspauze gewoon onze indoor trainin
 We hebben hoofdzakelijk voor zaterdag gekozen omdat de gemeente vraagt om tijdens de Paaskampen (8u-18u) het sportcomplex niet te betreden.
 We willen ten alle tijden vermijden dat we in de week met teveel bubbels / volk op de sporthal komen en willen ook niet te laat sporten.
 
-Verder kunnen we nu nog moeilijk inschatten hoe donker het gaat zijn en met -12 jarigen is in het donker op een niet afgesloten terrein (in tegenstelling tot bijvoorbeeld een hockeyveld) niet ideaal.
+Verder kunnen we nu nog moeilijk inschatten hoe donker het gaat zijn en met -12 jarigen is in het donker op een niet afgesloten terrein (in tegenstelling tot bijvoorbeeld een hockeyveld) niet ideaal is.
 
 
 **Hou zeker onze site en onze kalender in het oog.**
