@@ -15,7 +15,7 @@ layout = "kalender"
 |Dinsdag 30 maart 2021|Training voor alle groepen om 19u30 is online|
 |Donderdag 1 april 2021|Geen training voor de **jeugd**groep wegens **PAASPAUZE**|
 |Donderdag 1 april 2021|Training voor alle groepen om 19u30 is online|
-|Zaterdag 3 april 2021|Training voor de 12-18 jarigen. Inschrijven kan je hier binnenkort doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
+|Zaterdag 3 april 2021|Training voor de 12-18 jarigen. Inschrijven kan je [HIER](https://forms.gle/4bZmjYS7J4nd966y5) doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
 |Dinsdag 6 april 2021|Geen training voor de **jeugd**groep wegens **PAASPAUZE**|
 |Dinsdag 6 april 2021|Training voor alle groepen om 19u30 is online|
 |Donderdag 8 april 2021|Geen training voor de **jeugd**groep wegens **PAASPAUZE**|
