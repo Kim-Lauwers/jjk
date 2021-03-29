@@ -19,6 +19,7 @@ Zoals jullie weten heeft de regering een paaspauze ingelast en met de strengere 
 Als club vinden wij het belangrijk om onze jeugd toch zo optimaal mogelijk te laten sporten.
 Daarom zullen we tijdens deze 3 weken op zaterdag met onze jeugd outdoor sporten en dit van 9 tot 10 uur.
 We spreken hiervoor af aan de buiten fitness aan de achterkant van de sporthal. 
+Inschrijven is niet nodig.
 
 Zoals altijd kan je al onze trainingen terugvinden op onze kalender.
 
