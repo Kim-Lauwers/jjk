@@ -24,6 +24,9 @@ Zoals altijd kan je al onze trainingen terugvinden op onze kalender.
 
 Wij hopen / gaan er ook vanuit dat we na de paaspauze gewoon onze indoor trainingen mogen hervatten.
 
+## Online
+Op dinsdag en donderdag hebben we nog steeds de online trainingen voor de hoofdgroep. De jeugd kan deze natuurlijk ook altijd meevolgen :-)
+
 ## Waarom zaterdag
 We hebben hoofdzakelijk voor zaterdag gekozen omdat de gemeente vraagt om tijdens de Paaskampen (8u-18u) het sportcomplex niet te betreden.
 We willen ten alle tijden vermijden dat we in de week met teveel bubbels / volk op de sporthal komen en willen ook niet te laat sporten.
