@@ -14,7 +14,7 @@ detailpageImgUrl = ""
 
 Geacht(e) atleet, lid, (plus-)ouder, sporter…
 
-Sinds 8 mei zijn er ook versoepelingen bij de sport. ([bron](https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/gezondheid-en-preventie-bij-sociaal-contact-tijdens-de-coronacrisis/sport-en-buitenactiviteiten-in-coronatijden)
+Sinds 8 mei zijn er ook versoepelingen bij de sport activiteiten. ([bron](https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/gezondheid-en-preventie-bij-sociaal-contact-tijdens-de-coronacrisis/sport-en-buitenactiviteiten-in-coronatijden))
 
 # +18-jarigen
 Jullie mogen vanaf nu mee outdoor sporten met de hoofdgroep en dit in een groep van maximaal 25 mensen.
