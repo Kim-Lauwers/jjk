@@ -11,9 +11,6 @@ layout = "kalender"
 | ------------------------------------------|:-------------------------------------------------------------------------------------------------|
 | Dinsdag 1 september 2020                  | Eerste training van het nieuwe seizoen                                                           | 
 | 10 en 11 oktober 2020                      | Open Vlaams Kampioenschap te Beveren-Waas (Fighting en Duo) - Onze resultaten: [dag 1](https://www.jujitsukeerbergen.be/nieuws/2020/10/10/open-vlaams-kampioenschap-ju-jitsu-2020---dag-1/) en [dag 2](https://www.jujitsukeerbergen.be/nieuws/2020/10/11/open-vlaams-kampioenschap-ju-jitsu-2020---dag-2/)                                      |
-|Donderdag 6 mei 2021|Training voor de **jeugd**groep indoor van 18u30 tot 19u30|
-|Donderdag 6 mei 2021|Outdoor-Training voor de 12-18 jarigen om 19u30, training is volzet|
-|Zaterdag 8 mei 2021|Outdoor-Training voor de 12-18 jarigen om 10 uur. Inschrijven kan je [hier](https://forms.gle/D3PR96ixxLH3gBML7) binnenkort doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
 |Dinsdag 11 mei 2021|Training voor de **jeugd**groep indoor van 18u tot 19u|
 |Donderdag 13 mei 2021|O.L.H. Hemelvaart - Wettelijke feestdag - **GEEN TRAINING**|
 |Zaterdag 15 mei 2021|Outdoor-Training voor de 12-18 jarigen om 10 uur. Inschrijven kan je hier binnenkort doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
