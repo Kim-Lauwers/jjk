@@ -1,7 +1,7 @@
-+++ 
++++
 title = "Kalender"
-date = 2020-09-28T10:13:39+01:00 
-draft = false 
+date = 2020-09-28T10:13:39+01:00
+draft = false
 layout = "kalender"
 +++
 
@@ -15,4 +15,17 @@ layout = "kalender"
 |Donderdag 27 mei 2021|Training voor de **jeugd**groep indoor van 18u30 tot 19u30|
 |Donderdag 27 mei 2021|Outdoor-Training voor de +12 jarigen om 19u30. Inschrijven kan je [hier](https://forms.gle/Ebkz5AhJS7k4aK686) doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
 |Zaterdag 29 mei 2021|Outdoor-Training voor de +12 jarigen om 10 uur. Inschrijven kan je [hier](https://forms.gle/f8P6aXDaV7GviAHj9) doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
+|Dinsdag 1 juni 2021|Training voor de **jeugd**groep indoor van 18u tot 19u|
+|Donderdag 3 juni 2021|Training voor de **jeugd**groep indoor van 18u30 tot 19u30|
+|Zaterdag 5 juni 2021|Outdoor-Training om 10 uur. Inschrijven kan je hier binnenkort doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
+|Dinsdag 8 juni 2021|Training voor de **jeugd**groep indoor van 18u tot 19u|
+|Donderdag 10 juni 2021|Training voor de **jeugd**groep indoor van 18u30 tot 19u30|
+|Zaterdag 12 juni 2021|Outdoor-Training om 10 uur. Inschrijven kan je hier binnenkort doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
+|Dinsdag 15 juni 2021|Training voor de **jeugd**groep indoor van 18u tot 19u|
+|Donderdag 17 juni 2021|Training voor de **jeugd**groep indoor van 18u30 tot 19u30|
+|Zaterdag 19 juni 2021|Outdoor-Training om 10 uur. Inschrijven kan je hier binnenkort doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
+|Dinsdag 22 juni 2021|Training voor de **jeugd**groep indoor van 18u tot 19u|
+|Donderdag 24 juni 2021|Training voor de **jeugd**groep indoor van 18u30 tot 19u30|
+|Zaterdag 26 juni 2021|Outdoor-Training om 10 uur. Inschrijven kan je hier binnenkort doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
+||Zomerpauze|
 |?? Oktober                                    | Belgisch Kampioenschap (nog te bevestigen door FFJJ)                                             |
