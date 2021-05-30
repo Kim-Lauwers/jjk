@@ -71,3 +71,6 @@ Betaalde lidgelden zijn nooit terugvorderbaar.
 
 ## Sportmedische geschiktheidsonderzoek
 Momenteel is dit enkel verplicht voor leden die aan competitie deelnemen.
+
+## Gedragscode
+Onze gedragscode kan u [hier](https://www.jujitsukeerbergen.be/files/club/Gedragscode.pdf) terugvinden.
