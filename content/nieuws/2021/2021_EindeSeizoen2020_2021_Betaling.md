@@ -5,8 +5,8 @@ draft = false
 description = "Seizoenseinde van 2020-2021"
 categories = []
 author = "Kim Lauwers"
-homepageImgUrl = "images/nieuws/2021/einde2021_thumb.jpg"
-listpageImgUrl = "/images/nieuws/2021/einde2021_thumb.jpg"
+homepageImgUrl = "images/nieuws/2021/einde_2021_thumb.jpg"
+listpageImgUrl = "/images/nieuws/2021/einde_2021_thumb.jpg"
 detailpageImgUrl = "../images/nieuws/2021/einde2021.jpg"
 [menu.global]
     parent = "nieuws"
