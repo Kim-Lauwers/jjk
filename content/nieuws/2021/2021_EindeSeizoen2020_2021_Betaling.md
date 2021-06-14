@@ -58,7 +58,7 @@ De laatste training van het huidige seizoen is op zaterdag 26 juni 2021 voor de 
 Van de overheid mag er vanaf nu indoor gesport worden met de hoofdgroep. Wij hebben echter als club beslist dat we dit niet gaan doen in juni (we gaan wel indoor herstarten in augustus, maar zie hiervoor later in deze communicatie).
 
 We willen als club zorgen dat iedereen zonder zorgen zijn examens kan afronden en op vakantie kan gaan. We willen dus voor maximaal 2 weken geen risico’s nemen. Hopelijk blijven jullie wel massaal naar onze buitentrainingen komen. Als we nu indoor zouden sporten mogen we trouwens ook maar een ZEER beperkt aantal leden toelaten op de mat.
-Zonder contact en in afgebakende zone per sporter: 1 sporter per 10m². Met contact zonder afgebakende zone: 1 sporter per 30m².  [bron](https://www.vechtsportplatform.be/sites/default/files/Toelichting%20richtlijnen%20voor%20vechtsportbeoefening%20vanaf%209%20juni.pdf )
+Zonder contact en in afgebakende zone per sporter: 1 sporter per 10m². Met contact zonder afgebakende zone: 1 sporter per 30m². Zie [bron](https://www.vechtsportplatform.be/sites/default/files/Toelichting%20richtlijnen%20voor%20vechtsportbeoefening%20vanaf%209%20juni.pdf )
 
 # Gedragsregels
 In de club hebben wij gedragsregels voor elke partij. Deze zijn normaal gezien gekend, maar we hebben nu tijd genomen om deze eens allemaal rustig uit te schrijven. We vragen dan ook aan iedereen bij het inschrijven om deze te lezen en ons formulier in te ondertekenen om te bevestigen dat je deze regels gelezen hebt en er mee akkoord gaat. Zoals altijd kan je deze terugvinden op onze [website](https://www.jujitsukeerbergen.be/trainingen/) (onderaan)
