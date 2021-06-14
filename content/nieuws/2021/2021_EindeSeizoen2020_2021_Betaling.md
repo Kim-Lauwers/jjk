@@ -24,30 +24,30 @@ Natuurlijk wil ik ook elk lid bedanken want het is dankzij jullie enthousiasme d
 # Bijscholingen
 Kwaliteit dragen wij hoog in het vaandel in de club en we streven naar voortdurend bijleren. Onze [hoofdtrainers](https://www.jujitsukeerbergen.be/trainers) hebben het VTS A-trainer diploma (het hoogste trainersdiploma) maar onze trainers willen graag nog beter doen. Constant jezelf verbeteren is wat we onze leden aanleren en wat we zelf ook doen. Hierbij wil ik graag een kort overzicht geven van alle bijscholingen die er in dit bizar corona jaar gevolgd zijn:
 
-* Krachttraining bij kinderen
-* Core-stability bij jeugdatleten
-* Het Intermittent Living concept. What doesn't kill you, makes you stronger
-* Waarom balanstraining in iedere training moet zitten
-* Run Daddy Run: vaders & kinderen samen in beweging
-* Dag van de Trainer 2020 - Blessurepreventie in Judo
-* Dag van de Trainer 2020 - Testbatterijen voor talentdetectie in judo
-* Dag van de Trainer 2020 - Waarom balanstraining in iedere training zou moeten aanwezig zijn
-* Dag van de Trainer 2020 - Multi SkillZ: bewegen is winnen!
-* Dag van de Trainer 2020 - Waarom kracht- en HITT training een must is voor jeugdatleten
-* Dag van de Trainer 2020 - Nuchter trainen: een meerwaarde voor de uithoudingssporter?
+* - Krachttraining bij kinderen
+* - Core-stability bij jeugdatleten
+* - Het Intermittent Living concept. What doesn't kill you, makes you stronger
+* - Waarom balanstraining in iedere training moet zitten
+* - Run Daddy Run: vaders & kinderen samen in beweging
+* - Dag van de Trainer 2020 - Blessurepreventie in Judo
+* - Dag van de Trainer 2020 - Testbatterijen voor talentdetectie in judo
+* - Dag van de Trainer 2020 - Waarom balanstraining in iedere training zou moeten aanwezig zijn
+* - Dag van de Trainer 2020 - Multi SkillZ: bewegen is winnen!
+* - Dag van de Trainer 2020 - Waarom kracht- en HITT training een must is voor jeugdatleten
+* - Dag van de Trainer 2020 - Nuchter trainen: een meerwaarde voor de uithoudingssporter?
 
 
 Kim heeft voor zijn functie als vertrouwenspersoon (Club-API) volgende bijscholingen gevolgd:
-* Aan de slag als aanspreekpersoon integriteit in je sport club (Club API) (2021)
-* Sport met Grenzen
+* - Aan de slag als aanspreekpersoon integriteit in je sport club (Club API) (2021)
+* - Sport met Grenzen
 
 
 Vroeger hadden we een sportbeleidsplan, momenteel zijn we aan het werken aan een nieuwe versie en daarom hebben we ook een heropfrissing opleiding gevolgd:
-* Opmaken van een (jeugd)sportbeleidsplan
+* - Opmaken van een (jeugd)sportbeleidsplan
 
 
 Eind augustus zal Kim normaal zijn opleiding Coachen met de M-factor afronden:
-* Coachen met de M-factor: Motiverend en oplossingsgericht coachen
+* - Coachen met de M-factor: Motiverend en oplossingsgericht coachen
 
 # Einde seizoen 2020-2021
 De laatste training van het huidige seizoen is op zaterdag 26 juni 2021 voor de hoofdgroep en op donderdag 24 juni 2021 voor de jeugdgroep.
