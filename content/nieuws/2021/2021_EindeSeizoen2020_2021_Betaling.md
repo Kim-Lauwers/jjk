@@ -38,15 +38,18 @@ Kwaliteit dragen wij hoog in het vaandel in de club en we streven naar voortdure
 
 
 Kim heeft voor zijn functie als vertrouwenspersoon (Club-API) volgende bijscholingen gevolgd:
+
 * - Aan de slag als aanspreekpersoon integriteit in je sport club (Club API) (2021)
 * - Sport met Grenzen
 
 
 Vroeger hadden we een sportbeleidsplan, momenteel zijn we aan het werken aan een nieuwe versie en daarom hebben we ook een heropfrissing opleiding gevolgd:
+
 * - Opmaken van een (jeugd)sportbeleidsplan
 
 
 Eind augustus zal Kim normaal zijn opleiding Coachen met de M-factor afronden:
+
 * - Coachen met de M-factor: Motiverend en oplossingsgericht coachen
 
 # Einde seizoen 2020-2021
