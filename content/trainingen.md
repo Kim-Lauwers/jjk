@@ -7,8 +7,6 @@ layout = "trainingen"
 # Trainingen
 ## Tijdstippen
 
-Vanwege **Corona** zijn de uren tijdelijk aangepast, zie onderaan.
-
 ### Voor de kinderen (van 8 jaar tot en met 12 jaar)
 * Elke dinsdag van 18:00 tot 19:00. 
 * Elke donderdag van 19:00 tot 20:00. Dit is een dynamische training (Jeugd en Volwassenen samen, aparte trainers).
@@ -18,14 +16,6 @@ Vanwege **Corona** zijn de uren tijdelijk aangepast, zie onderaan.
 * Elke dinsdag van 19:00 tot 21:00. 
 * Elke donderdag van 19:00 tot 21:00. Dit is een gezamelijke dynamische training (Jeugd en Volwassenen samen / Enkel het eerste uur) 
 * Elke zaterdag van 10:00 tot 12:00.
-
-
-### BELANGRIJK
-Vanwege **Corona** zijn onze trainingen voor de hoofdgroep momenteel online. De link kan u steeds op onze [kalender](https://www.jujitsukeerbergen.be/kalender) terugvinden.
-Voor de jeugd trainen we enkel op dinsdag en donderdag op volgende uren:
-
-* Elke dinsdag van 18:00 tot 19:00. 
-* Elke donderdag van 18:30 tot 19:30.
 
 ## Locatie
 * Gemeentelijke Sporthal Keerbergen
