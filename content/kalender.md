@@ -13,7 +13,7 @@ layout = "kalender"
 | 10 en 11 oktober 2020                      | Open Vlaams Kampioenschap te Beveren-Waas (Fighting en Duo) - Onze resultaten: [dag 1](https://www.jujitsukeerbergen.be/nieuws/2020/10/10/open-vlaams-kampioenschap-ju-jitsu-2020---dag-1/) en [dag 2](https://www.jujitsukeerbergen.be/nieuws/2020/10/11/open-vlaams-kampioenschap-ju-jitsu-2020---dag-2/)                                      |
 |Dinsdag 22 juni 2021|Training voor de **jeugd**groep indoor van 18u tot 19u|
 |Donderdag 24 juni 2021|Training voor de **jeugd**groep indoor van 18u30 tot 19u30|
-|Zaterdag 26 juni 2021|Outdoor-Training om 10 uur. Inschrijven kan je hier binnenkort doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
+|Zaterdag 26 juni 2021|Outdoor-Training om 10 uur. Inschrijven kan je [hier](https://forms.gle/WsrggXbqhFmqaotx7) doen en [HIER](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) kan u nakijken hoeveel plaats er nog beschikbaar is.|
 ||Zomerpauze|
 |Dinsdag 3 augustus 2021|Gezamelijke training van 19u tot 20u30|
 |Donderdag 5 augustus 2021|Gezamelijke training van 19u tot 20u30|
