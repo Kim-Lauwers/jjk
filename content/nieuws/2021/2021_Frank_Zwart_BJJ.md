@@ -38,4 +38,5 @@ Zeker ook belangrijk te melden is dat Frank deze band onder leiding van [Wim Dep
 Dikke proficiat aan Frank !!
 
 Vanwege,
+
 De trainers, het bestuur
