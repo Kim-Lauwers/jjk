@@ -33,7 +33,7 @@ Een zwarte band in Brazillian Ju-Jitsu is dan ook nog steeds een zeldzaam feit e
 
 Kwaliteit en passie behoren dan ook tot de fundamenten van onze club en Frank is daar zeker een toonbeeld van.
 
-Zeker ook belangrijk te melden is dat Frank deze band onder leiding van [Wim Deputter](https://brasateam.be/wp/about-brasa/wim-deputter/) heeft behaald, die nog steeds één van de meest toonaangevende BJJ'er in België is. 
+Zeker ook belangrijk te melden is dat Frank deze band onder leiding van [Wim Deputter](https://brasateam.be/wp/about-brasa/wim-deputter/) heeft behaald, die nog steeds telt als één van de meest toonaangevende BJJ'er in België is. 
 
 Dikke proficiat aan Frank !!
 
