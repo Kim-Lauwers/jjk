@@ -32,7 +32,7 @@ Technieken kennen is dus niet voldoende, je moet ze ook duidelijk kunnen toepass
 Een zwarte band in Brazillian Ju-Jitsu is dan ook nog steeds een zeldzaam feit en zeker in België.
 
 Kwaliteit en passie behoren dan ook tot de fundamenten van onze club en Frank is daar zeker een toonbeeld van.
-Met Frank hebben we experten (en competitie) kennis in de club over Ju-Jitsu, Brazillian Ju-Jitsu, Thai boxing en Karate
+Met Frank hebben we experten- en competitiekennis in de club over Ju-Jitsu, Brazillian Ju-Jitsu, Thai boxing en Karate
 
 Zeker ook belangrijk te melden is dat Frank deze band onder leiding van [Wim Deputter](https://brasateam.be/wp/about-brasa/wim-deputter/) heeft behaald, die nog steeds telt als één van de meest toonaangevende BJJ'er in België is. 
 
