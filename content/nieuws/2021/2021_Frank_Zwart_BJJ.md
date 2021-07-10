@@ -25,7 +25,7 @@ Na zijn talloze competitie titels zoals onder andere
 * - Vice-Europees kampioen Ju-Jitsu Ne-waza bij de Masters 
 * - meerdere Belgische titels
 
-is dit een nieuwe mijlpaal in zijn prachtige vechtsport carrière. En we weten ongetwijfeld dat niet zijn laatste mijlpaal gaat zijn.
+is dit een nieuwe mijlpaal in zijn prachtige vechtsport carrière. En we weten ongetwijfeld dat dit niet zijn laatste mijlpaal gaat zijn.
 
 Een zwarte band behaal je ook niet zomaar bij Brazillian Ju-Jitsu, hiervoor moet je heel consistent presteren en consitent van zwarte banden kunnen winnen.
 Technieken kennen is dus niet voldoende, je moet ze ook duidelijk kunnen toepassen in echte situaties.
