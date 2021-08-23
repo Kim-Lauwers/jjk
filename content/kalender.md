@@ -9,16 +9,35 @@ layout = "kalender"
 
 | Datum                                     | Activiteit                                                                                       |
 | ------------------------------------------|:-------------------------------------------------------------------------------------------------|
-| Dinsdag 1 september 2020                  | Eerste training van het nieuwe seizoen                                                           | 
-| 10 en 11 oktober 2020                      | Open Vlaams Kampioenschap te Beveren-Waas (Fighting en Duo) - Onze resultaten: [dag 1](https://www.jujitsukeerbergen.be/nieuws/2020/10/10/open-vlaams-kampioenschap-ju-jitsu-2020---dag-1/) en [dag 2](https://www.jujitsukeerbergen.be/nieuws/2020/10/11/open-vlaams-kampioenschap-ju-jitsu-2020---dag-2/)                                      |
-||Zomerpauze|
-|Dinsdag 3 augustus 2021|Gezamelijke training van 19u tot 20u30|
-|Donderdag 5 augustus 2021|Gezamelijke training van 19u tot 20u30|
-|Dinsdag 10 augustus 2021|Gezamelijke training van 19u tot 20u30|
-|Donderdag 12 augustus 2021|Gezamelijke training van 19u tot 20u30|
-|Dinsdag 17 augustus 2021|Gezamelijke training van 19u tot 20u30|
-|Donderdag 19 augustus 2021|Gezamelijke training van 19u tot 20u30|
 |Dinsdag 24 augustus 2021|Gezamelijke training van 19u tot 20u30|
 |Donderdag 26 augustus 2021|Gezamelijke training van 19u tot 20u30|
 |Dinsdag 31 augustus 2021|Gezamelijke training van 19u tot 20u30|
-|?? Oktober                                    | Belgisch Kampioenschap (nog te bevestigen door FFJJ)                                             |
+|Donderdag 2 september 2021 |Jeugdtraining van 19u tot 20u|
+|Donderdag 2 september 2021 |Hoofdtraining van 19u tot 21u|
+|Zaterdag 4 september 2021  |Jeugdtraining van 9u tot 10u|
+|Zaterdag 4 september 2021  |Hoofdtraining van 10u tot 12u|
+|Dinsdag 7 september 2021   |Jeugdtraining van 18u tot 19u|
+|Dinsdag 7 september 2021   |Hoofdtraining van 19u tot 21u|
+|Donderdag 9 september 2021 |Jeugdtraining van 19u tot 20u|
+|Donderdag 9 september 2021 |Hoofdtraining van 19u tot 21u|
+|Zaterdag 11 september 2021  |Jeugdtraining van 9u tot 10u|
+|Zaterdag 11 september 2021  |Hoofdtraining van 10u tot 12u|
+|Dinsdag 14 september 2021   |Jeugdtraining van 18u tot 19u|
+|Dinsdag 14 september 2021   |Hoofdtraining van 19u tot 21u|
+|Donderdag 16 september 2021 |Jeugdtraining van 19u tot 20u|
+|Donderdag 16 september 2021 |Hoofdtraining van 19u tot 21u|
+|Zaterdag 18 september 2021  |Jeugdtraining van 9u tot 10u|
+|Zaterdag 18 september 2021  |Hoofdtraining van 10u tot 12u|
+|Dinsdag 21 september 2021   |Jeugdtraining van 18u tot 19u|
+|Dinsdag 21 september 2021   |Hoofdtraining van 19u tot 21u|
+|Donderdag 23 september 2021 |Jeugdtraining van 19u tot 20u|
+|Donderdag 23 september 2021 |Hoofdtraining van 19u tot 21u|
+|Zaterdag 25 september 2021  | **GEEN TRAINING** - Sporthal gesloten vanwege WK-wielrennen|
+|Dinsdag 28 september 2021   |Jeugdtraining van 18u tot 19u|
+|Dinsdag 28 september 2021   |Hoofdtraining van 19u tot 21u|
+|Donderdag 30 september 2021 |Jeugdtraining van 19u tot 20u|
+|Donderdag 30 september 2021 |Hoofdtraining van 19u tot 21u|
+|?? Oktober 2021                                   | Belgisch Kampioenschap (nog te bevestigen door FFJJ)                                             |
+|Zaterdag 27 november 2021 |Open Vlaams Kampioenschap|
+|Zaterdag 19 februari 2022 |Belgisch Kampioenschap|
+|Zaterdag 12 maart 2022 |Antwerps Open Kampioenschap|
