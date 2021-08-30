@@ -9,8 +9,6 @@ layout = "kalender"
 
 | Datum                                     | Activiteit                                                                                       |
 | ------------------------------------------|:-------------------------------------------------------------------------------------------------|
-|Dinsdag 24 augustus 2021|Gezamelijke training van 19u tot 20u30|
-|Donderdag 26 augustus 2021|Gezamelijke training van 19u tot 20u30|
 |Dinsdag 31 augustus 2021|Gezamelijke training van 19u tot 20u30|
 |Donderdag 2 september 2021 |Jeugdtraining van 19u tot 20u|
 |Donderdag 2 september 2021 |Hoofdtraining van 19u tot 21u|
