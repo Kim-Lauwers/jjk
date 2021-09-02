@@ -29,9 +29,8 @@ Zie ook: [trainingen](/trainingen).
 ## Vertrouwenspersoon (Club - API)
 * Kim Lauwers (Mannelijk)
 * E-mail: [api-mannelijk [AT] jujitsukeerbergen.be](mailto:api-mannelijk@jujitsukeerbergen.be)
-
 * Tais Verbond (Vrouwelijk)
-* E-mail: [api-vrouwelijk [AT] jujitsukeerbergen.be](mailto:api-vrouwelijk@jujitsukeerbergen.be )
+* E-mail: [api-vrouwelijk [AT] jujitsukeerbergen.be](mailto:api-vrouwelijk@jujitsukeerbergen.be)
 
 ## Federatie
 * Aangesloten bij [Vlaamse Ju-Jitsu Federatie](http://vjjf.be)
