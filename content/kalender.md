@@ -9,8 +9,6 @@ layout = "kalender"
 
 | Datum                                     | Activiteit                                                                                       |
 | ------------------------------------------|:-------------------------------------------------------------------------------------------------|
-|Donderdag 2 september 2021 |Jeugdtraining van 19u tot 20u|
-|Donderdag 2 september 2021 |Hoofdtraining van 19u tot 21u|
 |Zaterdag 4 september 2021  |Jeugdtraining van 9u tot 10u|
 |Zaterdag 4 september 2021  |No-Gi van 10u tot 12u|
 |Dinsdag 7 september 2021   |Jeugdtraining van 18u tot 19u|
