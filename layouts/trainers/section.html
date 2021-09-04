@@ -2,15 +2,23 @@
 Onze ervaren, gediplomeerde, gepassioneerde en enthousiaste trainers leren je op een verantwoorde wijze de Ju Jitsu technieken aan.
 Verder wordt {{ .Site.Title }} geleid door een gedreven en geëngageerd bestuur.
 
-<h1>Onze trainers</h1>
+<h1>Onze trainers en assistenten</h1>
 Klik op de naam van één van onze trainers om meer informatie te zien. Je zal merken hoe gepassioneerd onze trainers zijn en hoe goed je begeleid zal worden.
     <ul>
-{{ range $.Site.Data.trainers }}
+{{ range sort $.Site.Data.trainers "weight" }}
+        <li><a href="#{{ .firstname }}_{{ .familyname }}">{{ .firstname }} {{ .familyname }}</a></li>
+{{ end }}
+
+{{ range sort $.Site.Data.assistent "weight" }}
         <li><a href="#{{ .firstname }}_{{ .familyname }}">{{ .firstname }} {{ .familyname }}</a></li>
 {{ end }}
     </ul>
 
-{{ range $.Site.Data.trainers }}
+{{ range sort $.Site.Data.trainers "weight" }}
+    {{ partial "trainer.html" . }}
+{{ end }}
+
+{{ range sort $.Site.Data.assistent "weight" }}
     {{ partial "trainer.html" . }}
 {{ end }}
 

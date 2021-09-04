@@ -1,0 +1,16 @@
+firstname = "Tais"
+familyname = "Verbond"
+danGraden = [
+            "3de Kyu Ju-Jitsu"
+            ]
+startJuJitsu = "April 2017"
+functionsclub = [
+            "Assistent bij de kindergroep",
+            "Vertrouwenspersoon"
+            ]
+extraKwalificaties = [
+            "Ex-competitie turnster Demo en Tumbling"
+            ]
+mail = "tais@jujitsukeerbergen.be"
+imageSrc = "/images/assistent/TaisVerbond.jpg"
+weight = "1"

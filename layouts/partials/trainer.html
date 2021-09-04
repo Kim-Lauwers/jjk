@@ -43,6 +43,15 @@
     </ul>
     {{ end }}
 
+    {{ if .extraKwalificaties }}
+    <h3>Extra kwalificaties:</h3>
+    <ul>
+        {{ range .extraKwalificaties }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+    {{ end }}
+
     {{ if .palmares }}
     <h3>Samenvatting van behaalde competitie resultaten:</h3>
     <ul>
