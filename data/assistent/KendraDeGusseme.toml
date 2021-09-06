@@ -1,0 +1,15 @@
+firstname = "Kendra"
+familyname = "De Gussemé"
+danGraden = [
+    "2de Kyu Ju-Jitsu"
+]
+startJuJitsu = "2012"
+functionsclub = [
+    "Assistent bij de kindergroep"
+]
+extraKwalificaties = [
+    "Afgestudeerd in Sportwetenschappen"
+]
+mail = "kendra@jujitsukeerbergen.be"
+imageSrc = "/images/assistent/KendraDeGusseme.jpg"
+weight = "2"

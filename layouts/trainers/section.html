@@ -14,10 +14,12 @@ Klik op de naam van één van onze trainers om meer informatie te zien. Je zal m
 {{ end }}
     </ul>
 
+<h2>Onze trainers</h2>
 {{ range sort $.Site.Data.trainers "weight" }}
     {{ partial "trainer.html" . }}
 {{ end }}
 
+<h2>Onze Assistenten</h2>
 {{ range sort $.Site.Data.assistent "weight" }}
     {{ partial "trainer.html" . }}
 {{ end }}
