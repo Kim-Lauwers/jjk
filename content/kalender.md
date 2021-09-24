@@ -9,16 +9,6 @@ layout = "kalender"
 
 | Datum                                     | Activiteit                                                                                       |
 | ------------------------------------------|:-------------------------------------------------------------------------------------------------|
-|Dinsdag 14 september 2021   |Jeugdtraining van 18u tot 19u|
-|Dinsdag 14 september 2021   |Hoofdtraining van 19u tot 21u|
-|Donderdag 16 september 2021 |Jeugdtraining van 19u tot 20u|
-|Donderdag 16 september 2021 |Hoofdtraining van 19u tot 21u|
-|Zaterdag 18 september 2021  |Jeugdtraining van 9u tot 10u|
-|Zaterdag 18 september 2021  |No-Gi van 10u tot 12u|
-|Dinsdag 21 september 2021   |Jeugdtraining van 18u tot 19u|
-|Dinsdag 21 september 2021   |Hoofdtraining van 19u tot 21u|
-|Donderdag 23 september 2021 |Jeugdtraining van 19u tot 20u|
-|Donderdag 23 september 2021 |Hoofdtraining van 19u tot 21u|
 |Zaterdag 25 september 2021  | **GEEN TRAINING** - Sporthal gesloten vanwege WK-wielrennen|
 |Dinsdag 28 september 2021   |Jeugdtraining van 18u tot 19u|
 |Dinsdag 28 september 2021   |Hoofdtraining van 19u tot 21u|
