@@ -17,7 +17,7 @@ parent = "nieuws"
 
 Geacht(e) atleet, lid, (plus-)ouder, sporter…
 
-**Ju-Jitsu Keerbergen VZW wordt Invicto Keerbergen VZW**
+**Ju-Jitsu Keerbergen VZW wordt Invicto Keerbergen VZW** \
 Bezoekt onze nieuwe website: [https://www.invictokeerbergen.be](https://www.invictokeerbergen.be/)
 
 Morgen (Zaterdag 2 oktober) is de eerste training van Invicto Keerbergen laten we even kort de dag overlopen zodat je kan zien wat er wijzigt voor u :-)
